@@ -1,0 +1,4920 @@
+14:
+  f0_max: 420
+  f0_min: 100
+  num_utt: 156
+16:
+  f0_max: 520
+  f0_min: 100
+  num_utt: 269
+17:
+  f0_max: 160
+  f0_min: 40
+  num_utt: 23
+19:
+  f0_max: 400
+  f0_min: 90
+  num_utt: 16
+22:
+  f0_max: 350
+  f0_min: 100
+  num_utt: 76
+26:
+  f0_max: 310
+  f0_min: 60
+  num_utt: 62
+27:
+  f0_max: 300
+  f0_min: 60
+  num_utt: 83
+28:
+  f0_max: 350
+  f0_min: 70
+  num_utt: 326
+30:
+  f0_max: 440
+  f0_min: 160
+  num_utt: 117
+32:
+  f0_max: 460
+  f0_min: 90
+  num_utt: 127
+38:
+  f0_max: 250
+  f0_min: 50
+  num_utt: 12
+39:
+  f0_max: 360
+  f0_min: 120
+  num_utt: 31
+40:
+  f0_max: 490
+  f0_min: 120
+  num_utt: 343
+54:
+  f0_max: 400
+  f0_min: 100
+  num_utt: 217
+55:
+  f0_max: 300
+  f0_min: 70
+  num_utt: 10
+56:
+  f0_max: 400
+  f0_min: 120
+  num_utt: 212
+60:
+  f0_max: 200
+  f0_min: 40
+  num_utt: 117
+61:
+  f0_max: 150
+  f0_min: 50
+  num_utt: 1
+64:
+  f0_max: 440
+  f0_min: 90
+  num_utt: 315
+70:
+  f0_max: 270
+  f0_min: 80
+  num_utt: 106
+78:
+  f0_max: 200
+  f0_min: 50
+  num_utt: 249
+79:
+  f0_max: 380
+  f0_min: 70
+  num_utt: 164
+81:
+  f0_max: 260
+  f0_min: 80
+  num_utt: 26
+83:
+  f0_max: 550
+  f0_min: 100
+  num_utt: 192
+84:
+  f0_max: 400
+  f0_min: 100
+  num_utt: 233
+87:
+  f0_max: 400
+  f0_min: 100
+  num_utt: 146
+89:
+  f0_max: 400
+  f0_min: 80
+  num_utt: 22
+90:
+  f0_max: 300
+  f0_min: 60
+  num_utt: 16
+93:
+  f0_max: 500
+  f0_min: 110
+  num_utt: 249
+98:
+  f0_max: 450
+  f0_min: 110
+  num_utt: 154
+100:
+  f0_max: 500
+  f0_min: 150
+  num_utt: 264
+101:
+  f0_max: 300
+  f0_min: 60
+  num_utt: 141
+103:
+  f0_max: 400
+  f0_min: 110
+  num_utt: 66
+112:
+  f0_max: 400
+  f0_min: 110
+  num_utt: 98
+114:
+  f0_max: 400
+  f0_min: 150
+  num_utt: 232
+115:
+  f0_max: 400
+  f0_min: 130
+  num_utt: 56
+118:
+  f0_max: 300
+  f0_min: 50
+  num_utt: 223
+119:
+  f0_max: 300
+  f0_min: 50
+  num_utt: 77
+121:
+  f0_max: 370
+  f0_min: 100
+  num_utt: 105
+122:
+  f0_max: 300
+  f0_min: 80
+  num_utt: 27
+125:
+  f0_max: 450
+  f0_min: 100
+  num_utt: 134
+126:
+  f0_max: 500
+  f0_min: 90
+  num_utt: 210
+150:
+  f0_max: 500
+  f0_min: 90
+  num_utt: 34
+154:
+  f0_max: 300
+  f0_min: 50
+  num_utt: 5
+157:
+  f0_max: 250
+  f0_min: 50
+  num_utt: 2
+159:
+  f0_max: 300
+  f0_min: 70
+  num_utt: 59
+163:
+  f0_max: 260
+  f0_min: 80
+  num_utt: 2
+166:
+  f0_max: 500
+  f0_min: 100
+  num_utt: 92
+174:
+  f0_max: 330
+  f0_min: 80
+  num_utt: 150
+175:
+  f0_max: 420
+  f0_min: 150
+  num_utt: 142
+176:
+  f0_max: 280
+  f0_min: 80
+  num_utt: 330
+188:
+  f0_max: 500
+  f0_min: 100
+  num_utt: 175
+192:
+  f0_max: 350
+  f0_min: 100
+  num_utt: 233
+196:
+  f0_max: 330
+  f0_min: 50
+  num_utt: 185
+198:
+  f0_max: 500
+  f0_min: 120
+  num_utt: 31
+200:
+  f0_max: 500
+  f0_min: 100
+  num_utt: 191
+201:
+  f0_max: 250
+  f0_min: 50
+  num_utt: 72
+203:
+  f0_max: 400
+  f0_min: 70
+  num_utt: 230
+204:
+  f0_max: 280
+  f0_min: 50
+  num_utt: 99
+205:
+  f0_max: 400
+  f0_min: 90
+  num_utt: 129
+207:
+  f0_max: 280
+  f0_min: 50
+  num_utt: 229
+208:
+  f0_max: 420
+  f0_min: 90
+  num_utt: 37
+209:
+  f0_max: 400
+  f0_min: 80
+  num_utt: 170
+210:
+  f0_max: 210
+  f0_min: 45
+  num_utt: 11
+211:
+  f0_max: 390
+  f0_min: 160
+  num_utt: 70
+216:
+  f0_max: 280
+  f0_min: 70
+  num_utt: 37
+217:
+  f0_max: 500
+  f0_min: 120
+  num_utt: 14
+224:
+  f0_max: 380
+  f0_min: 140
+  num_utt: 170
+225:
+  f0_max: 340
+  f0_min: 50
+  num_utt: 144
+226:
+  f0_max: 380
+  f0_min: 160
+  num_utt: 56
+227:
+  f0_max: 520
+  f0_min: 100
+  num_utt: 116
+229:
+  f0_max: 350
+  f0_min: 70
+  num_utt: 114
+231:
+  f0_max: 400
+  f0_min: 80
+  num_utt: 179
+233:
+  f0_max: 340
+  f0_min: 50
+  num_utt: 86
+237:
+  f0_max: 500
+  f0_min: 70
+  num_utt: 279
+240:
+  f0_max: 300
+  f0_min: 80
+  num_utt: 61
+242:
+  f0_max: 420
+  f0_min: 110
+  num_utt: 242
+246:
+  f0_max: 400
+  f0_min: 100
+  num_utt: 96
+248:
+  f0_max: 350
+  f0_min: 120
+  num_utt: 5
+249:
+  f0_max: 180
+  f0_min: 50
+  num_utt: 150
+250:
+  f0_max: 430
+  f0_min: 80
+  num_utt: 195
+251:
+  f0_max: 310
+  f0_min: 50
+  num_utt: 248
+254:
+  f0_max: 360
+  f0_min: 80
+  num_utt: 81
+258:
+  f0_max: 250
+  f0_min: 50
+  num_utt: 169
+260:
+  f0_max: 350
+  f0_min: 70
+  num_utt: 220
+272:
+  f0_max: 300
+  f0_min: 80
+  num_utt: 168
+274:
+  f0_max: 400
+  f0_min: 90
+  num_utt: 193
+278:
+  f0_max: 500
+  f0_min: 100
+  num_utt: 65
+288:
+  f0_max: 320
+  f0_min: 100
+  num_utt: 217
+289:
+  f0_max: 280
+  f0_min: 110
+  num_utt: 4
+296:
+  f0_max: 280
+  f0_min: 50
+  num_utt: 90
+298:
+  f0_max: 450
+  f0_min: 90
+  num_utt: 85
+302:
+  f0_max: 400
+  f0_min: 100
+  num_utt: 68
+303:
+  f0_max: 280
+  f0_min: 50
+  num_utt: 103
+307:
+  f0_max: 370
+  f0_min: 70
+  num_utt: 20
+311:
+  f0_max: 270
+  f0_min: 50
+  num_utt: 6
+318:
+  f0_max: 440
+  f0_min: 80
+  num_utt: 372
+322:
+  f0_max: 480
+  f0_min: 90
+  num_utt: 18
+323:
+  f0_max: 500
+  f0_min: 100
+  num_utt: 26
+329:
+  f0_max: 330
+  f0_min: 50
+  num_utt: 109
+332:
+  f0_max: 300
+  f0_min: 50
+  num_utt: 10
+335:
+  f0_max: 350
+  f0_min: 50
+  num_utt: 242
+337:
+  f0_max: 500
+  f0_min: 100
+  num_utt: 105
+339:
+  f0_max: 400
+  f0_min: 80
+  num_utt: 328
+340:
+  f0_max: 360
+  f0_min: 90
+  num_utt: 59
+345:
+  f0_max: 310
+  f0_min: 50
+  num_utt: 88
+353:
+  f0_max: 300
+  f0_min: 50
+  num_utt: 130
+359:
+  f0_max: 300
+  f0_min: 70
+  num_utt: 110
+362:
+  f0_max: 500
+  f0_min: 90
+  num_utt: 13
+369:
+  f0_max: 330
+  f0_min: 50
+  num_utt: 239
+373:
+  f0_max: 440
+  f0_min: 110
+  num_utt: 84
+374:
+  f0_max: 300
+  f0_min: 50
+  num_utt: 169
+380:
+  f0_max: 400
+  f0_min: 60
+  num_utt: 68
+398:
+  f0_max: 250
+  f0_min: 50
+  num_utt: 98
+403:
+  f0_max: 500
+  f0_min: 100
+  num_utt: 42
+405:
+  f0_max: 250
+  f0_min: 50
+  num_utt: 229
+408:
+  f0_max: 480
+  f0_min: 150
+  num_utt: 5
+409:
+  f0_max: 330
+  f0_min: 50
+  num_utt: 94
+412:
+  f0_max: 260
+  f0_min: 50
+  num_utt: 235
+422:
+  f0_max: 260
+  f0_min: 80
+  num_utt: 3
+426:
+  f0_max: 400
+  f0_min: 100
+  num_utt: 72
+434:
+  f0_max: 280
+  f0_min: 130
+  num_utt: 1
+439:
+  f0_max: 300
+  f0_min: 50
+  num_utt: 45
+446:
+  f0_max: 280
+  f0_min: 50
+  num_utt: 108
+451:
+  f0_max: 600
+  f0_min: 100
+  num_utt: 88
+454:
+  f0_max: 280
+  f0_min: 50
+  num_utt: 74
+458:
+  f0_max: 340
+  f0_min: 50
+  num_utt: 22
+459:
+  f0_max: 380
+  f0_min: 80
+  num_utt: 233
+460:
+  f0_max: 300
+  f0_min: 50
+  num_utt: 233
+472:
+  f0_max: 600
+  f0_min: 90
+  num_utt: 10
+475:
+  f0_max: 400
+  f0_min: 80
+  num_utt: 56
+476:
+  f0_max: 250
+  f0_min: 50
+  num_utt: 100
+479:
+  f0_max: 550
+  f0_min: 100
+  num_utt: 142
+480:
+  f0_max: 400
+  f0_min: 80
+  num_utt: 142
+481:
+  f0_max: 310
+  f0_min: 50
+  num_utt: 13
+487:
+  f0_max: 250
+  f0_min: 90
+  num_utt: 2
+492:
+  f0_max: 310
+  f0_min: 50
+  num_utt: 37
+497:
+  f0_max: 300
+  f0_min: 80
+  num_utt: 117
+500:
+  f0_max: 300
+  f0_min: 55
+  num_utt: 157
+501:
+  f0_max: 270
+  f0_min: 50
+  num_utt: 286
+510:
+  f0_max: 200
+  f0_min: 75
+  num_utt: 198
+511:
+  f0_max: 360
+  f0_min: 80
+  num_utt: 160
+512:
+  f0_max: 250
+  f0_min: 75
+  num_utt: 191
+534:
+  f0_max: 420
+  f0_min: 100
+  num_utt: 278
+543:
+  f0_max: 310
+  f0_min: 50
+  num_utt: 25
+548:
+  f0_max: 260
+  f0_min: 50
+  num_utt: 64
+549:
+  f0_max: 500
+  f0_min: 90
+  num_utt: 20
+559:
+  f0_max: 350
+  f0_min: 50
+  num_utt: 22
+561:
+  f0_max: 320
+  f0_min: 50
+  num_utt: 106
+576:
+  f0_max: 400
+  f0_min: 90
+  num_utt: 122
+580:
+  f0_max: 220
+  f0_min: 50
+  num_utt: 83
+581:
+  f0_max: 270
+  f0_min: 80
+  num_utt: 32
+583:
+  f0_max: 300
+  f0_min: 50
+  num_utt: 4
+587:
+  f0_max: 500
+  f0_min: 110
+  num_utt: 94
+589:
+  f0_max: 500
+  f0_min: 160
+  num_utt: 122
+593:
+  f0_max: 300
+  f0_min: 75
+  num_utt: 40
+594:
+  f0_max: 280
+  f0_min: 40
+  num_utt: 87
+596:
+  f0_max: 400
+  f0_min: 90
+  num_utt: 33
+597:
+  f0_max: 420
+  f0_min: 90
+  num_utt: 136
+598:
+  f0_max: 400
+  f0_min: 100
+  num_utt: 70
+606:
+  f0_max: 330
+  f0_min: 50
+  num_utt: 29
+612:
+  f0_max: 390
+  f0_min: 110
+  num_utt: 87
+625:
+  f0_max: 270
+  f0_min: 50
+  num_utt: 8
+636:
+  f0_max: 400
+  f0_min: 90
+  num_utt: 19
+637:
+  f0_max: 260
+  f0_min: 50
+  num_utt: 108
+639:
+  f0_max: 270
+  f0_min: 50
+  num_utt: 70
+652:
+  f0_max: 200
+  f0_min: 50
+  num_utt: 10
+663:
+  f0_max: 200
+  f0_min: 50
+  num_utt: 12
+664:
+  f0_max: 530
+  f0_min: 100
+  num_utt: 102
+666:
+  f0_max: 400
+  f0_min: 100
+  num_utt: 146
+667:
+  f0_max: 420
+  f0_min: 100
+  num_utt: 185
+669:
+  f0_max: 400
+  f0_min: 100
+  num_utt: 194
+672:
+  f0_max: 400
+  f0_min: 60
+  num_utt: 9
+688:
+  f0_max: 340
+  f0_min: 80
+  num_utt: 216
+696:
+  f0_max: 360
+  f0_min: 80
+  num_utt: 254
+698:
+  f0_max: 440
+  f0_min: 110
+  num_utt: 80
+699:
+  f0_max: 440
+  f0_min: 80
+  num_utt: 155
+707:
+  f0_max: 280
+  f0_min: 50
+  num_utt: 102
+708:
+  f0_max: 270
+  f0_min: 50
+  num_utt: 23
+711:
+  f0_max: 260
+  f0_min: 50
+  num_utt: 35
+716:
+  f0_max: 250
+  f0_min: 50
+  num_utt: 127
+718:
+  f0_max: 300
+  f0_min: 75
+  num_utt: 184
+724:
+  f0_max: 400
+  f0_min: 80
+  num_utt: 207
+730:
+  f0_max: 350
+  f0_min: 100
+  num_utt: 80
+731:
+  f0_max: 440
+  f0_min: 100
+  num_utt: 138
+764:
+  f0_max: 350
+  f0_min: 50
+  num_utt: 112
+770:
+  f0_max: 320
+  f0_min: 80
+  num_utt: 134
+777:
+  f0_max: 300
+  f0_min: 75
+  num_utt: 20
+781:
+  f0_max: 340
+  f0_min: 80
+  num_utt: 199
+783:
+  f0_max: 440
+  f0_min: 100
+  num_utt: 51
+803:
+  f0_max: 200
+  f0_min: 60
+  num_utt: 9
+806:
+  f0_max: 280
+  f0_min: 50
+  num_utt: 152
+815:
+  f0_max: 250
+  f0_min: 40
+  num_utt: 26
+816:
+  f0_max: 210
+  f0_min: 50
+  num_utt: 270
+820:
+  f0_max: 200
+  f0_min: 80
+  num_utt: 1
+829:
+  f0_max: 510
+  f0_min: 140
+  num_utt: 34
+830:
+  f0_max: 420
+  f0_min: 80
+  num_utt: 3
+831:
+  f0_max: 300
+  f0_min: 50
+  num_utt: 233
+835:
+  f0_max: 320
+  f0_min: 80
+  num_utt: 160
+836:
+  f0_max: 260
+  f0_min: 50
+  num_utt: 83
+839:
+  f0_max: 320
+  f0_min: 80
+  num_utt: 62
+850:
+  f0_max: 310
+  f0_min: 50
+  num_utt: 77
+868:
+  f0_max: 240
+  f0_min: 50
+  num_utt: 94
+882:
+  f0_max: 400
+  f0_min: 100
+  num_utt: 153
+887:
+  f0_max: 450
+  f0_min: 100
+  num_utt: 213
+899:
+  f0_max: 300
+  f0_min: 80
+  num_utt: 152
+908:
+  f0_max: 280
+  f0_min: 75
+  num_utt: 30
+909:
+  f0_max: 240
+  f0_min: 50
+  num_utt: 58
+911:
+  f0_max: 260
+  f0_min: 50
+  num_utt: 75
+920:
+  f0_max: 400
+  f0_min: 90
+  num_utt: 161
+922:
+  f0_max: 240
+  f0_min: 50
+  num_utt: 397
+925:
+  f0_max: 400
+  f0_min: 90
+  num_utt: 81
+948:
+  f0_max: 420
+  f0_min: 90
+  num_utt: 129
+949:
+  f0_max: 230
+  f0_min: 75
+  num_utt: 81
+953:
+  f0_max: 300
+  f0_min: 50
+  num_utt: 131
+954:
+  f0_max: 320
+  f0_min: 80
+  num_utt: 41
+957:
+  f0_max: 250
+  f0_min: 50
+  num_utt: 28
+968:
+  f0_max: 450
+  f0_min: 140
+  num_utt: 158
+979:
+  f0_max: 440
+  f0_min: 100
+  num_utt: 36
+984:
+  f0_max: 330
+  f0_min: 75
+  num_utt: 90
+986:
+  f0_max: 310
+  f0_min: 60
+  num_utt: 18
+1001:
+  f0_max: 240
+  f0_min: 50
+  num_utt: 1
+1012:
+  f0_max: 500
+  f0_min: 120
+  num_utt: 119
+1018:
+  f0_max: 300
+  f0_min: 80
+  num_utt: 182
+1025:
+  f0_max: 230
+  f0_min: 70
+  num_utt: 136
+1027:
+  f0_max: 310
+  f0_min: 50
+  num_utt: 282
+1028:
+  f0_max: 260
+  f0_min: 50
+  num_utt: 113
+1034:
+  f0_max: 320
+  f0_min: 50
+  num_utt: 30
+1040:
+  f0_max: 360
+  f0_min: 80
+  num_utt: 134
+1046:
+  f0_max: 280
+  f0_min: 50
+  num_utt: 124
+1050:
+  f0_max: 510
+  f0_min: 100
+  num_utt: 134
+1052:
+  f0_max: 480
+  f0_min: 100
+  num_utt: 98
+1053:
+  f0_max: 400
+  f0_min: 100
+  num_utt: 94
+1054:
+  f0_max: 420
+  f0_min: 100
+  num_utt: 214
+1058:
+  f0_max: 240
+  f0_min: 60
+  num_utt: 1
+1060:
+  f0_max: 450
+  f0_min: 90
+  num_utt: 74
+1061:
+  f0_max: 500
+  f0_min: 100
+  num_utt: 38
+1066:
+  f0_max: 450
+  f0_min: 90
+  num_utt: 115
+1069:
+  f0_max: 450
+  f0_min: 90
+  num_utt: 112
+1079:
+  f0_max: 420
+  f0_min: 60
+  num_utt: 176
+1081:
+  f0_max: 290
+  f0_min: 70
+  num_utt: 8
+1088:
+  f0_max: 480
+  f0_min: 100
+  num_utt: 361
+1089:
+  f0_max: 300
+  f0_min: 50
+  num_utt: 190
+1093:
+  f0_max: 420
+  f0_min: 90
+  num_utt: 220
+1098:
+  f0_max: 420
+  f0_min: 80
+  num_utt: 121
+1100:
+  f0_max: 450
+  f0_min: 140
+  num_utt: 27
+1112:
+  f0_max: 300
+  f0_min: 50
+  num_utt: 128
+1116:
+  f0_max: 400
+  f0_min: 85
+  num_utt: 236
+1121:
+  f0_max: 290
+  f0_min: 40
+  num_utt: 122
+1160:
+  f0_max: 220
+  f0_min: 40
+  num_utt: 50
+1165:
+  f0_max: 300
+  f0_min: 40
+  num_utt: 192
+1175:
+  f0_max: 150
+  f0_min: 40
+  num_utt: 1
+1182:
+  f0_max: 300
+  f0_min: 50
+  num_utt: 19
+1183:
+  f0_max: 550
+  f0_min: 100
+  num_utt: 193
+1188:
+  f0_max: 220
+  f0_min: 50
+  num_utt: 48
+1195:
+  f0_max: 400
+  f0_min: 100
+  num_utt: 174
+1212:
+  f0_max: 400
+  f0_min: 100
+  num_utt: 91
+1221:
+  f0_max: 350
+  f0_min: 100
+  num_utt: 7
+1222:
+  f0_max: 290
+  f0_min: 40
+  num_utt: 79
+1224:
+  f0_max: 390
+  f0_min: 100
+  num_utt: 29
+1226:
+  f0_max: 250
+  f0_min: 50
+  num_utt: 139
+1235:
+  f0_max: 350
+  f0_min: 50
+  num_utt: 34
+1241:
+  f0_max: 330
+  f0_min: 50
+  num_utt: 92
+1246:
+  f0_max: 400
+  f0_min: 90
+  num_utt: 167
+1259:
+  f0_max: 300
+  f0_min: 40
+  num_utt: 91
+1263:
+  f0_max: 400
+  f0_min: 45
+  num_utt: 221
+1264:
+  f0_max: 300
+  f0_min: 40
+  num_utt: 99
+1265:
+  f0_max: 250
+  f0_min: 70
+  num_utt: 265
+1271:
+  f0_max: 230
+  f0_min: 40
+  num_utt: 152
+1272:
+  f0_max: 270
+  f0_min: 50
+  num_utt: 109
+1283:
+  f0_max: 290
+  f0_min: 50
+  num_utt: 237
+1284:
+  f0_max: 430
+  f0_min: 100
+  num_utt: 80
+1289:
+  f0_max: 280
+  f0_min: 100
+  num_utt: 160
+1290:
+  f0_max: 380
+  f0_min: 100
+  num_utt: 6
+1296:
+  f0_max: 500
+  f0_min: 100
+  num_utt: 3
+1311:
+  f0_max: 270
+  f0_min: 50
+  num_utt: 43
+1313:
+  f0_max: 300
+  f0_min: 50
+  num_utt: 231
+1316:
+  f0_max: 200
+  f0_min: 50
+  num_utt: 8
+1320:
+  f0_max: 260
+  f0_min: 50
+  num_utt: 98
+1322:
+  f0_max: 260
+  f0_min: 50
+  num_utt: 76
+1323:
+  f0_max: 330
+  f0_min: 50
+  num_utt: 27
+1334:
+  f0_max: 340
+  f0_min: 50
+  num_utt: 121
+1335:
+  f0_max: 400
+  f0_min: 100
+  num_utt: 175
+1336:
+  f0_max: 250
+  f0_min: 40
+  num_utt: 11
+1337:
+  f0_max: 300
+  f0_min: 80
+  num_utt: 66
+1343:
+  f0_max: 350
+  f0_min: 50
+  num_utt: 89
+1348:
+  f0_max: 450
+  f0_min: 50
+  num_utt: 114
+1349:
+  f0_max: 280
+  f0_min: 40
+  num_utt: 75
+1355:
+  f0_max: 480
+  f0_min: 80
+  num_utt: 168
+1363:
+  f0_max: 480
+  f0_min: 90
+  num_utt: 78
+1365:
+  f0_max: 200
+  f0_min: 50
+  num_utt: 84
+1379:
+  f0_max: 300
+  f0_min: 50
+  num_utt: 242
+1382:
+  f0_max: 320
+  f0_min: 170
+  num_utt: 359
+1383:
+  f0_max: 180
+  f0_min: 70
+  num_utt: 192
+1387:
+  f0_max: 280
+  f0_min: 50
+  num_utt: 46
+1390:
+  f0_max: 290
+  f0_min: 50
+  num_utt: 6
+1392:
+  f0_max: 220
+  f0_min: 50
+  num_utt: 173
+1401:
+  f0_max: 230
+  f0_min: 50
+  num_utt: 174
+1413:
+  f0_max: 230
+  f0_min: 50
+  num_utt: 28
+1417:
+  f0_max: 380
+  f0_min: 50
+  num_utt: 69
+1422:
+  f0_max: 450
+  f0_min: 80
+  num_utt: 217
+1425:
+  f0_max: 420
+  f0_min: 50
+  num_utt: 45
+1445:
+  f0_max: 210
+  f0_min: 40
+  num_utt: 65
+1446:
+  f0_max: 230
+  f0_min: 40
+  num_utt: 132
+1447:
+  f0_max: 410
+  f0_min: 50
+  num_utt: 85
+1448:
+  f0_max: 400
+  f0_min: 100
+  num_utt: 50
+1455:
+  f0_max: 300
+  f0_min: 45
+  num_utt: 30
+1460:
+  f0_max: 450
+  f0_min: 100
+  num_utt: 98
+1462:
+  f0_max: 350
+  f0_min: 50
+  num_utt: 295
+1463:
+  f0_max: 400
+  f0_min: 50
+  num_utt: 339
+1472:
+  f0_max: 400
+  f0_min: 50
+  num_utt: 165
+1473:
+  f0_max: 230
+  f0_min: 50
+  num_utt: 7
+1482:
+  f0_max: 250
+  f0_min: 50
+  num_utt: 92
+1487:
+  f0_max: 310
+  f0_min: 50
+  num_utt: 16
+1498:
+  f0_max: 420
+  f0_min: 110
+  num_utt: 15
+1502:
+  f0_max: 440
+  f0_min: 80
+  num_utt: 155
+1509:
+  f0_max: 390
+  f0_min: 100
+  num_utt: 198
+1513:
+  f0_max: 350
+  f0_min: 50
+  num_utt: 102
+1535:
+  f0_max: 170
+  f0_min: 50
+  num_utt: 129
+1536:
+  f0_max: 260
+  f0_min: 50
+  num_utt: 2
+1547:
+  f0_max: 360
+  f0_min: 100
+  num_utt: 16
+1552:
+  f0_max: 280
+  f0_min: 50
+  num_utt: 3
+1553:
+  f0_max: 500
+  f0_min: 95
+  num_utt: 144
+1556:
+  f0_max: 300
+  f0_min: 90
+  num_utt: 34
+1571:
+  f0_max: 190
+  f0_min: 50
+  num_utt: 85
+1578:
+  f0_max: 500
+  f0_min: 100
+  num_utt: 117
+1580:
+  f0_max: 450
+  f0_min: 120
+  num_utt: 341
+1594:
+  f0_max: 290
+  f0_min: 50
+  num_utt: 38
+1603:
+  f0_max: 230
+  f0_min: 50
+  num_utt: 192
+1607:
+  f0_max: 250
+  f0_min: 50
+  num_utt: 9
+1624:
+  f0_max: 310
+  f0_min: 45
+  num_utt: 141
+1629:
+  f0_max: 450
+  f0_min: 100
+  num_utt: 29
+1638:
+  f0_max: 450
+  f0_min: 50
+  num_utt: 377
+1639:
+  f0_max: 280
+  f0_min: 50
+  num_utt: 16
+1641:
+  f0_max: 330
+  f0_min: 100
+  num_utt: 158
+1645:
+  f0_max: 250
+  f0_min: 50
+  num_utt: 2
+1649:
+  f0_max: 380
+  f0_min: 110
+  num_utt: 201
+1668:
+  f0_max: 500
+  f0_min: 120
+  num_utt: 36
+1673:
+  f0_max: 390
+  f0_min: 120
+  num_utt: 51
+1678:
+  f0_max: 400
+  f0_min: 100
+  num_utt: 158
+1705:
+  f0_max: 380
+  f0_min: 40
+  num_utt: 89
+1724:
+  f0_max: 380
+  f0_min: 50
+  num_utt: 55
+1731:
+  f0_max: 400
+  f0_min: 150
+  num_utt: 236
+1734:
+  f0_max: 400
+  f0_min: 50
+  num_utt: 4
+1737:
+  f0_max: 550
+  f0_min: 100
+  num_utt: 52
+1740:
+  f0_max: 400
+  f0_min: 100
+  num_utt: 14
+1743:
+  f0_max: 350
+  f0_min: 45
+  num_utt: 199
+1748:
+  f0_max: 200
+  f0_min: 50
+  num_utt: 95
+1752:
+  f0_max: 400
+  f0_min: 50
+  num_utt: 256
+1754:
+  f0_max: 400
+  f0_min: 100
+  num_utt: 4
+1769:
+  f0_max: 290
+  f0_min: 50
+  num_utt: 68
+1776:
+  f0_max: 230
+  f0_min: 50
+  num_utt: 219
+1777:
+  f0_max: 250
+  f0_min: 50
+  num_utt: 125
+1779:
+  f0_max: 500
+  f0_min: 100
+  num_utt: 71
+1789:
+  f0_max: 290
+  f0_min: 50
+  num_utt: 211
+1801:
+  f0_max: 200
+  f0_min: 50
+  num_utt: 13
+1806:
+  f0_max: 280
+  f0_min: 40
+  num_utt: 121
+1811:
+  f0_max: 180
+  f0_min: 40
+  num_utt: 5
+1825:
+  f0_max: 400
+  f0_min: 100
+  num_utt: 111
+1826:
+  f0_max: 270
+  f0_min: 50
+  num_utt: 133
+1827:
+  f0_max: 250
+  f0_min: 40
+  num_utt: 77
+1841:
+  f0_max: 400
+  f0_min: 60
+  num_utt: 260
+1845:
+  f0_max: 280
+  f0_min: 90
+  num_utt: 54
+1849:
+  f0_max: 330
+  f0_min: 50
+  num_utt: 29
+1851:
+  f0_max: 490
+  f0_min: 140
+  num_utt: 144
+1859:
+  f0_max: 500
+  f0_min: 50
+  num_utt: 98
+1867:
+  f0_max: 420
+  f0_min: 80
+  num_utt: 232
+1874:
+  f0_max: 260
+  f0_min: 50
+  num_utt: 108
+1885:
+  f0_max: 410
+  f0_min: 120
+  num_utt: 60
+1898:
+  f0_max: 510
+  f0_min: 100
+  num_utt: 38
+1903:
+  f0_max: 300
+  f0_min: 50
+  num_utt: 211
+1913:
+  f0_max: 300
+  f0_min: 50
+  num_utt: 183
+1914:
+  f0_max: 250
+  f0_min: 50
+  num_utt: 41
+1919:
+  f0_max: 320
+  f0_min: 110
+  num_utt: 104
+1923:
+  f0_max: 300
+  f0_min: 100
+  num_utt: 267
+1926:
+  f0_max: 520
+  f0_min: 140
+  num_utt: 85
+1933:
+  f0_max: 290
+  f0_min: 50
+  num_utt: 21
+1943:
+  f0_max: 300
+  f0_min: 50
+  num_utt: 22
+1944:
+  f0_max: 400
+  f0_min: 100
+  num_utt: 37
+1958:
+  f0_max: 270
+  f0_min: 80
+  num_utt: 64
+1961:
+  f0_max: 380
+  f0_min: 100
+  num_utt: 113
+1963:
+  f0_max: 350
+  f0_min: 50
+  num_utt: 117
+1970:
+  f0_max: 500
+  f0_min: 100
+  num_utt: 202
+1974:
+  f0_max: 470
+  f0_min: 80
+  num_utt: 81
+1987:
+  f0_max: 210
+  f0_min: 50
+  num_utt: 58
+1988:
+  f0_max: 330
+  f0_min: 50
+  num_utt: 211
+1992:
+  f0_max: 450
+  f0_min: 100
+  num_utt: 13
+1993:
+  f0_max: 350
+  f0_min: 100
+  num_utt: 132
+1995:
+  f0_max: 400
+  f0_min: 80
+  num_utt: 137
+2002:
+  f0_max: 320
+  f0_min: 80
+  num_utt: 84
+2004:
+  f0_max: 300
+  f0_min: 100
+  num_utt: 180
+2007:
+  f0_max: 530
+  f0_min: 100
+  num_utt: 52
+2010:
+  f0_max: 300
+  f0_min: 80
+  num_utt: 224
+2012:
+  f0_max: 230
+  f0_min: 50
+  num_utt: 129
+2035:
+  f0_max: 420
+  f0_min: 120
+  num_utt: 209
+2039:
+  f0_max: 200
+  f0_min: 50
+  num_utt: 1
+2045:
+  f0_max: 280
+  f0_min: 80
+  num_utt: 162
+2053:
+  f0_max: 230
+  f0_min: 50
+  num_utt: 270
+2056:
+  f0_max: 400
+  f0_min: 80
+  num_utt: 224
+2060:
+  f0_max: 320
+  f0_min: 110
+  num_utt: 189
+2061:
+  f0_max: 400
+  f0_min: 50
+  num_utt: 45
+2074:
+  f0_max: 300
+  f0_min: 50
+  num_utt: 112
+2078:
+  f0_max: 300
+  f0_min: 50
+  num_utt: 33
+2085:
+  f0_max: 280
+  f0_min: 120
+  num_utt: 1
+2086:
+  f0_max: 270
+  f0_min: 50
+  num_utt: 153
+2092:
+  f0_max: 320
+  f0_min: 50
+  num_utt: 132
+2093:
+  f0_max: 250
+  f0_min: 50
+  num_utt: 27
+2110:
+  f0_max: 300
+  f0_min: 50
+  num_utt: 55
+2113:
+  f0_max: 260
+  f0_min: 50
+  num_utt: 173
+2127:
+  f0_max: 270
+  f0_min: 50
+  num_utt: 33
+2136:
+  f0_max: 270
+  f0_min: 50
+  num_utt: 168
+2137:
+  f0_max: 240
+  f0_min: 50
+  num_utt: 110
+2146:
+  f0_max: 240
+  f0_min: 50
+  num_utt: 13
+2149:
+  f0_max: 300
+  f0_min: 80
+  num_utt: 62
+2156:
+  f0_max: 270
+  f0_min: 50
+  num_utt: 222
+2159:
+  f0_max: 250
+  f0_min: 50
+  num_utt: 8
+2162:
+  f0_max: 250
+  f0_min: 50
+  num_utt: 20
+2167:
+  f0_max: 280
+  f0_min: 90
+  num_utt: 21
+2182:
+  f0_max: 520
+  f0_min: 50
+  num_utt: 122
+2194:
+  f0_max: 370
+  f0_min: 100
+  num_utt: 177
+2196:
+  f0_max: 380
+  f0_min: 100
+  num_utt: 108
+2201:
+  f0_max: 240
+  f0_min: 80
+  num_utt: 14
+2204:
+  f0_max: 310
+  f0_min: 50
+  num_utt: 287
+2229:
+  f0_max: 210
+  f0_min: 40
+  num_utt: 108
+2230:
+  f0_max: 350
+  f0_min: 80
+  num_utt: 202
+2238:
+  f0_max: 250
+  f0_min: 50
+  num_utt: 156
+2240:
+  f0_max: 300
+  f0_min: 80
+  num_utt: 111
+2254:
+  f0_max: 330
+  f0_min: 100
+  num_utt: 28
+2256:
+  f0_max: 350
+  f0_min: 50
+  num_utt: 140
+2269:
+  f0_max: 400
+  f0_min: 50
+  num_utt: 102
+2272:
+  f0_max: 300
+  f0_min: 50
+  num_utt: 90
+2277:
+  f0_max: 300
+  f0_min: 100
+  num_utt: 213
+2285:
+  f0_max: 250
+  f0_min: 50
+  num_utt: 37
+2289:
+  f0_max: 300
+  f0_min: 50
+  num_utt: 170
+2294:
+  f0_max: 250
+  f0_min: 50
+  num_utt: 106
+2299:
+  f0_max: 290
+  f0_min: 50
+  num_utt: 251
+2300:
+  f0_max: 350
+  f0_min: 40
+  num_utt: 141
+2319:
+  f0_max: 280
+  f0_min: 50
+  num_utt: 43
+2364:
+  f0_max: 310
+  f0_min: 50
+  num_utt: 65
+2368:
+  f0_max: 250
+  f0_min: 80
+  num_utt: 194
+2384:
+  f0_max: 320
+  f0_min: 80
+  num_utt: 26
+2388:
+  f0_max: 250
+  f0_min: 50
+  num_utt: 89
+2391:
+  f0_max: 600
+  f0_min: 120
+  num_utt: 85
+2393:
+  f0_max: 300
+  f0_min: 50
+  num_utt: 126
+2397:
+  f0_max: 300
+  f0_min: 50
+  num_utt: 25
+2401:
+  f0_max: 350
+  f0_min: 80
+  num_utt: 234
+2404:
+  f0_max: 290
+  f0_min: 50
+  num_utt: 272
+2411:
+  f0_max: 400
+  f0_min: 100
+  num_utt: 10
+2412:
+  f0_max: 400
+  f0_min: 100
+  num_utt: 74
+2416:
+  f0_max: 420
+  f0_min: 60
+  num_utt: 291
+2427:
+  f0_max: 180
+  f0_min: 50
+  num_utt: 108
+2428:
+  f0_max: 240
+  f0_min: 50
+  num_utt: 239
+2436:
+  f0_max: 220
+  f0_min: 50
+  num_utt: 202
+2473:
+  f0_max: 210
+  f0_min: 50
+  num_utt: 102
+2481:
+  f0_max: 390
+  f0_min: 100
+  num_utt: 199
+2494:
+  f0_max: 220
+  f0_min: 50
+  num_utt: 94
+2498:
+  f0_max: 450
+  f0_min: 100
+  num_utt: 3
+2499:
+  f0_max: 300
+  f0_min: 50
+  num_utt: 6
+2512:
+  f0_max: 380
+  f0_min: 100
+  num_utt: 242
+2514:
+  f0_max: 320
+  f0_min: 50
+  num_utt: 53
+2517:
+  f0_max: 300
+  f0_min: 50
+  num_utt: 209
+2518:
+  f0_max: 300
+  f0_min: 50
+  num_utt: 47
+2531:
+  f0_max: 280
+  f0_min: 50
+  num_utt: 382
+2532:
+  f0_max: 400
+  f0_min: 100
+  num_utt: 163
+2562:
+  f0_max: 230
+  f0_min: 50
+  num_utt: 166
+2570:
+  f0_max: 400
+  f0_min: 100
+  num_utt: 153
+2573:
+  f0_max: 300
+  f0_min: 50
+  num_utt: 342
+2577:
+  f0_max: 520
+  f0_min: 50
+  num_utt: 86
+2581:
+  f0_max: 400
+  f0_min: 50
+  num_utt: 25
+2582:
+  f0_max: 400
+  f0_min: 110
+  num_utt: 106
+2589:
+  f0_max: 250
+  f0_min: 50
+  num_utt: 103
+2592:
+  f0_max: 400
+  f0_min: 100
+  num_utt: 266
+2598:
+  f0_max: 440
+  f0_min: 60
+  num_utt: 247
+2618:
+  f0_max: 300
+  f0_min: 50
+  num_utt: 49
+2628:
+  f0_max: 240
+  f0_min: 50
+  num_utt: 30
+2638:
+  f0_max: 330
+  f0_min: 50
+  num_utt: 177
+2652:
+  f0_max: 390
+  f0_min: 100
+  num_utt: 31
+2654:
+  f0_max: 240
+  f0_min: 50
+  num_utt: 74
+2673:
+  f0_max: 250
+  f0_min: 50
+  num_utt: 67
+2674:
+  f0_max: 210
+  f0_min: 50
+  num_utt: 2
+2688:
+  f0_max: 210
+  f0_min: 50
+  num_utt: 121
+2691:
+  f0_max: 420
+  f0_min: 80
+  num_utt: 67
+2696:
+  f0_max: 300
+  f0_min: 50
+  num_utt: 1
+2709:
+  f0_max: 300
+  f0_min: 100
+  num_utt: 71
+2741:
+  f0_max: 410
+  f0_min: 120
+  num_utt: 91
+2751:
+  f0_max: 350
+  f0_min: 50
+  num_utt: 79
+2758:
+  f0_max: 400
+  f0_min: 160
+  num_utt: 102
+2764:
+  f0_max: 350
+  f0_min: 150
+  num_utt: 2
+2769:
+  f0_max: 250
+  f0_min: 50
+  num_utt: 351
+2774:
+  f0_max: 250
+  f0_min: 50
+  num_utt: 134
+2775:
+  f0_max: 400
+  f0_min: 100
+  num_utt: 163
+2785:
+  f0_max: 470
+  f0_min: 50
+  num_utt: 79
+2787:
+  f0_max: 300
+  f0_min: 40
+  num_utt: 195
+2790:
+  f0_max: 400
+  f0_min: 90
+  num_utt: 81
+2803:
+  f0_max: 200
+  f0_min: 50
+  num_utt: 186
+2812:
+  f0_max: 300
+  f0_min: 40
+  num_utt: 10
+2816:
+  f0_max: 160
+  f0_min: 40
+  num_utt: 1
+2817:
+  f0_max: 420
+  f0_min: 100
+  num_utt: 64
+2823:
+  f0_max: 260
+  f0_min: 50
+  num_utt: 42
+2827:
+  f0_max: 180
+  f0_min: 50
+  num_utt: 111
+2830:
+  f0_max: 260
+  f0_min: 80
+  num_utt: 83
+2836:
+  f0_max: 350
+  f0_min: 80
+  num_utt: 282
+2843:
+  f0_max: 180
+  f0_min: 60
+  num_utt: 117
+2853:
+  f0_max: 500
+  f0_min: 90
+  num_utt: 277
+2882:
+  f0_max: 340
+  f0_min: 50
+  num_utt: 197
+2893:
+  f0_max: 400
+  f0_min: 70
+  num_utt: 181
+2902:
+  f0_max: 260
+  f0_min: 80
+  num_utt: 105
+2910:
+  f0_max: 400
+  f0_min: 90
+  num_utt: 68
+2911:
+  f0_max: 245
+  f0_min: 40
+  num_utt: 138
+2920:
+  f0_max: 320
+  f0_min: 50
+  num_utt: 61
+2929:
+  f0_max: 200
+  f0_min: 40
+  num_utt: 75
+2952:
+  f0_max: 200
+  f0_min: 50
+  num_utt: 209
+2960:
+  f0_max: 220
+  f0_min: 40
+  num_utt: 143
+2961:
+  f0_max: 300
+  f0_min: 80
+  num_utt: 86
+2971:
+  f0_max: 300
+  f0_min: 40
+  num_utt: 202
+2989:
+  f0_max: 320
+  f0_min: 120
+  num_utt: 59
+2992:
+  f0_max: 200
+  f0_min: 40
+  num_utt: 117
+2999:
+  f0_max: 220
+  f0_min: 40
+  num_utt: 108
+3000:
+  f0_max: 280
+  f0_min: 40
+  num_utt: 116
+3001:
+  f0_max: 300
+  f0_min: 100
+  num_utt: 7
+3003:
+  f0_max: 320
+  f0_min: 40
+  num_utt: 262
+3008:
+  f0_max: 280
+  f0_min: 80
+  num_utt: 150
+3009:
+  f0_max: 260
+  f0_min: 40
+  num_utt: 111
+3025:
+  f0_max: 420
+  f0_min: 80
+  num_utt: 20
+3032:
+  f0_max: 250
+  f0_min: 80
+  num_utt: 170
+3046:
+  f0_max: 300
+  f0_min: 90
+  num_utt: 163
+3070:
+  f0_max: 160
+  f0_min: 50
+  num_utt: 6
+3072:
+  f0_max: 250
+  f0_min: 50
+  num_utt: 63
+3081:
+  f0_max: 400
+  f0_min: 100
+  num_utt: 7
+3082:
+  f0_max: 300
+  f0_min: 40
+  num_utt: 72
+3083:
+  f0_max: 360
+  f0_min: 40
+  num_utt: 139
+3094:
+  f0_max: 400
+  f0_min: 80
+  num_utt: 42
+3105:
+  f0_max: 180
+  f0_min: 50
+  num_utt: 113
+3112:
+  f0_max: 400
+  f0_min: 120
+  num_utt: 67
+3114:
+  f0_max: 250
+  f0_min: 75
+  num_utt: 107
+3118:
+  f0_max: 250
+  f0_min: 40
+  num_utt: 93
+3119:
+  f0_max: 400
+  f0_min: 100
+  num_utt: 121
+3157:
+  f0_max: 320
+  f0_min: 40
+  num_utt: 198
+3168:
+  f0_max: 200
+  f0_min: 40
+  num_utt: 84
+3170:
+  f0_max: 280
+  f0_min: 40
+  num_utt: 108
+3171:
+  f0_max: 280
+  f0_min: 40
+  num_utt: 77
+3180:
+  f0_max: 300
+  f0_min: 40
+  num_utt: 34
+3185:
+  f0_max: 280
+  f0_min: 40
+  num_utt: 226
+3187:
+  f0_max: 160
+  f0_min: 50
+  num_utt: 2
+3214:
+  f0_max: 220
+  f0_min: 40
+  num_utt: 46
+3215:
+  f0_max: 300
+  f0_min: 90
+  num_utt: 11
+3221:
+  f0_max: 280
+  f0_min: 40
+  num_utt: 101
+3224:
+  f0_max: 380
+  f0_min: 120
+  num_utt: 114
+3228:
+  f0_max: 300
+  f0_min: 100
+  num_utt: 183
+3230:
+  f0_max: 200
+  f0_min: 50
+  num_utt: 147
+3235:
+  f0_max: 400
+  f0_min: 90
+  num_utt: 110
+3240:
+  f0_max: 235
+  f0_min: 50
+  num_utt: 130
+3242:
+  f0_max: 240
+  f0_min: 50
+  num_utt: 162
+3258:
+  f0_max: 300
+  f0_min: 90
+  num_utt: 77
+3259:
+  f0_max: 300
+  f0_min: 80
+  num_utt: 167
+3274:
+  f0_max: 300
+  f0_min: 40
+  num_utt: 330
+3289:
+  f0_max: 190
+  f0_min: 40
+  num_utt: 109
+3294:
+  f0_max: 360
+  f0_min: 90
+  num_utt: 98
+3307:
+  f0_max: 280
+  f0_min: 90
+  num_utt: 312
+3328:
+  f0_max: 220
+  f0_min: 50
+  num_utt: 101
+3330:
+  f0_max: 360
+  f0_min: 90
+  num_utt: 67
+3340:
+  f0_max: 280
+  f0_min: 50
+  num_utt: 17
+3357:
+  f0_max: 400
+  f0_min: 120
+  num_utt: 95
+3361:
+  f0_max: 400
+  f0_min: 90
+  num_utt: 179
+3368:
+  f0_max: 200
+  f0_min: 50
+  num_utt: 314
+3370:
+  f0_max: 280
+  f0_min: 50
+  num_utt: 300
+3374:
+  f0_max: 300
+  f0_min: 80
+  num_utt: 73
+3379:
+  f0_max: 400
+  f0_min: 100
+  num_utt: 33
+3380:
+  f0_max: 400
+  f0_min: 100
+  num_utt: 211
+3389:
+  f0_max: 280
+  f0_min: 40
+  num_utt: 102
+3436:
+  f0_max: 270
+  f0_min: 75
+  num_utt: 97
+3440:
+  f0_max: 400
+  f0_min: 100
+  num_utt: 65
+3446:
+  f0_max: 380
+  f0_min: 120
+  num_utt: 120
+3448:
+  f0_max: 180
+  f0_min: 50
+  num_utt: 123
+3482:
+  f0_max: 400
+  f0_min: 40
+  num_utt: 179
+3483:
+  f0_max: 300
+  f0_min: 90
+  num_utt: 184
+3486:
+  f0_max: 200
+  f0_min: 40
+  num_utt: 236
+3490:
+  f0_max: 200
+  f0_min: 50
+  num_utt: 123
+3493:
+  f0_max: 380
+  f0_min: 80
+  num_utt: 74
+3513:
+  f0_max: 500
+  f0_min: 110
+  num_utt: 153
+3521:
+  f0_max: 300
+  f0_min: 40
+  num_utt: 140
+3526:
+  f0_max: 410
+  f0_min: 100
+  num_utt: 136
+3536:
+  f0_max: 440
+  f0_min: 100
+  num_utt: 52
+3537:
+  f0_max: 310
+  f0_min: 80
+  num_utt: 7
+3540:
+  f0_max: 300
+  f0_min: 80
+  num_utt: 246
+3546:
+  f0_max: 300
+  f0_min: 40
+  num_utt: 56
+3549:
+  f0_max: 350
+  f0_min: 100
+  num_utt: 187
+3551:
+  f0_max: 300
+  f0_min: 90
+  num_utt: 144
+3570:
+  f0_max: 260
+  f0_min: 100
+  num_utt: 188
+3575:
+  f0_max: 300
+  f0_min: 110
+  num_utt: 45
+3576:
+  f0_max: 380
+  f0_min: 90
+  num_utt: 15
+3584:
+  f0_max: 360
+  f0_min: 80
+  num_utt: 203
+3607:
+  f0_max: 200
+  f0_min: 50
+  num_utt: 155
+3615:
+  f0_max: 320
+  f0_min: 120
+  num_utt: 374
+3630:
+  f0_max: 350
+  f0_min: 100
+  num_utt: 49
+3638:
+  f0_max: 360
+  f0_min: 100
+  num_utt: 398
+3645:
+  f0_max: 300
+  f0_min: 80
+  num_utt: 114
+3654:
+  f0_max: 200
+  f0_min: 50
+  num_utt: 82
+3664:
+  f0_max: 180
+  f0_min: 50
+  num_utt: 175
+3686:
+  f0_max: 160
+  f0_min: 50
+  num_utt: 3
+3699:
+  f0_max: 200
+  f0_min: 50
+  num_utt: 60
+3703:
+  f0_max: 300
+  f0_min: 80
+  num_utt: 173
+3717:
+  f0_max: 170
+  f0_min: 50
+  num_utt: 223
+3723:
+  f0_max: 200
+  f0_min: 50
+  num_utt: 6
+3728:
+  f0_max: 320
+  f0_min: 100
+  num_utt: 193
+3729:
+  f0_max: 350
+  f0_min: 80
+  num_utt: 29
+3733:
+  f0_max: 400
+  f0_min: 50
+  num_utt: 155
+3738:
+  f0_max: 300
+  f0_min: 100
+  num_utt: 21
+3752:
+  f0_max: 250
+  f0_min: 50
+  num_utt: 272
+3781:
+  f0_max: 400
+  f0_min: 110
+  num_utt: 43
+3790:
+  f0_max: 300
+  f0_min: 90
+  num_utt: 23
+3792:
+  f0_max: 250
+  f0_min: 50
+  num_utt: 23
+3807:
+  f0_max: 170
+  f0_min: 60
+  num_utt: 6
+3816:
+  f0_max: 400
+  f0_min: 80
+  num_utt: 95
+3825:
+  f0_max: 200
+  f0_min: 40
+  num_utt: 79
+3830:
+  f0_max: 300
+  f0_min: 40
+  num_utt: 267
+3835:
+  f0_max: 280
+  f0_min: 50
+  num_utt: 96
+3851:
+  f0_max: 320
+  f0_min: 40
+  num_utt: 166
+3852:
+  f0_max: 330
+  f0_min: 100
+  num_utt: 47
+3853:
+  f0_max: 400
+  f0_min: 90
+  num_utt: 103
+3857:
+  f0_max: 250
+  f0_min: 75
+  num_utt: 144
+3864:
+  f0_max: 200
+  f0_min: 50
+  num_utt: 133
+3866:
+  f0_max: 200
+  f0_min: 50
+  num_utt: 56
+3869:
+  f0_max: 300
+  f0_min: 40
+  num_utt: 317
+3876:
+  f0_max: 600
+  f0_min: 50
+  num_utt: 57
+3879:
+  f0_max: 350
+  f0_min: 90
+  num_utt: 263
+3889:
+  f0_max: 300
+  f0_min: 40
+  num_utt: 47
+3905:
+  f0_max: 400
+  f0_min: 100
+  num_utt: 118
+3914:
+  f0_max: 280
+  f0_min: 40
+  num_utt: 154
+3922:
+  f0_max: 300
+  f0_min: 120
+  num_utt: 515
+3923:
+  f0_max: 160
+  f0_min: 50
+  num_utt: 215
+3927:
+  f0_max: 200
+  f0_min: 40
+  num_utt: 213
+3945:
+  f0_max: 210
+  f0_min: 80
+  num_utt: 151
+3947:
+  f0_max: 300
+  f0_min: 100
+  num_utt: 8
+3967:
+  f0_max: 300
+  f0_min: 80
+  num_utt: 127
+3972:
+  f0_max: 300
+  f0_min: 100
+  num_utt: 137
+3977:
+  f0_max: 300
+  f0_min: 80
+  num_utt: 85
+3979:
+  f0_max: 400
+  f0_min: 100
+  num_utt: 34
+3982:
+  f0_max: 350
+  f0_min: 90
+  num_utt: 205
+3983:
+  f0_max: 390
+  f0_min: 80
+  num_utt: 159
+3989:
+  f0_max: 340
+  f0_min: 100
+  num_utt: 181
+3994:
+  f0_max: 500
+  f0_min: 90
+  num_utt: 200
+4010:
+  f0_max: 300
+  f0_min: 40
+  num_utt: 63
+4013:
+  f0_max: 220
+  f0_min: 50
+  num_utt: 48
+4014:
+  f0_max: 260
+  f0_min: 40
+  num_utt: 43
+4018:
+  f0_max: 220
+  f0_min: 50
+  num_utt: 211
+4039:
+  f0_max: 300
+  f0_min: 40
+  num_utt: 128
+4044:
+  f0_max: 400
+  f0_min: 100
+  num_utt: 41
+4051:
+  f0_max: 360
+  f0_min: 100
+  num_utt: 173
+4054:
+  f0_max: 280
+  f0_min: 40
+  num_utt: 147
+4057:
+  f0_max: 400
+  f0_min: 100
+  num_utt: 66
+4064:
+  f0_max: 290
+  f0_min: 40
+  num_utt: 138
+4071:
+  f0_max: 320
+  f0_min: 90
+  num_utt: 1
+4077:
+  f0_max: 240
+  f0_min: 40
+  num_utt: 67
+4088:
+  f0_max: 380
+  f0_min: 100
+  num_utt: 119
+4098:
+  f0_max: 320
+  f0_min: 100
+  num_utt: 213
+4108:
+  f0_max: 290
+  f0_min: 50
+  num_utt: 134
+4110:
+  f0_max: 300
+  f0_min: 40
+  num_utt: 220
+4111:
+  f0_max: 400
+  f0_min: 100
+  num_utt: 69
+4116:
+  f0_max: 360
+  f0_min: 90
+  num_utt: 262
+4133:
+  f0_max: 280
+  f0_min: 40
+  num_utt: 54
+4137:
+  f0_max: 420
+  f0_min: 100
+  num_utt: 279
+4138:
+  f0_max: 380
+  f0_min: 100
+  num_utt: 147
+4145:
+  f0_max: 350
+  f0_min: 80
+  num_utt: 247
+4148:
+  f0_max: 300
+  f0_min: 40
+  num_utt: 244
+4152:
+  f0_max: 230
+  f0_min: 50
+  num_utt: 16
+4160:
+  f0_max: 400
+  f0_min: 90
+  num_utt: 201
+4195:
+  f0_max: 300
+  f0_min: 90
+  num_utt: 334
+4214:
+  f0_max: 500
+  f0_min: 100
+  num_utt: 170
+4222:
+  f0_max: 320
+  f0_min: 100
+  num_utt: 139
+4226:
+  f0_max: 300
+  f0_min: 40
+  num_utt: 115
+4236:
+  f0_max: 200
+  f0_min: 50
+  num_utt: 9
+4238:
+  f0_max: 380
+  f0_min: 50
+  num_utt: 29
+4243:
+  f0_max: 270
+  f0_min: 40
+  num_utt: 222
+4246:
+  f0_max: 200
+  f0_min: 40
+  num_utt: 22
+4257:
+  f0_max: 260
+  f0_min: 40
+  num_utt: 94
+4260:
+  f0_max: 320
+  f0_min: 100
+  num_utt: 55
+4267:
+  f0_max: 300
+  f0_min: 40
+  num_utt: 188
+4278:
+  f0_max: 290
+  f0_min: 40
+  num_utt: 139
+4289:
+  f0_max: 320
+  f0_min: 90
+  num_utt: 179
+4290:
+  f0_max: 250
+  f0_min: 40
+  num_utt: 108
+4297:
+  f0_max: 330
+  f0_min: 100
+  num_utt: 288
+4331:
+  f0_max: 320
+  f0_min: 100
+  num_utt: 194
+4335:
+  f0_max: 190
+  f0_min: 50
+  num_utt: 54
+4340:
+  f0_max: 400
+  f0_min: 100
+  num_utt: 111
+4356:
+  f0_max: 370
+  f0_min: 120
+  num_utt: 331
+4358:
+  f0_max: 175
+  f0_min: 50
+  num_utt: 19
+4362:
+  f0_max: 330
+  f0_min: 100
+  num_utt: 141
+4363:
+  f0_max: 290
+  f0_min: 90
+  num_utt: 191
+4381:
+  f0_max: 320
+  f0_min: 100
+  num_utt: 41
+4397:
+  f0_max: 160
+  f0_min: 40
+  num_utt: 109
+4406:
+  f0_max: 300
+  f0_min: 80
+  num_utt: 191
+4425:
+  f0_max: 280
+  f0_min: 50
+  num_utt: 162
+4427:
+  f0_max: 290
+  f0_min: 40
+  num_utt: 194
+4433:
+  f0_max: 200
+  f0_min: 60
+  num_utt: 1
+4434:
+  f0_max: 320
+  f0_min: 75
+  num_utt: 109
+4438:
+  f0_max: 200
+  f0_min: 50
+  num_utt: 208
+4441:
+  f0_max: 230
+  f0_min: 50
+  num_utt: 125
+4446:
+  f0_max: 450
+  f0_min: 90
+  num_utt: 355
+4481:
+  f0_max: 300
+  f0_min: 90
+  num_utt: 73
+4490:
+  f0_max: 400
+  f0_min: 110
+  num_utt: 133
+4495:
+  f0_max: 200
+  f0_min: 50
+  num_utt: 24
+4507:
+  f0_max: 350
+  f0_min: 90
+  num_utt: 91
+4519:
+  f0_max: 300
+  f0_min: 75
+  num_utt: 106
+4535:
+  f0_max: 200
+  f0_min: 50
+  num_utt: 447
+4586:
+  f0_max: 170
+  f0_min: 50
+  num_utt: 267
+4590:
+  f0_max: 320
+  f0_min: 110
+  num_utt: 23
+4592:
+  f0_max: 300
+  f0_min: 50
+  num_utt: 217
+4595:
+  f0_max: 300
+  f0_min: 50
+  num_utt: 297
+4598:
+  f0_max: 300
+  f0_min: 80
+  num_utt: 178
+4629:
+  f0_max: 200
+  f0_min: 40
+  num_utt: 102
+4640:
+  f0_max: 360
+  f0_min: 100
+  num_utt: 139
+4680:
+  f0_max: 320
+  f0_min: 40
+  num_utt: 284
+4681:
+  f0_max: 250
+  f0_min: 60
+  num_utt: 1
+4719:
+  f0_max: 250
+  f0_min: 70
+  num_utt: 181
+4731:
+  f0_max: 320
+  f0_min: 110
+  num_utt: 101
+4733:
+  f0_max: 180
+  f0_min: 50
+  num_utt: 43
+4734:
+  f0_max: 230
+  f0_min: 50
+  num_utt: 85
+4744:
+  f0_max: 300
+  f0_min: 90
+  num_utt: 156
+4788:
+  f0_max: 230
+  f0_min: 40
+  num_utt: 120
+4800:
+  f0_max: 500
+  f0_min: 40
+  num_utt: 106
+4806:
+  f0_max: 190
+  f0_min: 40
+  num_utt: 137
+4807:
+  f0_max: 400
+  f0_min: 90
+  num_utt: 119
+4813:
+  f0_max: 200
+  f0_min: 40
+  num_utt: 77
+4830:
+  f0_max: 250
+  f0_min: 50
+  num_utt: 95
+4837:
+  f0_max: 350
+  f0_min: 90
+  num_utt: 168
+4839:
+  f0_max: 360
+  f0_min: 100
+  num_utt: 65
+4846:
+  f0_max: 400
+  f0_min: 80
+  num_utt: 2
+4848:
+  f0_max: 270
+  f0_min: 40
+  num_utt: 133
+4853:
+  f0_max: 400
+  f0_min: 90
+  num_utt: 20
+4854:
+  f0_max: 250
+  f0_min: 40
+  num_utt: 75
+4856:
+  f0_max: 280
+  f0_min: 40
+  num_utt: 141
+4859:
+  f0_max: 160
+  f0_min: 50
+  num_utt: 68
+4860:
+  f0_max: 200
+  f0_min: 50
+  num_utt: 106
+4898:
+  f0_max: 200
+  f0_min: 80
+  num_utt: 93
+4899:
+  f0_max: 410
+  f0_min: 110
+  num_utt: 316
+4926:
+  f0_max: 360
+  f0_min: 110
+  num_utt: 2
+4945:
+  f0_max: 190
+  f0_min: 40
+  num_utt: 207
+4957:
+  f0_max: 430
+  f0_min: 85
+  num_utt: 263
+4967:
+  f0_max: 440
+  f0_min: 80
+  num_utt: 194
+4970:
+  f0_max: 500
+  f0_min: 100
+  num_utt: 163
+4973:
+  f0_max: 300
+  f0_min: 50
+  num_utt: 199
+4992:
+  f0_max: 500
+  f0_min: 95
+  num_utt: 118
+5002:
+  f0_max: 220
+  f0_min: 50
+  num_utt: 73
+5007:
+  f0_max: 295
+  f0_min: 90
+  num_utt: 115
+5012:
+  f0_max: 290
+  f0_min: 105
+  num_utt: 256
+5022:
+  f0_max: 340
+  f0_min: 100
+  num_utt: 329
+5029:
+  f0_max: 500
+  f0_min: 100
+  num_utt: 213
+5039:
+  f0_max: 450
+  f0_min: 90
+  num_utt: 220
+5049:
+  f0_max: 175
+  f0_min: 65
+  num_utt: 6
+5054:
+  f0_max: 410
+  f0_min: 90
+  num_utt: 278
+5062:
+  f0_max: 340
+  f0_min: 110
+  num_utt: 254
+5063:
+  f0_max: 380
+  f0_min: 50
+  num_utt: 12
+5092:
+  f0_max: 170
+  f0_min: 40
+  num_utt: 102
+5093:
+  f0_max: 400
+  f0_min: 95
+  num_utt: 154
+5104:
+  f0_max: 210
+  f0_min: 50
+  num_utt: 191
+5105:
+  f0_max: 310
+  f0_min: 50
+  num_utt: 69
+5115:
+  f0_max: 295
+  f0_min: 85
+  num_utt: 79
+5123:
+  f0_max: 300
+  f0_min: 50
+  num_utt: 57
+5126:
+  f0_max: 275
+  f0_min: 40
+  num_utt: 215
+5133:
+  f0_max: 400
+  f0_min: 95
+  num_utt: 137
+5139:
+  f0_max: 360
+  f0_min: 100
+  num_utt: 105
+5142:
+  f0_max: 450
+  f0_min: 90
+  num_utt: 152
+5147:
+  f0_max: 185
+  f0_min: 50
+  num_utt: 44
+5154:
+  f0_max: 395
+  f0_min: 75
+  num_utt: 101
+5157:
+  f0_max: 250
+  f0_min: 45
+  num_utt: 34
+5163:
+  f0_max: 475
+  f0_min: 90
+  num_utt: 223
+5186:
+  f0_max: 345
+  f0_min: 45
+  num_utt: 37
+5189:
+  f0_max: 175
+  f0_min: 50
+  num_utt: 130
+5190:
+  f0_max: 290
+  f0_min: 45
+  num_utt: 92
+5192:
+  f0_max: 185
+  f0_min: 60
+  num_utt: 2
+5206:
+  f0_max: 245
+  f0_min: 40
+  num_utt: 103
+5239:
+  f0_max: 290
+  f0_min: 45
+  num_utt: 177
+5242:
+  f0_max: 275
+  f0_min: 50
+  num_utt: 48
+5246:
+  f0_max: 285
+  f0_min: 40
+  num_utt: 153
+5261:
+  f0_max: 215
+  f0_min: 50
+  num_utt: 152
+5266:
+  f0_max: 390
+  f0_min: 140
+  num_utt: 124
+5290:
+  f0_max: 400
+  f0_min: 40
+  num_utt: 236
+5293:
+  f0_max: 250
+  f0_min: 50
+  num_utt: 162
+5304:
+  f0_max: 315
+  f0_min: 60
+  num_utt: 135
+5319:
+  f0_max: 195
+  f0_min: 50
+  num_utt: 138
+5322:
+  f0_max: 285
+  f0_min: 45
+  num_utt: 263
+5333:
+  f0_max: 300
+  f0_min: 90
+  num_utt: 86
+5337:
+  f0_max: 310
+  f0_min: 100
+  num_utt: 56
+5338:
+  f0_max: 375
+  f0_min: 105
+  num_utt: 101
+5339:
+  f0_max: 275
+  f0_min: 90
+  num_utt: 168
+5386:
+  f0_max: 195
+  f0_min: 40
+  num_utt: 111
+5389:
+  f0_max: 200
+  f0_min: 75
+  num_utt: 113
+5390:
+  f0_max: 260
+  f0_min: 50
+  num_utt: 40
+5393:
+  f0_max: 375
+  f0_min: 45
+  num_utt: 340
+5400:
+  f0_max: 310
+  f0_min: 100
+  num_utt: 367
+5401:
+  f0_max: 250
+  f0_min: 40
+  num_utt: 88
+5448:
+  f0_max: 220
+  f0_min: 85
+  num_utt: 173
+5456:
+  f0_max: 235
+  f0_min: 50
+  num_utt: 52
+5463:
+  f0_max: 260
+  f0_min: 40
+  num_utt: 47
+5489:
+  f0_max: 320
+  f0_min: 90
+  num_utt: 168
+5513:
+  f0_max: 270
+  f0_min: 75
+  num_utt: 24
+5514:
+  f0_max: 305
+  f0_min: 105
+  num_utt: 122
+5519:
+  f0_max: 270
+  f0_min: 45
+  num_utt: 141
+5536:
+  f0_max: 200
+  f0_min: 50
+  num_utt: 107
+5538:
+  f0_max: 500
+  f0_min: 95
+  num_utt: 211
+5561:
+  f0_max: 300
+  f0_min: 45
+  num_utt: 273
+5570:
+  f0_max: 360
+  f0_min: 100
+  num_utt: 330
+5583:
+  f0_max: 455
+  f0_min: 100
+  num_utt: 138
+5588:
+  f0_max: 370
+  f0_min: 95
+  num_utt: 61
+5604:
+  f0_max: 330
+  f0_min: 105
+  num_utt: 91
+5606:
+  f0_max: 395
+  f0_min: 100
+  num_utt: 102
+5618:
+  f0_max: 350
+  f0_min: 90
+  num_utt: 308
+5622:
+  f0_max: 390
+  f0_min: 120
+  num_utt: 222
+5635:
+  f0_max: 220
+  f0_min: 45
+  num_utt: 218
+5639:
+  f0_max: 320
+  f0_min: 75
+  num_utt: 84
+5652:
+  f0_max: 410
+  f0_min: 150
+  num_utt: 87
+5655:
+  f0_max: 400
+  f0_min: 40
+  num_utt: 290
+5656:
+  f0_max: 240
+  f0_min: 50
+  num_utt: 170
+5660:
+  f0_max: 390
+  f0_min: 125
+  num_utt: 232
+5672:
+  f0_max: 220
+  f0_min: 40
+  num_utt: 70
+5678:
+  f0_max: 200
+  f0_min: 45
+  num_utt: 174
+5683:
+  f0_max: 405
+  f0_min: 130
+  num_utt: 201
+5684:
+  f0_max: 520
+  f0_min: 100
+  num_utt: 97
+5688:
+  f0_max: 280
+  f0_min: 120
+  num_utt: 1
+5694:
+  f0_max: 260
+  f0_min: 40
+  num_utt: 195
+5703:
+  f0_max: 230
+  f0_min: 40
+  num_utt: 111
+5712:
+  f0_max: 350
+  f0_min: 105
+  num_utt: 361
+5717:
+  f0_max: 300
+  f0_min: 45
+  num_utt: 256
+5723:
+  f0_max: 320
+  f0_min: 90
+  num_utt: 84
+5724:
+  f0_max: 360
+  f0_min: 100
+  num_utt: 204
+5727:
+  f0_max: 305
+  f0_min: 40
+  num_utt: 33
+5731:
+  f0_max: 360
+  f0_min: 100
+  num_utt: 187
+5740:
+  f0_max: 330
+  f0_min: 100
+  num_utt: 185
+5746:
+  f0_max: 195
+  f0_min: 50
+  num_utt: 37
+5750:
+  f0_max: 160
+  f0_min: 50
+  num_utt: 99
+5767:
+  f0_max: 200
+  f0_min: 55
+  num_utt: 10
+5776:
+  f0_max: 280
+  f0_min: 40
+  num_utt: 24
+5778:
+  f0_max: 305
+  f0_min: 100
+  num_utt: 117
+5789:
+  f0_max: 355
+  f0_min: 105
+  num_utt: 84
+5802:
+  f0_max: 305
+  f0_min: 45
+  num_utt: 222
+5808:
+  f0_max: 165
+  f0_min: 80
+  num_utt: 151
+5809:
+  f0_max: 320
+  f0_min: 100
+  num_utt: 157
+5810:
+  f0_max: 170
+  f0_min: 50
+  num_utt: 105
+5867:
+  f0_max: 300
+  f0_min: 45
+  num_utt: 188
+5868:
+  f0_max: 260
+  f0_min: 40
+  num_utt: 75
+5876:
+  f0_max: 350
+  f0_min: 100
+  num_utt: 181
+5883:
+  f0_max: 300
+  f0_min: 40
+  num_utt: 96
+5895:
+  f0_max: 320
+  f0_min: 100
+  num_utt: 190
+5909:
+  f0_max: 205
+  f0_min: 50
+  num_utt: 318
+5914:
+  f0_max: 210
+  f0_min: 50
+  num_utt: 174
+5918:
+  f0_max: 270
+  f0_min: 45
+  num_utt: 99
+5935:
+  f0_max: 180
+  f0_min: 50
+  num_utt: 277
+5940:
+  f0_max: 210
+  f0_min: 45
+  num_utt: 39
+5968:
+  f0_max: 305
+  f0_min: 95
+  num_utt: 152
+5975:
+  f0_max: 230
+  f0_min: 45
+  num_utt: 180
+5984:
+  f0_max: 320
+  f0_min: 90
+  num_utt: 143
+5985:
+  f0_max: 230
+  f0_min: 50
+  num_utt: 190
+6000:
+  f0_max: 355
+  f0_min: 125
+  num_utt: 130
+6006:
+  f0_max: 360
+  f0_min: 120
+  num_utt: 203
+6014:
+  f0_max: 310
+  f0_min: 45
+  num_utt: 125
+6019:
+  f0_max: 290
+  f0_min: 100
+  num_utt: 126
+6032:
+  f0_max: 400
+  f0_min: 95
+  num_utt: 113
+6037:
+  f0_max: 180
+  f0_min: 50
+  num_utt: 25
+6038:
+  f0_max: 335
+  f0_min: 90
+  num_utt: 112
+6054:
+  f0_max: 375
+  f0_min: 45
+  num_utt: 194
+6060:
+  f0_max: 250
+  f0_min: 45
+  num_utt: 65
+6064:
+  f0_max: 355
+  f0_min: 50
+  num_utt: 292
+6075:
+  f0_max: 195
+  f0_min: 50
+  num_utt: 11
+6078:
+  f0_max: 390
+  f0_min: 100
+  num_utt: 184
+6080:
+  f0_max: 200
+  f0_min: 50
+  num_utt: 148
+6081:
+  f0_max: 275
+  f0_min: 50
+  num_utt: 152
+6082:
+  f0_max: 410
+  f0_min: 100
+  num_utt: 60
+6098:
+  f0_max: 200
+  f0_min: 50
+  num_utt: 182
+6099:
+  f0_max: 430
+  f0_min: 60
+  num_utt: 163
+6104:
+  f0_max: 355
+  f0_min: 105
+  num_utt: 370
+6115:
+  f0_max: 170
+  f0_min: 75
+  num_utt: 106
+6119:
+  f0_max: 200
+  f0_min: 120
+  num_utt: 2
+6120:
+  f0_max: 280
+  f0_min: 100
+  num_utt: 170
+6139:
+  f0_max: 300
+  f0_min: 90
+  num_utt: 179
+6147:
+  f0_max: 375
+  f0_min: 100
+  num_utt: 357
+6157:
+  f0_max: 270
+  f0_min: 45
+  num_utt: 14
+6160:
+  f0_max: 310
+  f0_min: 90
+  num_utt: 146
+6167:
+  f0_max: 390
+  f0_min: 100
+  num_utt: 90
+6181:
+  f0_max: 190
+  f0_min: 50
+  num_utt: 106
+6188:
+  f0_max: 300
+  f0_min: 45
+  num_utt: 124
+6189:
+  f0_max: 320
+  f0_min: 90
+  num_utt: 265
+6206:
+  f0_max: 300
+  f0_min: 100
+  num_utt: 199
+6209:
+  f0_max: 190
+  f0_min: 50
+  num_utt: 458
+6215:
+  f0_max: 370
+  f0_min: 100
+  num_utt: 148
+6233:
+  f0_max: 395
+  f0_min: 45
+  num_utt: 226
+6235:
+  f0_max: 310
+  f0_min: 105
+  num_utt: 107
+6241:
+  f0_max: 290
+  f0_min: 80
+  num_utt: 138
+6258:
+  f0_max: 290
+  f0_min: 90
+  num_utt: 81
+6269:
+  f0_max: 175
+  f0_min: 80
+  num_utt: 124
+6272:
+  f0_max: 390
+  f0_min: 40
+  num_utt: 222
+6286:
+  f0_max: 260
+  f0_min: 50
+  num_utt: 114
+6288:
+  f0_max: 325
+  f0_min: 40
+  num_utt: 101
+6294:
+  f0_max: 225
+  f0_min: 45
+  num_utt: 133
+6295:
+  f0_max: 175
+  f0_min: 50
+  num_utt: 46
+6300:
+  f0_max: 350
+  f0_min: 90
+  num_utt: 177
+6308:
+  f0_max: 275
+  f0_min: 50
+  num_utt: 101
+6313:
+  f0_max: 340
+  f0_min: 45
+  num_utt: 367
+6317:
+  f0_max: 320
+  f0_min: 100
+  num_utt: 99
+6319:
+  f0_max: 350
+  f0_min: 50
+  num_utt: 123
+6330:
+  f0_max: 225
+  f0_min: 50
+  num_utt: 39
+6339:
+  f0_max: 320
+  f0_min: 90
+  num_utt: 111
+6341:
+  f0_max: 360
+  f0_min: 100
+  num_utt: 184
+6345:
+  f0_max: 330
+  f0_min: 100
+  num_utt: 239
+6352:
+  f0_max: 390
+  f0_min: 40
+  num_utt: 38
+6359:
+  f0_max: 310
+  f0_min: 50
+  num_utt: 55
+6367:
+  f0_max: 275
+  f0_min: 45
+  num_utt: 241
+6371:
+  f0_max: 430
+  f0_min: 90
+  num_utt: 263
+6373:
+  f0_max: 450
+  f0_min: 95
+  num_utt: 80
+6378:
+  f0_max: 390
+  f0_min: 80
+  num_utt: 142
+6385:
+  f0_max: 410
+  f0_min: 50
+  num_utt: 186
+6388:
+  f0_max: 325
+  f0_min: 100
+  num_utt: 154
+6395:
+  f0_max: 225
+  f0_min: 50
+  num_utt: 149
+6406:
+  f0_max: 370
+  f0_min: 100
+  num_utt: 138
+6415:
+  f0_max: 400
+  f0_min: 50
+  num_utt: 296
+6426:
+  f0_max: 330
+  f0_min: 90
+  num_utt: 245
+6437:
+  f0_max: 250
+  f0_min: 45
+  num_utt: 162
+6446:
+  f0_max: 250
+  f0_min: 50
+  num_utt: 88
+6454:
+  f0_max: 290
+  f0_min: 50
+  num_utt: 150
+6458:
+  f0_max: 240
+  f0_min: 80
+  num_utt: 337
+6476:
+  f0_max: 350
+  f0_min: 100
+  num_utt: 156
+6492:
+  f0_max: 180
+  f0_min: 75
+  num_utt: 90
+6494:
+  f0_max: 280
+  f0_min: 40
+  num_utt: 39
+6497:
+  f0_max: 220
+  f0_min: 50
+  num_utt: 228
+6499:
+  f0_max: 255
+  f0_min: 40
+  num_utt: 134
+6505:
+  f0_max: 420
+  f0_min: 120
+  num_utt: 156
+6509:
+  f0_max: 480
+  f0_min: 100
+  num_utt: 73
+6510:
+  f0_max: 350
+  f0_min: 50
+  num_utt: 144
+6518:
+  f0_max: 480
+  f0_min: 140
+  num_utt: 65
+6519:
+  f0_max: 500
+  f0_min: 80
+  num_utt: 171
+6529:
+  f0_max: 330
+  f0_min: 50
+  num_utt: 182
+6531:
+  f0_max: 400
+  f0_min: 100
+  num_utt: 111
+6538:
+  f0_max: 300
+  f0_min: 75
+  num_utt: 211
+6544:
+  f0_max: 500
+  f0_min: 135
+  num_utt: 374
+6550:
+  f0_max: 320
+  f0_min: 50
+  num_utt: 125
+6553:
+  f0_max: 300
+  f0_min: 50
+  num_utt: 70
+6555:
+  f0_max: 400
+  f0_min: 75
+  num_utt: 112
+6563:
+  f0_max: 500
+  f0_min: 50
+  num_utt: 53
+6567:
+  f0_max: 600
+  f0_min: 80
+  num_utt: 90
+6574:
+  f0_max: 400
+  f0_min: 80
+  num_utt: 138
+6575:
+  f0_max: 400
+  f0_min: 50
+  num_utt: 239
+6620:
+  f0_max: 460
+  f0_min: 100
+  num_utt: 36
+6637:
+  f0_max: 500
+  f0_min: 100
+  num_utt: 205
+6643:
+  f0_max: 550
+  f0_min: 110
+  num_utt: 211
+6673:
+  f0_max: 500
+  f0_min: 60
+  num_utt: 37
+6683:
+  f0_max: 540
+  f0_min: 90
+  num_utt: 147
+6686:
+  f0_max: 380
+  f0_min: 50
+  num_utt: 92
+6690:
+  f0_max: 320
+  f0_min: 80
+  num_utt: 3
+6694:
+  f0_max: 300
+  f0_min: 50
+  num_utt: 239
+6696:
+  f0_max: 500
+  f0_min: 100
+  num_utt: 227
+6701:
+  f0_max: 280
+  f0_min: 50
+  num_utt: 400
+6727:
+  f0_max: 400
+  f0_min: 50
+  num_utt: 85
+6763:
+  f0_max: 380
+  f0_min: 90
+  num_utt: 111
+6782:
+  f0_max: 420
+  f0_min: 70
+  num_utt: 82
+6788:
+  f0_max: 600
+  f0_min: 100
+  num_utt: 126
+6818:
+  f0_max: 550
+  f0_min: 100
+  num_utt: 147
+6828:
+  f0_max: 400
+  f0_min: 90
+  num_utt: 185
+6829:
+  f0_max: 400
+  f0_min: 100
+  num_utt: 213
+6836:
+  f0_max: 340
+  f0_min: 50
+  num_utt: 122
+6848:
+  f0_max: 310
+  f0_min: 50
+  num_utt: 92
+6865:
+  f0_max: 500
+  f0_min: 100
+  num_utt: 114
+6877:
+  f0_max: 300
+  f0_min: 80
+  num_utt: 219
+6880:
+  f0_max: 310
+  f0_min: 50
+  num_utt: 80
+6895:
+  f0_max: 560
+  f0_min: 95
+  num_utt: 99
+6904:
+  f0_max: 450
+  f0_min: 100
+  num_utt: 290
+6918:
+  f0_max: 420
+  f0_min: 100
+  num_utt: 105
+6924:
+  f0_max: 370
+  f0_min: 100
+  num_utt: 90
+6925:
+  f0_max: 250
+  f0_min: 50
+  num_utt: 9
+6927:
+  f0_max: 550
+  f0_min: 100
+  num_utt: 205
+6930:
+  f0_max: 350
+  f0_min: 70
+  num_utt: 59
+6937:
+  f0_max: 370
+  f0_min: 70
+  num_utt: 204
+6956:
+  f0_max: 500
+  f0_min: 85
+  num_utt: 134
+6965:
+  f0_max: 350
+  f0_min: 50
+  num_utt: 169
+6981:
+  f0_max: 260
+  f0_min: 50
+  num_utt: 200
+6993:
+  f0_max: 270
+  f0_min: 50
+  num_utt: 63
+7000:
+  f0_max: 360
+  f0_min: 60
+  num_utt: 215
+7011:
+  f0_max: 270
+  f0_min: 50
+  num_utt: 125
+7021:
+  f0_max: 400
+  f0_min: 50
+  num_utt: 128
+7030:
+  f0_max: 320
+  f0_min: 85
+  num_utt: 100
+7051:
+  f0_max: 330
+  f0_min: 50
+  num_utt: 67
+7059:
+  f0_max: 520
+  f0_min: 70
+  num_utt: 171
+7061:
+  f0_max: 320
+  f0_min: 50
+  num_utt: 103
+7067:
+  f0_max: 400
+  f0_min: 50
+  num_utt: 303
+7069:
+  f0_max: 450
+  f0_min: 85
+  num_utt: 87
+7078:
+  f0_max: 340
+  f0_min: 90
+  num_utt: 198
+7085:
+  f0_max: 410
+  f0_min: 90
+  num_utt: 90
+7090:
+  f0_max: 200
+  f0_min: 50
+  num_utt: 22
+7095:
+  f0_max: 300
+  f0_min: 50
+  num_utt: 65
+7113:
+  f0_max: 500
+  f0_min: 130
+  num_utt: 61
+7117:
+  f0_max: 300
+  f0_min: 75
+  num_utt: 158
+7120:
+  f0_max: 400
+  f0_min: 90
+  num_utt: 197
+7126:
+  f0_max: 300
+  f0_min: 75
+  num_utt: 39
+7127:
+  f0_max: 320
+  f0_min: 80
+  num_utt: 161
+7128:
+  f0_max: 200
+  f0_min: 50
+  num_utt: 195
+7134:
+  f0_max: 300
+  f0_min: 75
+  num_utt: 193
+7139:
+  f0_max: 230
+  f0_min: 50
+  num_utt: 150
+7140:
+  f0_max: 500
+  f0_min: 90
+  num_utt: 166
+7145:
+  f0_max: 400
+  f0_min: 100
+  num_utt: 207
+7148:
+  f0_max: 300
+  f0_min: 85
+  num_utt: 6
+7169:
+  f0_max: 270
+  f0_min: 80
+  num_utt: 144
+7176:
+  f0_max: 300
+  f0_min: 80
+  num_utt: 172
+7178:
+  f0_max: 400
+  f0_min: 80
+  num_utt: 290
+7188:
+  f0_max: 250
+  f0_min: 55
+  num_utt: 249
+7190:
+  f0_max: 300
+  f0_min: 50
+  num_utt: 325
+7226:
+  f0_max: 250
+  f0_min: 50
+  num_utt: 96
+7229:
+  f0_max: 500
+  f0_min: 75
+  num_utt: 195
+7240:
+  f0_max: 300
+  f0_min: 80
+  num_utt: 212
+7241:
+  f0_max: 300
+  f0_min: 70
+  num_utt: 88
+7245:
+  f0_max: 400
+  f0_min: 80
+  num_utt: 209
+7247:
+  f0_max: 350
+  f0_min: 80
+  num_utt: 183
+7258:
+  f0_max: 320
+  f0_min: 50
+  num_utt: 85
+7264:
+  f0_max: 300
+  f0_min: 80
+  num_utt: 76
+7276:
+  f0_max: 410
+  f0_min: 85
+  num_utt: 216
+7278:
+  f0_max: 270
+  f0_min: 85
+  num_utt: 96
+7285:
+  f0_max: 400
+  f0_min: 85
+  num_utt: 84
+7286:
+  f0_max: 310
+  f0_min: 90
+  num_utt: 113
+7294:
+  f0_max: 400
+  f0_min: 80
+  num_utt: 121
+7297:
+  f0_max: 500
+  f0_min: 100
+  num_utt: 96
+7302:
+  f0_max: 400
+  f0_min: 120
+  num_utt: 174
+7312:
+  f0_max: 400
+  f0_min: 80
+  num_utt: 21
+7313:
+  f0_max: 300
+  f0_min: 80
+  num_utt: 135
+7314:
+  f0_max: 210
+  f0_min: 75
+  num_utt: 284
+7316:
+  f0_max: 500
+  f0_min: 80
+  num_utt: 127
+7318:
+  f0_max: 400
+  f0_min: 80
+  num_utt: 173
+7335:
+  f0_max: 400
+  f0_min: 80
+  num_utt: 75
+7339:
+  f0_max: 200
+  f0_min: 50
+  num_utt: 12
+7342:
+  f0_max: 340
+  f0_min: 90
+  num_utt: 4
+7367:
+  f0_max: 230
+  f0_min: 85
+  num_utt: 176
+7383:
+  f0_max: 400
+  f0_min: 95
+  num_utt: 137
+7384:
+  f0_max: 380
+  f0_min: 80
+  num_utt: 118
+7395:
+  f0_max: 420
+  f0_min: 80
+  num_utt: 45
+7398:
+  f0_max: 400
+  f0_min: 100
+  num_utt: 71
+7402:
+  f0_max: 410
+  f0_min: 80
+  num_utt: 213
+7416:
+  f0_max: 400
+  f0_min: 80
+  num_utt: 160
+7434:
+  f0_max: 370
+  f0_min: 95
+  num_utt: 236
+7437:
+  f0_max: 280
+  f0_min: 50
+  num_utt: 112
+7445:
+  f0_max: 430
+  f0_min: 100
+  num_utt: 10
+7447:
+  f0_max: 270
+  f0_min: 80
+  num_utt: 187
+7460:
+  f0_max: 270
+  f0_min: 50
+  num_utt: 230
+7475:
+  f0_max: 180
+  f0_min: 50
+  num_utt: 8
+7478:
+  f0_max: 230
+  f0_min: 50
+  num_utt: 76
+7481:
+  f0_max: 250
+  f0_min: 50
+  num_utt: 254
+7484:
+  f0_max: 400
+  f0_min: 80
+  num_utt: 188
+7495:
+  f0_max: 380
+  f0_min: 130
+  num_utt: 210
+7498:
+  f0_max: 500
+  f0_min: 100
+  num_utt: 118
+7505:
+  f0_max: 350
+  f0_min: 80
+  num_utt: 208
+7511:
+  f0_max: 400
+  f0_min: 95
+  num_utt: 197
+7515:
+  f0_max: 420
+  f0_min: 80
+  num_utt: 155
+7517:
+  f0_max: 400
+  f0_min: 85
+  num_utt: 121
+7518:
+  f0_max: 155
+  f0_min: 55
+  num_utt: 5
+7520:
+  f0_max: 200
+  f0_min: 50
+  num_utt: 93
+7525:
+  f0_max: 470
+  f0_min: 110
+  num_utt: 127
+7538:
+  f0_max: 260
+  f0_min: 50
+  num_utt: 142
+7540:
+  f0_max: 190
+  f0_min: 75
+  num_utt: 198
+7553:
+  f0_max: 300
+  f0_min: 80
+  num_utt: 130
+7555:
+  f0_max: 440
+  f0_min: 80
+  num_utt: 87
+7558:
+  f0_max: 280
+  f0_min: 90
+  num_utt: 39
+7569:
+  f0_max: 250
+  f0_min: 50
+  num_utt: 110
+7594:
+  f0_max: 530
+  f0_min: 120
+  num_utt: 247
+7635:
+  f0_max: 400
+  f0_min: 90
+  num_utt: 52
+7647:
+  f0_max: 300
+  f0_min: 90
+  num_utt: 49
+7657:
+  f0_max: 320
+  f0_min: 120
+  num_utt: 4
+7665:
+  f0_max: 220
+  f0_min: 50
+  num_utt: 9
+7688:
+  f0_max: 300
+  f0_min: 50
+  num_utt: 115
+7704:
+  f0_max: 250
+  f0_min: 50
+  num_utt: 297
+7705:
+  f0_max: 280
+  f0_min: 50
+  num_utt: 182
+7717:
+  f0_max: 400
+  f0_min: 90
+  num_utt: 246
+7720:
+  f0_max: 250
+  f0_min: 50
+  num_utt: 200
+7729:
+  f0_max: 200
+  f0_min: 80
+  num_utt: 97
+7730:
+  f0_max: 400
+  f0_min: 120
+  num_utt: 59
+7732:
+  f0_max: 380
+  f0_min: 80
+  num_utt: 72
+7733:
+  f0_max: 380
+  f0_min: 100
+  num_utt: 35
+7739:
+  f0_max: 400
+  f0_min: 100
+  num_utt: 258
+7752:
+  f0_max: 410
+  f0_min: 120
+  num_utt: 188
+7754:
+  f0_max: 410
+  f0_min: 95
+  num_utt: 181
+7766:
+  f0_max: 400
+  f0_min: 100
+  num_utt: 227
+7777:
+  f0_max: 200
+  f0_min: 80
+  num_utt: 56
+7780:
+  f0_max: 400
+  f0_min: 100
+  num_utt: 71
+7783:
+  f0_max: 390
+  f0_min: 80
+  num_utt: 172
+7789:
+  f0_max: 400
+  f0_min: 90
+  num_utt: 178
+7794:
+  f0_max: 410
+  f0_min: 120
+  num_utt: 118
+7800:
+  f0_max: 470
+  f0_min: 90
+  num_utt: 270
+7802:
+  f0_max: 430
+  f0_min: 100
+  num_utt: 170
+7809:
+  f0_max: 220
+  f0_min: 80
+  num_utt: 111
+7816:
+  f0_max: 410
+  f0_min: 80
+  num_utt: 101
+7825:
+  f0_max: 180
+  f0_min: 50
+  num_utt: 147
+7828:
+  f0_max: 300
+  f0_min: 80
+  num_utt: 181
+7832:
+  f0_max: 200
+  f0_min: 50
+  num_utt: 176
+7833:
+  f0_max: 240
+  f0_min: 80
+  num_utt: 159
+7837:
+  f0_max: 280
+  f0_min: 50
+  num_utt: 45
+7850:
+  f0_max: 430
+  f0_min: 90
+  num_utt: 198
+7859:
+  f0_max: 340
+  f0_min: 100
+  num_utt: 56
+7867:
+  f0_max: 300
+  f0_min: 80
+  num_utt: 132
+7868:
+  f0_max: 400
+  f0_min: 120
+  num_utt: 156
+7874:
+  f0_max: 250
+  f0_min: 50
+  num_utt: 271
+7881:
+  f0_max: 200
+  f0_min: 50
+  num_utt: 186
+7909:
+  f0_max: 200
+  f0_min: 50
+  num_utt: 77
+7910:
+  f0_max: 350
+  f0_min: 100
+  num_utt: 232
+7926:
+  f0_max: 300
+  f0_min: 75
+  num_utt: 128
+7932:
+  f0_max: 400
+  f0_min: 100
+  num_utt: 127
+7933:
+  f0_max: 400
+  f0_min: 90
+  num_utt: 171
+7938:
+  f0_max: 270
+  f0_min: 90
+  num_utt: 170
+7939:
+  f0_max: 250
+  f0_min: 80
+  num_utt: 180
+7945:
+  f0_max: 370
+  f0_min: 90
+  num_utt: 74
+7949:
+  f0_max: 200
+  f0_min: 80
+  num_utt: 132
+7956:
+  f0_max: 300
+  f0_min: 70
+  num_utt: 110
+7957:
+  f0_max: 300
+  f0_min: 90
+  num_utt: 47
+7959:
+  f0_max: 500
+  f0_min: 100
+  num_utt: 154
+7962:
+  f0_max: 400
+  f0_min: 100
+  num_utt: 59
+7967:
+  f0_max: 400
+  f0_min: 80
+  num_utt: 189
+7976:
+  f0_max: 440
+  f0_min: 90
+  num_utt: 257
+7981:
+  f0_max: 280
+  f0_min: 75
+  num_utt: 162
+7982:
+  f0_max: 310
+  f0_min: 110
+  num_utt: 202
+7991:
+  f0_max: 250
+  f0_min: 50
+  num_utt: 69
+7994:
+  f0_max: 340
+  f0_min: 80
+  num_utt: 153
+7995:
+  f0_max: 460
+  f0_min: 80
+  num_utt: 219
+8006:
+  f0_max: 200
+  f0_min: 50
+  num_utt: 99
+8008:
+  f0_max: 300
+  f0_min: 80
+  num_utt: 128
+8011:
+  f0_max: 300
+  f0_min: 75
+  num_utt: 180
+8014:
+  f0_max: 490
+  f0_min: 140
+  num_utt: 57
+8028:
+  f0_max: 300
+  f0_min: 80
+  num_utt: 157
+8050:
+  f0_max: 270
+  f0_min: 90
+  num_utt: 210
+8051:
+  f0_max: 400
+  f0_min: 80
+  num_utt: 131
+8057:
+  f0_max: 400
+  f0_min: 80
+  num_utt: 96
+8063:
+  f0_max: 300
+  f0_min: 80
+  num_utt: 96
+8066:
+  f0_max: 300
+  f0_min: 50
+  num_utt: 269
+8075:
+  f0_max: 450
+  f0_min: 100
+  num_utt: 144
+8080:
+  f0_max: 400
+  f0_min: 80
+  num_utt: 239
+8088:
+  f0_max: 200
+  f0_min: 50
+  num_utt: 378
+8095:
+  f0_max: 300
+  f0_min: 80
+  num_utt: 90
+8097:
+  f0_max: 370
+  f0_min: 80
+  num_utt: 76
+8098:
+  f0_max: 300
+  f0_min: 75
+  num_utt: 183
+8108:
+  f0_max: 250
+  f0_min: 50
+  num_utt: 174
+8113:
+  f0_max: 380
+  f0_min: 100
+  num_utt: 204
+8118:
+  f0_max: 280
+  f0_min: 100
+  num_utt: 240
+8119:
+  f0_max: 170
+  f0_min: 50
+  num_utt: 125
+8123:
+  f0_max: 400
+  f0_min: 100
+  num_utt: 248
+8138:
+  f0_max: 250
+  f0_min: 90
+  num_utt: 131
+8142:
+  f0_max: 300
+  f0_min: 80
+  num_utt: 195
+8152:
+  f0_max: 200
+  f0_min: 50
+  num_utt: 215
+8163:
+  f0_max: 500
+  f0_min: 100
+  num_utt: 131
+8176:
+  f0_max: 250
+  f0_min: 50
+  num_utt: 172
+8183:
+  f0_max: 400
+  f0_min: 90
+  num_utt: 179
+8190:
+  f0_max: 400
+  f0_min: 90
+  num_utt: 113
+8193:
+  f0_max: 400
+  f0_min: 80
+  num_utt: 182
+8194:
+  f0_max: 390
+  f0_min: 95
+  num_utt: 215
+8195:
+  f0_max: 300
+  f0_min: 70
+  num_utt: 159
+8222:
+  f0_max: 250
+  f0_min: 50
+  num_utt: 115
+8224:
+  f0_max: 300
+  f0_min: 80
+  num_utt: 29
+8225:
+  f0_max: 200
+  f0_min: 80
+  num_utt: 114
+8226:
+  f0_max: 320
+  f0_min: 80
+  num_utt: 74
+8228:
+  f0_max: 410
+  f0_min: 110
+  num_utt: 23
+8230:
+  f0_max: 270
+  f0_min: 80
+  num_utt: 120
+8238:
+  f0_max: 470
+  f0_min: 120
+  num_utt: 141
+8266:
+  f0_max: 300
+  f0_min: 70
+  num_utt: 163
+8297:
+  f0_max: 250
+  f0_min: 80
+  num_utt: 265
+8300:
+  f0_max: 320
+  f0_min: 90
+  num_utt: 40
+8312:
+  f0_max: 360
+  f0_min: 100
+  num_utt: 203
+8324:
+  f0_max: 460
+  f0_min: 90
+  num_utt: 215
+8329:
+  f0_max: 530
+  f0_min: 100
+  num_utt: 143
+8347:
+  f0_max: 200
+  f0_min: 50
+  num_utt: 68
+8388:
+  f0_max: 340
+  f0_min: 90
+  num_utt: 216
+8396:
+  f0_max: 280
+  f0_min: 80
+  num_utt: 153
+8401:
+  f0_max: 300
+  f0_min: 80
+  num_utt: 104
+8404:
+  f0_max: 310
+  f0_min: 100
+  num_utt: 150
+8410:
+  f0_max: 230
+  f0_min: 50
+  num_utt: 290
+8419:
+  f0_max: 500
+  f0_min: 90
+  num_utt: 244
+8421:
+  f0_max: 230
+  f0_min: 70
+  num_utt: 96
+8425:
+  f0_max: 300
+  f0_min: 70
+  num_utt: 12
+8455:
+  f0_max: 250
+  f0_min: 50
+  num_utt: 101
+8459:
+  f0_max: 300
+  f0_min: 90
+  num_utt: 68
+8463:
+  f0_max: 300
+  f0_min: 80
+  num_utt: 161
+8464:
+  f0_max: 200
+  f0_min: 50
+  num_utt: 106
+8465:
+  f0_max: 320
+  f0_min: 110
+  num_utt: 169
+8468:
+  f0_max: 400
+  f0_min: 100
+  num_utt: 211
+8474:
+  f0_max: 250
+  f0_min: 50
+  num_utt: 177
+8479:
+  f0_max: 280
+  f0_min: 75
+  num_utt: 51
+8490:
+  f0_max: 300
+  f0_min: 80
+  num_utt: 18
+8494:
+  f0_max: 250
+  f0_min: 90
+  num_utt: 139
+8498:
+  f0_max: 230
+  f0_min: 50
+  num_utt: 330
+8506:
+  f0_max: 300
+  f0_min: 90
+  num_utt: 293
+8527:
+  f0_max: 250
+  f0_min: 70
+  num_utt: 215
+8534:
+  f0_max: 300
+  f0_min: 90
+  num_utt: 141
+8545:
+  f0_max: 400
+  f0_min: 100
+  num_utt: 73
+8555:
+  f0_max: 400
+  f0_min: 110
+  num_utt: 179
+8573:
+  f0_max: 420
+  f0_min: 110
+  num_utt: 97
+8575:
+  f0_max: 235
+  f0_min: 55
+  num_utt: 62
+8580:
+  f0_max: 300
+  f0_min: 80
+  num_utt: 194
+8591:
+  f0_max: 410
+  f0_min: 90
+  num_utt: 152
+8592:
+  f0_max: 250
+  f0_min: 75
+  num_utt: 28
+8605:
+  f0_max: 320
+  f0_min: 80
+  num_utt: 138
+8609:
+  f0_max: 300
+  f0_min: 80
+  num_utt: 193
+8619:
+  f0_max: 250
+  f0_min: 50
+  num_utt: 34
+8629:
+  f0_max: 300
+  f0_min: 50
+  num_utt: 89
+8630:
+  f0_max: 250
+  f0_min: 50
+  num_utt: 148
+8635:
+  f0_max: 300
+  f0_min: 80
+  num_utt: 114
+8643:
+  f0_max: 270
+  f0_min: 50
+  num_utt: 188
+8677:
+  f0_max: 400
+  f0_min: 90
+  num_utt: 109
+8684:
+  f0_max: 400
+  f0_min: 90
+  num_utt: 247
+8687:
+  f0_max: 370
+  f0_min: 90
+  num_utt: 101
+8699:
+  f0_max: 330
+  f0_min: 100
+  num_utt: 487
+8705:
+  f0_max: 280
+  f0_min: 80
+  num_utt: 42
+8713:
+  f0_max: 300
+  f0_min: 90
+  num_utt: 139
+8718:
+  f0_max: 600
+  f0_min: 85
+  num_utt: 210
+8722:
+  f0_max: 290
+  f0_min: 90
+  num_utt: 4
+8725:
+  f0_max: 250
+  f0_min: 50
+  num_utt: 147
+8742:
+  f0_max: 250
+  f0_min: 50
+  num_utt: 85
+8747:
+  f0_max: 300
+  f0_min: 50
+  num_utt: 185
+8758:
+  f0_max: 320
+  f0_min: 80
+  num_utt: 134
+8770:
+  f0_max: 300
+  f0_min: 90
+  num_utt: 140
+8771:
+  f0_max: 400
+  f0_min: 120
+  num_utt: 57
+8772:
+  f0_max: 220
+  f0_min: 50
+  num_utt: 158
+8776:
+  f0_max: 330
+  f0_min: 100
+  num_utt: 138
+8786:
+  f0_max: 300
+  f0_min: 80
+  num_utt: 123
+8791:
+  f0_max: 280
+  f0_min: 50
+  num_utt: 125
+8797:
+  f0_max: 250
+  f0_min: 50
+  num_utt: 105
+8820:
+  f0_max: 250
+  f0_min: 75
+  num_utt: 195
+8824:
+  f0_max: 300
+  f0_min: 85
+  num_utt: 123
+8825:
+  f0_max: 400
+  f0_min: 140
+  num_utt: 130
+8838:
+  f0_max: 300
+  f0_min: 80
+  num_utt: 278
+8842:
+  f0_max: 300
+  f0_min: 100
+  num_utt: 59
+8848:
+  f0_max: 200
+  f0_min: 80
+  num_utt: 375
+8855:
+  f0_max: 290
+  f0_min: 80
+  num_utt: 241
+8875:
+  f0_max: 170
+  f0_min: 50
+  num_utt: 112
+8879:
+  f0_max: 290
+  f0_min: 80
+  num_utt: 71
+8887:
+  f0_max: 280
+  f0_min: 80
+  num_utt: 197
+8975:
+  f0_max: 540
+  f0_min: 120
+  num_utt: 68
+9022:
+  f0_max: 370
+  f0_min: 80
+  num_utt: 206
+9023:
+  f0_max: 400
+  f0_min: 100
+  num_utt: 107
+9026:
+  f0_max: 440
+  f0_min: 100
+  num_utt: 60

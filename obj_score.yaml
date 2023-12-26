@@ -1,0 +1,4923 @@
+# rmse: log f0 root mean square, lower is better
+# stft: l2 distance of log stft amp, lower is better
+# vuv: voiced/unvoiced decision error rate, lower is better
+14:
+  rmse: 0.099
+  stft: 0.886
+  vuv: 8
+16:
+  rmse: 0.105
+  stft: 0.896
+  vuv: 10
+17:
+  rmse: 0.189
+  stft: 0.946
+  vuv: 17
+19:
+  rmse: 0.096
+  stft: 0.992
+  vuv: 9
+22:
+  rmse: 0.082
+  stft: 0.861
+  vuv: 10
+26:
+  rmse: 0.104
+  stft: 0.852
+  vuv: 12
+27:
+  rmse: 0.11
+  stft: 0.85
+  vuv: 12
+28:
+  rmse: 0.101
+  stft: 0.855
+  vuv: 9
+30:
+  rmse: 0.058
+  stft: 0.847
+  vuv: 8
+32:
+  rmse: 0.098
+  stft: 0.888
+  vuv: 9
+38:
+  rmse: 0.073
+  stft: 0.864
+  vuv: 11
+39:
+  rmse: 0.072
+  stft: 0.902
+  vuv: 9
+40:
+  rmse: 0.069
+  stft: 0.87
+  vuv: 9
+54:
+  rmse: 0.08
+  stft: 0.926
+  vuv: 10
+55:
+  rmse: 0.091
+  stft: 0.823
+  vuv: 11
+56:
+  rmse: 0.076
+  stft: 0.915
+  vuv: 10
+60:
+  rmse: 0.148
+  stft: 0.912
+  vuv: 16
+61:
+  rmse: 0.078
+  stft: 0.902
+  vuv: 15
+64:
+  rmse: 0.099
+  stft: 0.922
+  vuv: 7
+70:
+  rmse: 0.075
+  stft: 0.813
+  vuv: 8
+78:
+  rmse: 0.11
+  stft: 0.819
+  vuv: 14
+79:
+  rmse: 0.106
+  stft: 0.857
+  vuv: 9
+81:
+  rmse: 0.076
+  stft: 0.839
+  vuv: 10
+83:
+  rmse: 0.097
+  stft: 0.848
+  vuv: 8
+84:
+  rmse: 0.084
+  stft: 0.877
+  vuv: 7
+87:
+  rmse: 0.091
+  stft: 0.827
+  vuv: 6
+89:
+  rmse: 0.103
+  stft: 0.89
+  vuv: 9
+90:
+  rmse: 0.103
+  stft: 0.894
+  vuv: 11
+93:
+  rmse: 0.089
+  stft: 0.87
+  vuv: 10
+98:
+  rmse: 0.084
+  stft: 0.868
+  vuv: 8
+100:
+  rmse: 0.072
+  stft: 0.882
+  vuv: 8
+101:
+  rmse: 0.118
+  stft: 0.866
+  vuv: 12
+103:
+  rmse: 0.09
+  stft: 1.088
+  vuv: 9
+112:
+  rmse: 0.097
+  stft: 0.886
+  vuv: 8
+114:
+  rmse: 0.057
+  stft: 0.908
+  vuv: 8
+115:
+  rmse: 0.075
+  stft: 0.894
+  vuv: 8
+118:
+  rmse: 0.112
+  stft: 0.847
+  vuv: 9
+119:
+  rmse: 0.123
+  stft: 0.871
+  vuv: 14
+121:
+  rmse: 0.078
+  stft: 0.858
+  vuv: 9
+122:
+  rmse: 0.078
+  stft: 0.865
+  vuv: 11
+125:
+  rmse: 0.104
+  stft: 0.917
+  vuv: 10
+126:
+  rmse: 0.11
+  stft: 0.87
+  vuv: 10
+150:
+  rmse: 0.111
+  stft: 0.895
+  vuv: 10
+154:
+  rmse: 0.088
+  stft: 0.906
+  vuv: 16
+157:
+  rmse: 0.091
+  stft: 0.962
+  vuv: 12
+159:
+  rmse: 0.1
+  stft: 0.882
+  vuv: 12
+163:
+  rmse: 0.07
+  stft: 0.816
+  vuv: 10
+166:
+  rmse: 0.091
+  stft: 0.884
+  vuv: 8
+174:
+  rmse: 0.093
+  stft: 0.895
+  vuv: 10
+175:
+  rmse: 0.065
+  stft: 0.937
+  vuv: 9
+176:
+  rmse: 0.072
+  stft: 0.795
+  vuv: 10
+188:
+  rmse: 0.088
+  stft: 0.877
+  vuv: 10
+192:
+  rmse: 0.091
+  stft: 0.887
+  vuv: 11
+196:
+  rmse: 0.113
+  stft: 0.82
+  vuv: 10
+198:
+  rmse: 0.102
+  stft: 0.895
+  vuv: 9
+200:
+  rmse: 0.091
+  stft: 0.847
+  vuv: 9
+201:
+  rmse: 0.12
+  stft: 0.797
+  vuv: 9
+203:
+  rmse: 0.1
+  stft: 0.88
+  vuv: 10
+204:
+  rmse: 0.133
+  stft: 0.84
+  vuv: 11
+205:
+  rmse: 0.089
+  stft: 0.831
+  vuv: 9
+207:
+  rmse: 0.12
+  stft: 0.871
+  vuv: 9
+208:
+  rmse: 0.089
+  stft: 0.916
+  vuv: 8
+209:
+  rmse: 0.095
+  stft: 0.844
+  vuv: 9
+210:
+  rmse: 0.116
+  stft: 0.989
+  vuv: 16
+211:
+  rmse: 0.054
+  stft: 0.975
+  vuv: 10
+216:
+  rmse: 0.087
+  stft: 0.825
+  vuv: 12
+217:
+  rmse: 0.097
+  stft: 0.918
+  vuv: 11
+224:
+  rmse: 0.055
+  stft: 0.911
+  vuv: 8
+225:
+  rmse: 0.129
+  stft: 0.827
+  vuv: 9
+226:
+  rmse: 0.056
+  stft: 0.885
+  vuv: 9
+227:
+  rmse: 0.1
+  stft: 0.896
+  vuv: 8
+229:
+  rmse: 0.098
+  stft: 0.854
+  vuv: 10
+231:
+  rmse: 0.094
+  stft: 0.87
+  vuv: 8
+233:
+  rmse: 0.121
+  stft: 0.785
+  vuv: 8
+237:
+  rmse: 0.094
+  stft: 0.865
+  vuv: 8
+240:
+  rmse: 0.087
+  stft: 0.843
+  vuv: 10
+242:
+  rmse: 0.085
+  stft: 0.844
+  vuv: 7
+246:
+  rmse: 0.093
+  stft: 0.859
+  vuv: 9
+248:
+  rmse: 0.076
+  stft: 1.929
+  vuv: 11
+249:
+  rmse: 0.128
+  stft: 0.831
+  vuv: 9
+250:
+  rmse: 0.102
+  stft: 0.906
+  vuv: 10
+251:
+  rmse: 0.119
+  stft: 0.868
+  vuv: 9
+254:
+  rmse: 0.086
+  stft: 0.892
+  vuv: 11
+258:
+  rmse: 0.1 d
+  stft: 0.847
+  vuv: 10
+260:
+  rmse: 0.097
+  stft: 0.886
+  vuv: 13
+272:
+  rmse: 0.076
+  stft: 0.852
+  vuv: 11
+274:
+  rmse: 0.096
+  stft: 0.86
+  vuv: 11
+278:
+  rmse: 0.079
+  stft: 0.896
+  vuv: 10
+288:
+  rmse: 0.068
+  stft: 0.874
+  vuv: 8
+289:
+  rmse: 0.058
+  stft: 0.935
+  vuv: 12
+296:
+  rmse: 0.137
+  stft: 0.818
+  vuv: 11
+298:
+  rmse: 0.093
+  stft: 0.837
+  vuv: 7
+302:
+  rmse: 0.092
+  stft: 0.88
+  vuv: 8
+303:
+  rmse: 0.122
+  stft: 0.814
+  vuv: 10
+307:
+  rmse: 0.069
+  stft: 0.89
+  vuv: 9
+311:
+  rmse: 0.132
+  stft: 0.863
+  vuv: 15
+318:
+  rmse: 0.102
+  stft: 0.871
+  vuv: 9
+322:
+  rmse: 0.082
+  stft: 0.916
+  vuv: 9
+323:
+  rmse: 0.097
+  stft: 0.987
+  vuv: 10
+329:
+  rmse: 0.112
+  stft: 0.816
+  vuv: 10
+332:
+  rmse: 0.109
+  stft: 0.815
+  vuv: 11
+335:
+  rmse: 0.104
+  stft: 0.841
+  vuv: 9
+337:
+  rmse: 0.091
+  stft: 0.887
+  vuv: 9
+339:
+  rmse: 0.099
+  stft: 0.902
+  vuv: 11
+340:
+  rmse: 0.09
+  stft: 0.868
+  vuv: 10
+345:
+  rmse: 0.114
+  stft: 0.941
+  vuv: 11
+353:
+  rmse: 0.118
+  stft: 0.856
+  vuv: 10
+359:
+  rmse: 0.073
+  stft: 0.854
+  vuv: 10
+362:
+  rmse: 0.094
+  stft: 0.962
+  vuv: 9
+369:
+  rmse: 0.103
+  stft: 0.86
+  vuv: 10
+373:
+  rmse: 0.089
+  stft: 0.924
+  vuv: 9
+374:
+  rmse: 0.111
+  stft: 0.866
+  vuv: 9
+380:
+  rmse: 0.124
+  stft: 0.916
+  vuv: 12
+398:
+  rmse: 0.138
+  stft: 0.8
+  vuv: 10
+403:
+  rmse: 0.099
+  stft: 0.881
+  vuv: 8
+405:
+  rmse: 0.103
+  stft: 0.793
+  vuv: 10
+408:
+  rmse: 0.067
+  stft: 0.97
+  vuv: 10
+409:
+  rmse: 0.115
+  stft: 0.792
+  vuv: 9
+412:
+  rmse: 0.101
+  stft: 0.874
+  vuv: 13
+422:
+  rmse: 0.084
+  stft: 0.894
+  vuv: 16
+426:
+  rmse: 0.077
+  stft: 0.883
+  vuv: 10
+434:
+  rmse: 0.024
+  stft: 0.903
+  vuv: 8
+439:
+  rmse: 0.108
+  stft: 0.848
+  vuv: 11
+446:
+  rmse: 0.105
+  stft: 0.834
+  vuv: 12
+451:
+  rmse: 0.111
+  stft: 1.069
+  vuv: 10
+454:
+  rmse: 0.098
+  stft: 0.823
+  vuv: 11
+458:
+  rmse: 0.126
+  stft: 0.856
+  vuv: 11
+459:
+  rmse: 0.079
+  stft: 0.879
+  vuv: 12
+460:
+  rmse: 0.139
+  stft: 0.812
+  vuv: 9
+472:
+  rmse: 0.115
+  stft: 1.165
+  vuv: 11
+475:
+  rmse: 0.089
+  stft: 0.847
+  vuv: 10
+476:
+  rmse: 0.121
+  stft: 0.88
+  vuv: 13
+479:
+  rmse: 0.119
+  stft: 0.889
+  vuv: 9
+480:
+  rmse: 0.103
+  stft: 0.875
+  vuv: 8
+481:
+  rmse: 0.128
+  stft: 0.891
+  vuv: 11
+487:
+  rmse: 0.063
+  stft: 0.841
+  vuv: 8
+492:
+  rmse: 0.108
+  stft: 0.871
+  vuv: 12
+497:
+  rmse: 0.089
+  stft: 0.944
+  vuv: 14
+500:
+  rmse: 0.109
+  stft: 0.85
+  vuv: 12
+501:
+  rmse: 0.129
+  stft: 0.835
+  vuv: 12
+510:
+  rmse: 0.077
+  stft: 0.957
+  vuv: 14
+511:
+  rmse: 0.083
+  stft: 0.853
+  vuv: 11
+512:
+  rmse: 0.086
+  stft: 0.854
+  vuv: 12
+534:
+  rmse: 0.082
+  stft: 0.865
+  vuv: 7
+543:
+  rmse: 0.104
+  stft: 0.851
+  vuv: 9
+548:
+  rmse: 0.113
+  stft: 0.807
+  vuv: 9
+549:
+  rmse: 0.097
+  stft: 0.926
+  vuv: 9
+559:
+  rmse: 0.117
+  stft: 0.863
+  vuv: 11
+561:
+  rmse: 0.116
+  stft: 0.875
+  vuv: 13
+576:
+  rmse: 0.098
+  stft: 0.884
+  vuv: 9
+580:
+  rmse: 0.101
+  stft: 0.819
+  vuv: 11
+581:
+  rmse: 0.064
+  stft: 0.88
+  vuv: 9
+583:
+  rmse: 0.09
+  stft: 1.038
+  vuv: 13
+587:
+  rmse: 0.098
+  stft: 0.873
+  vuv: 11
+589:
+  rmse: 0.071
+  stft: 0.927
+  vuv: 9
+593:
+  rmse: 0.098
+  stft: 0.913
+  vuv: 13
+594:
+  rmse: 0.122
+  stft: 0.794
+  vuv: 7
+596:
+  rmse: 0.085
+  stft: 0.879
+  vuv: 8
+597:
+  rmse: 0.102
+  stft: 0.849
+  vuv: 10
+598:
+  rmse: 0.081
+  stft: 0.899
+  vuv: 8
+606:
+  rmse: 0.099
+  stft: 0.868
+  vuv: 11
+612:
+  rmse: 0.081
+  stft: 0.889
+  vuv: 9
+625:
+  rmse: 0.059
+  stft: 0.871
+  vuv: 9
+636:
+  rmse: 0.089
+  stft: 0.938
+  vuv: 11
+637:
+  rmse: 0.131
+  stft: 0.834
+  vuv: 11
+639:
+  rmse: 0.112
+  stft: 0.864
+  vuv: 11
+652:
+  rmse: 0.122
+  stft: 0.889
+  vuv: 15
+663:
+  rmse: 0.107
+  stft: 0.835
+  vuv: 14
+664:
+  rmse: 0.084
+  stft: 0.864
+  vuv: 9
+666:
+  rmse: 0.081
+  stft: 0.922
+  vuv: 9
+667:
+  rmse: 0.087
+  stft: 0.884
+  vuv: 11
+669:
+  rmse: 0.069
+  stft: 0.895
+  vuv: 9
+672:
+  rmse: 0.143
+  stft: 0.941
+  vuv: 12
+688:
+  rmse: 0.091
+  stft: 0.856
+  vuv: 9
+696:
+  rmse: 0.092
+  stft: 0.788
+  vuv: 6
+698:
+  rmse: 0.098
+  stft: 0.86
+  vuv: 9
+699:
+  rmse: 0.092
+  stft: 0.877
+  vuv: 8
+707:
+  rmse: 0.113
+  stft: 0.823
+  vuv: 10
+708:
+  rmse: 0.137
+  stft: 0.882
+  vuv: 12
+711:
+  rmse: 0.132
+  stft: 0.831
+  vuv: 12
+716:
+  rmse: 0.132
+  stft: 0.81
+  vuv: 10
+718:
+  rmse: 0.075
+  stft: 0.819
+  vuv: 10
+724:
+  rmse: 0.086
+  stft: 0.867
+  vuv: 9
+730:
+  rmse: 0.076
+  stft: 0.877
+  vuv: 9
+731:
+  rmse: 0.088
+  stft: 0.853
+  vuv: 8
+764:
+  rmse: 0.13
+  stft: 0.828
+  vuv: 10
+770:
+  rmse: 0.084
+  stft: 0.819
+  vuv: 9
+777:
+  rmse: 0.08
+  stft: 0.83
+  vuv: 9
+781:
+  rmse: 0.092
+  stft: 0.845
+  vuv: 10
+783:
+  rmse: 0.087
+  stft: 0.85
+  vuv: 8
+803:
+  rmse: 0.092
+  stft: 0.806
+  vuv: 12
+806:
+  rmse: 0.144
+  stft: 0.811
+  vuv: 10
+815:
+  rmse: 0.162
+  stft: 0.899
+  vuv: 15
+816:
+  rmse: 0.105
+  stft: 0.883
+  vuv: 11
+820:
+  rmse: 0.065
+  stft: 0.974
+  vuv: 5
+829:
+  rmse: 0.074
+  stft: 1.227
+  vuv: 9
+830:
+  rmse: 0.108
+  stft: 0.945
+  vuv: 15
+831:
+  rmse: 0.103
+  stft: 0.822
+  vuv: 11
+835:
+  rmse: 0.085
+  stft: 0.845
+  vuv: 10
+836:
+  rmse: 0.146
+  stft: 0.854
+  vuv: 12
+839:
+  rmse: 0.079
+  stft: 0.862
+  vuv: 11
+850:
+  rmse: 0.124
+  stft: 0.823
+  vuv: 11
+868:
+  rmse: 0.114
+  stft: 0.848
+  vuv: 11
+882:
+  rmse: 0.089
+  stft: 0.908
+  vuv: 9
+887:
+  rmse: 0.09
+  stft: 0.873
+  vuv: 9
+899:
+  rmse: 0.084
+  stft: 0.859
+  vuv: 9
+908:
+  rmse: 0.079
+  stft: 0.851
+  vuv: 13
+909:
+  rmse: 0.126
+  stft: 0.796
+  vuv: 9
+911:
+  rmse: 0.127
+  stft: 0.852
+  vuv: 13
+920:
+  rmse: 0.09
+  stft: 1.026
+  vuv: 10
+922:
+  rmse: 0.114
+  stft: 0.835
+  vuv: 10
+925:
+  rmse: 0.098
+  stft: 0.854
+  vuv: 11
+948:
+  rmse: 0.077
+  stft: 0.859
+  vuv: 8
+949:
+  rmse: 0.079
+  stft: 0.819
+  vuv: 11
+953:
+  rmse: 0.127
+  stft: 0.825
+  vuv: 9
+954:
+  rmse: 0.084
+  stft: 0.849
+  vuv: 10
+957:
+  rmse: 0.122
+  stft: 0.865
+  vuv: 14
+968:
+  rmse: 0.065
+  stft: 0.874
+  vuv: 8
+979:
+  rmse: 0.089
+  stft: 0.9
+  vuv: 10
+984:
+  rmse: 0.07
+  stft: 0.803
+  vuv: 8
+986:
+  rmse: 0.107
+  stft: 0.82
+  vuv: 11
+1001:
+  rmse: 0.101
+  stft: 0.791
+  vuv: 7
+1012:
+  rmse: 0.084
+  stft: 0.912
+  vuv: 9
+1018:
+  rmse: 0.084
+  stft: 0.812
+  vuv: 9
+1025:
+  rmse: 0.071
+  stft: 0.801
+  vuv: 10
+1027:
+  rmse: 0.122
+  stft: 0.814
+  vuv: 8
+1028:
+  rmse: 0.116
+  stft: 0.858
+  vuv: 11
+1034:
+  rmse: 0.11
+  stft: 0.872
+  vuv: 11
+1040:
+  rmse: 0.073
+  stft: 0.876
+  vuv: 10
+1046:
+  rmse: 0.123
+  stft: 0.837
+  vuv: 11
+1050:
+  rmse: 0.101
+  stft: 0.849
+  vuv: 9
+1052:
+  rmse: 0.101
+  stft: 0.92
+  vuv: 9
+1053:
+  rmse: 0.089
+  stft: 0.871
+  vuv: 8
+1054:
+  rmse: 0.107
+  stft: 0.915
+  vuv: 10
+1058:
+  rmse: 0.121
+  stft: 0.88
+  vuv: 12
+1060:
+  rmse: 0.087
+  stft: 0.925
+  vuv: 8
+1061:
+  rmse: 0.101
+  stft: 0.877
+  vuv: 9
+1066:
+  rmse: 0.083
+  stft: 0.898
+  vuv: 9
+1069:
+  rmse: 0.095
+  stft: 0.9
+  vuv: 9
+1079:
+  rmse: 0.123
+  stft: 0.867
+  vuv: 11
+1081:
+  rmse: 0.069
+  stft: 1.043
+  vuv: 14
+1088:
+  rmse: 0.083
+  stft: 0.906
+  vuv: 9
+1089:
+  rmse: 0.1
+  stft: 0.809
+  vuv: 10
+1093:
+  rmse: 0.097
+  stft: 0.946
+  vuv: 10
+1098:
+  rmse: 0.107
+  stft: 0.849
+  vuv: 10
+1100:
+  rmse: 0.076
+  stft: 1.002
+  vuv: 10
+1112:
+  rmse: 0.131
+  stft: 0.871
+  vuv: 8
+1116:
+  rmse: 0.099
+  stft: 0.842
+  vuv: 8
+1121:
+  rmse: 0.194
+  stft: 0.856
+  vuv: 10
+1160:
+  rmse: 0.162
+  stft: 0.807
+  vuv: 9
+1165:
+  rmse: 0.193
+  stft: 0.839
+  vuv: 9
+1175:
+  rmse: 0.136
+  stft: 0.813
+  vuv: 6
+1182:
+  rmse: 0.121
+  stft: 0.842
+  vuv: 11
+1183:
+  rmse: 0.092
+  stft: 0.955
+  vuv: 11
+1188:
+  rmse: 0.132
+  stft: 0.84
+  vuv: 13
+1195:
+  rmse: 0.08
+  stft: 0.817
+  vuv: 7
+1212:
+  rmse: 0.084
+  stft: 0.878
+  vuv: 8
+1221:
+  rmse: 0.101
+  stft: 0.959
+  vuv: 10
+1222:
+  rmse: 0.135
+  stft: 0.804
+  vuv: 10
+1224:
+  rmse: 0.089
+  stft: 0.978
+  vuv: 11
+1226:
+  rmse: 0.102
+  stft: 0.809
+  vuv: 10
+1235:
+  rmse: 0.11
+  stft: 0.809
+  vuv: 10
+1241:
+  rmse: 0.142
+  stft: 0.876
+  vuv: 10
+1246:
+  rmse: 0.088
+  stft: 0.852
+  vuv: 8
+1259:
+  rmse: 0.19
+  stft: 0.938
+  vuv: 14
+1263:
+  rmse: 0.168
+  stft: 0.848
+  vuv: 9
+1264:
+  rmse: 0.11
+  stft: 0.843
+  vuv: 10
+1265:
+  rmse: 0.073
+  stft: 0.868
+  vuv: 9
+1271:
+  rmse: 0.149
+  stft: 0.873
+  vuv: 13
+1272:
+  rmse: 0.117
+  stft: 0.849
+  vuv: 12
+1283:
+  rmse: 0.128
+  stft: 0.867
+  vuv: 9
+1284:
+  rmse: 0.088
+  stft: 0.854
+  vuv: 7
+1289:
+  rmse: 0.074
+  stft: 0.841
+  vuv: 10
+1290:
+  rmse: 0.075
+  stft: 0.964
+  vuv: 10
+1296:
+  rmse: 0.171
+  stft: 0.995
+  vuv: 14
+1311:
+  rmse: 0.143
+  stft: 0.861
+  vuv: 11
+1313:
+  rmse: 0.17
+  stft: 0.865
+  vuv: 8
+1316:
+  rmse: 0.107
+  stft: 0.841
+  vuv: 12
+1320:
+  rmse: 0.109
+  stft: 0.828
+  vuv: 12
+1322:
+  rmse: 0.107
+  stft: 0.841
+  vuv: 11
+1323:
+  rmse: 0.116
+  stft: 0.833
+  vuv: 7
+1334:
+  rmse: 0.117
+  stft: 0.876
+  vuv: 11
+1335:
+  rmse: 0.083
+  stft: 0.955
+  vuv: 7
+1336:
+  rmse: 0.146
+  stft: 0.839
+  vuv: 10
+1337:
+  rmse: 0.082
+  stft: 0.846
+  vuv: 9
+1343:
+  rmse: 0.141
+  stft: 0.888
+  vuv: 12
+1348:
+  rmse: 0.153
+  stft: 0.894
+  vuv: 10
+1349:
+  rmse: 0.132
+  stft: 0.852
+  vuv: 11
+1355:
+  rmse: 0.089
+  stft: 0.792
+  vuv: 7
+1363:
+  rmse: 0.089
+  stft: 0.826
+  vuv: 9
+1365:
+  rmse: 0.151
+  stft: 0.851
+  vuv: 11
+1379:
+  rmse: 0.11
+  stft: 0.925
+  vuv: 8
+1382:
+  rmse: 0.046
+  stft: 0.93
+  vuv: 9
+1383:
+  rmse: 0.078
+  stft: 0.89
+  vuv: 13
+1387:
+  rmse: 0.119
+  stft: 0.837
+  vuv: 10
+1390:
+  rmse: 0.096
+  stft: 0.916
+  vuv: 10
+1392:
+  rmse: 0.153
+  stft: 0.846
+  vuv: 12
+1401:
+  rmse: 0.13
+  stft: 0.891
+  vuv: 12
+1413:
+  rmse: 0.122
+  stft: 0.815
+  vuv: 10
+1417:
+  rmse: 0.143
+  stft: 0.941
+  vuv: 12
+1422:
+  rmse: 0.097
+  stft: 0.884
+  vuv: 9
+1425:
+  rmse: 0.168
+  stft: 0.996
+  vuv: 10
+1445:
+  rmse: 0.149
+  stft: 0.849
+  vuv: 14
+1446:
+  rmse: 0.173
+  stft: 0.821
+  vuv: 7
+1447:
+  rmse: 0.124
+  stft: 0.836
+  vuv: 8
+1448:
+  rmse: 0.088
+  stft: 0.909
+  vuv: 9
+1455:
+  rmse: 0.159
+  stft: 0.914
+  vuv: 14
+1460:
+  rmse: 0.089
+  stft: 0.889
+  vuv: 12
+1462:
+  rmse: 0.101
+  stft: 0.89
+  vuv: 7
+1463:
+  rmse: 0.131
+  stft: 0.849
+  vuv: 8
+1472:
+  rmse: 0.149
+  stft: 0.979
+  vuv: 14
+1473:
+  rmse: 0.106
+  stft: 0.837
+  vuv: 12
+1482:
+  rmse: 0.109
+  stft: 0.836
+  vuv: 10
+1487:
+  rmse: 0.117
+  stft: 0.847
+  vuv: 10
+1498:
+  rmse: 0.083
+  stft: 0.898
+  vuv: 9
+1502:
+  rmse: 0.095
+  stft: 0.839
+  vuv: 8
+1509:
+  rmse: 0.088
+  stft: 0.894
+  vuv: 8
+1513:
+  rmse: 0.14
+  stft: 0.858
+  vuv: 10
+1535:
+  rmse: 0.103
+  stft: 0.849
+  vuv: 11
+1536:
+  rmse: 0.083
+  stft: 0.886
+  vuv: 11
+1547:
+  rmse: 0.071
+  stft: 0.899
+  vuv: 9
+1552:
+  rmse: 0.133
+  stft: 0.898
+  vuv: 14
+1553:
+  rmse: 0.097
+  stft: 0.864
+  vuv: 8
+1556:
+  rmse: 0.08
+  stft: 0.83
+  vuv: 9
+1571:
+  rmse: 0.126
+  stft: 0.819
+  vuv: 10
+1578:
+  rmse: 0.079
+  stft: 0.865
+  vuv: 8
+1580:
+  rmse: 0.09
+  stft: 0.891
+  vuv: 9
+1594:
+  rmse: 0.125
+  stft: 0.798
+  vuv: 11
+1603:
+  rmse: 0.127
+  stft: 0.822
+  vuv: 11
+1607:
+  rmse: 0.108
+  stft: 0.818
+  vuv: 10
+1624:
+  rmse: 0.145
+  stft: 0.845
+  vuv: 11
+1629:
+  rmse: 0.106
+  stft: 0.87
+  vuv: 10
+1638:
+  rmse: 0.095
+  stft: 0.857
+  vuv: 9
+1639:
+  rmse: 0.125
+  stft: 0.824
+  vuv: 11
+1641:
+  rmse: 0.079
+  stft: 0.922
+  vuv: 10
+1645:
+  rmse: 0.11
+  stft: 0.826
+  vuv: 10
+1649:
+  rmse: 0.082
+  stft: 0.843
+  vuv: 7
+1668:
+  rmse: 0.083
+  stft: 0.88
+  vuv: 8
+1673:
+  rmse: 0.08
+  stft: 0.898
+  vuv: 8
+1678:
+  rmse: 0.086
+  stft: 0.954
+  vuv: 9
+1705:
+  rmse: 0.15
+  stft: 0.837
+  vuv: 10
+1724:
+  rmse: 0.143
+  stft: 0.861
+  vuv: 12
+1731:
+  rmse: 0.066
+  stft: 0.941
+  vuv: 10
+1734:
+  rmse: 0.203
+  stft: 0.859
+  vuv: 11
+1737:
+  rmse: 0.089
+  stft: 0.942
+  vuv: 9
+1740:
+  rmse: 0.096
+  stft: 0.911
+  vuv: 10
+1743:
+  rmse: 0.136
+  stft: 0.815
+  vuv: 7
+1748:
+  rmse: 0.121
+  stft: 0.824
+  vuv: 12
+1752:
+  rmse: 0.136
+  stft: 0.892
+  vuv: 12
+1754:
+  rmse: 0.094
+  stft: 0.917
+  vuv: 8
+1769:
+  rmse: 0.12
+  stft: 0.776
+  vuv: 8
+1776:
+  rmse: 0.151
+  stft: 0.808
+  vuv: 8
+1777:
+  rmse: 0.113
+  stft: 0.805
+  vuv: 11
+1779:
+  rmse: 0.086
+  stft: 0.851
+  vuv: 8
+1789:
+  rmse: 0.117
+  stft: 0.85
+  vuv: 9
+1801:
+  rmse: 0.128
+  stft: 0.79
+  vuv: 10
+1806:
+  rmse: 0.195
+  stft: 0.871
+  vuv: 12
+1811:
+  rmse: 0.143
+  stft: 0.814
+  vuv: 10
+1825:
+  rmse: 0.083
+  stft: 0.934
+  vuv: 8
+1826:
+  rmse: 0.119
+  stft: 0.974
+  vuv: 9
+1827:
+  rmse: 0.16
+  stft: 0.851
+  vuv: 12
+1841:
+  rmse: 0.121
+  stft: 0.851
+  vuv: 9
+1845:
+  rmse: 0.078
+  stft: 0.851
+  vuv: 13
+1849:
+  rmse: 0.127
+  stft: 0.851
+  vuv: 11
+1851:
+  rmse: 0.07
+  stft: 0.921
+  vuv: 9
+1859:
+  rmse: 0.122
+  stft: 0.86
+  vuv: 10
+1867:
+  rmse: 0.087
+  stft: 0.841
+  vuv: 9
+1874:
+  rmse: 0.14
+  stft: 0.834
+  vuv: 12
+1885:
+  rmse: 0.075
+  stft: 0.941
+  vuv: 9
+1898:
+  rmse: 0.092
+  stft: 0.918
+  vuv: 9
+1903:
+  rmse: 0.111
+  stft: 0.841
+  vuv: 11
+1913:
+  rmse: 0.11
+  stft: 0.871
+  vuv: 10
+1914:
+  rmse: 0.135
+  stft: 0.929
+  vuv: 12
+1919:
+  rmse: 0.07
+  stft: 0.891
+  vuv: 9
+1923:
+  rmse: 0.071
+  stft: 0.877
+  vuv: 9
+1926:
+  rmse: 0.07
+  stft: 0.962
+  vuv: 8
+1933:
+  rmse: 0.133
+  stft: 0.876
+  vuv: 10
+1943:
+  rmse: 0.106
+  stft: 0.828
+  vuv: 8
+1944:
+  rmse: 0.081
+  stft: 0.875
+  vuv: 9
+1958:
+  rmse: 0.094
+  stft: 0.88
+  vuv: 11
+1961:
+  rmse: 0.087
+  stft: 0.897
+  vuv: 10
+1963:
+  rmse: 0.124
+  stft: 0.889
+  vuv: 9
+1970:
+  rmse: 0.089
+  stft: 0.862
+  vuv: 9
+1974:
+  rmse: 0.106
+  stft: 0.873
+  vuv: 8
+1987:
+  rmse: 0.116
+  stft: 0.809
+  vuv: 10
+1988:
+  rmse: 0.18
+  stft: 0.886
+  vuv: 10
+1992:
+  rmse: 0.097
+  stft: 0.886
+  vuv: 8
+1993:
+  rmse: 0.081
+  stft: 0.929
+  vuv: 9
+1995:
+  rmse: 0.087
+  stft: 0.848
+  vuv: 7
+2002:
+  rmse: 0.079
+  stft: 0.84
+  vuv: 10
+2004:
+  rmse: 0.085
+  stft: 0.885
+  vuv: 8
+2007:
+  rmse: 0.097
+  stft: 0.912
+  vuv: 10
+2010:
+  rmse: 0.09
+  stft: 0.804
+  vuv: 8
+2012:
+  rmse: 0.098
+  stft: 0.805
+  vuv: 8
+2035:
+  rmse: 0.08
+  stft: 0.89
+  vuv: 7
+2039:
+  rmse: 0.082
+  stft: 0.817
+  vuv: 9
+2045:
+  rmse: 0.087
+  stft: 0.834
+  vuv: 11
+2053:
+  rmse: 0.124
+  stft: 0.84
+  vuv: 12
+2056:
+  rmse: 0.094
+  stft: 0.849
+  vuv: 9
+2060:
+  rmse: 0.072
+  stft: 0.86
+  vuv: 9
+2061:
+  rmse: 0.125
+  stft: 0.841
+  vuv: 10
+2074:
+  rmse: 0.13
+  stft: 0.853
+  vuv: 12
+2078:
+  rmse: 0.144
+  stft: 0.851
+  vuv: 11
+2085:
+  rmse: 0.15
+  stft: 1.003
+  vuv: 0
+2086:
+  rmse: 0.133
+  stft: 0.838
+  vuv: 13
+2092:
+  rmse: 0.114
+  stft: 0.861
+  vuv: 10
+2093:
+  rmse: 0.123
+  stft: 0.876
+  vuv: 10
+2110:
+  rmse: 0.169
+  stft: 0.829
+  vuv: 12
+2113:
+  rmse: 0.102
+  stft: 0.942
+  vuv: 9
+2127:
+  rmse: 0.118
+  stft: 0.828
+  vuv: 10
+2136:
+  rmse: 0.108
+  stft: 0.812
+  vuv: 9
+2137:
+  rmse: 0.132
+  stft: 0.844
+  vuv: 9
+2146:
+  rmse: 0.107
+  stft: 0.843
+  vuv: 10
+2149:
+  rmse: 0.076
+  stft: 0.86
+  vuv: 9
+2156:
+  rmse: 0.112
+  stft: 0.798
+  vuv: 9
+2159:
+  rmse: 0.119
+  stft: 0.852
+  vuv: 14
+2162:
+  rmse: 0.095
+  stft: 0.801
+  vuv: 10
+2167:
+  rmse: 0.075
+  stft: 0.935
+  vuv: 13
+2182:
+  rmse: 0.146
+  stft: 0.971
+  vuv: 7
+2194:
+  rmse: 0.088
+  stft: 0.859
+  vuv: 8
+2196:
+  rmse: 0.098
+  stft: 0.809
+  vuv: 8
+2201:
+  rmse: 0.075
+  stft: 0.826
+  vuv: 10
+2204:
+  rmse: 0.127
+  stft: 0.819
+  vuv: 8
+2229:
+  rmse: 0.13
+  stft: 0.897
+  vuv: 12
+2230:
+  rmse: 0.092
+  stft: 1.014
+  vuv: 7
+2238:
+  rmse: 0.127
+  stft: 0.82
+  vuv: 9
+2240:
+  rmse: 0.072
+  stft: 0.799
+  vuv: 8
+2254:
+  rmse: 0.073
+  stft: 0.91
+  vuv: 10
+2256:
+  rmse: 0.12
+  stft: 0.874
+  vuv: 11
+2269:
+  rmse: 0.138
+  stft: 0.845
+  vuv: 10
+2272:
+  rmse: 0.1
+  stft: 0.852
+  vuv: 11
+2277:
+  rmse: 0.081
+  stft: 0.957
+  vuv: 9
+2285:
+  rmse: 0.126
+  stft: 0.838
+  vuv: 13
+2289:
+  rmse: 0.114
+  stft: 0.845
+  vuv: 11
+2294:
+  rmse: 0.142
+  stft: 0.822
+  vuv: 7
+2299:
+  rmse: 0.116
+  stft: 0.807
+  vuv: 9
+2300:
+  rmse: 0.11
+  stft: 0.806
+  vuv: 8
+2319:
+  rmse: 0.132
+  stft: 0.855
+  vuv: 13
+2364:
+  rmse: 0.127
+  stft: 0.832
+  vuv: 10
+2368:
+  rmse: 0.079
+  stft: 0.935
+  vuv: 9
+2384:
+  rmse: 0.078
+  stft: 0.823
+  vuv: 12
+2388:
+  rmse: 0.135
+  stft: 0.829
+  vuv: 10
+2391:
+  rmse: 0.089
+  stft: 0.881
+  vuv: 8
+2393:
+  rmse: 0.124
+  stft: 0.967
+  vuv: 10
+2397:
+  rmse: 0.103
+  stft: 0.862
+  vuv: 11
+2401:
+  rmse: 0.091
+  stft: 0.868
+  vuv: 8
+2404:
+  rmse: 0.185
+  stft: 0.928
+  vuv: 8
+2411:
+  rmse: 0.096
+  stft: 0.891
+  vuv: 8
+2412:
+  rmse: 0.078
+  stft: 0.888
+  vuv: 7
+2416:
+  rmse: 0.12
+  stft: 0.892
+  vuv: 10
+2427:
+  rmse: 0.117
+  stft: 0.826
+  vuv: 13
+2428:
+  rmse: 0.181
+  stft: 0.816
+  vuv: 8
+2436:
+  rmse: 0.133
+  stft: 0.961
+  vuv: 13
+2473:
+  rmse: 0.132
+  stft: 0.826
+  vuv: 9
+2481:
+  rmse: 0.082
+  stft: 0.875
+  vuv: 9
+2494:
+  rmse: 0.119
+  stft: 0.837
+  vuv: 14
+2498:
+  rmse: 0.111
+  stft: 0.953
+  vuv: 13
+2499:
+  rmse: 0.134
+  stft: 0.866
+  vuv: 12
+2512:
+  rmse: 0.07
+  stft: 0.915
+  vuv: 5
+2514:
+  rmse: 0.103
+  stft: 0.817
+  vuv: 10
+2517:
+  rmse: 0.099
+  stft: 0.78
+  vuv: 6
+2518:
+  rmse: 0.12
+  stft: 0.834
+  vuv: 11
+2531:
+  rmse: 0.109
+  stft: 0.874
+  vuv: 9
+2532:
+  rmse: 0.085
+  stft: 0.919
+  vuv: 11
+2562:
+  rmse: 0.113
+  stft: 0.862
+  vuv: 13
+2570:
+  rmse: 0.084
+  stft: 0.911
+  vuv: 9
+2573:
+  rmse: 0.144
+  stft: 1.09
+  vuv: 8
+2577:
+  rmse: 0.15
+  stft: 0.907
+  vuv: 11
+2581:
+  rmse: 0.139
+  stft: 0.966
+  vuv: 11
+2582:
+  rmse: 0.087
+  stft: 0.925
+  vuv: 8
+2589:
+  rmse: 0.112
+  stft: 0.813
+  vuv: 11
+2592:
+  rmse: 0.073
+  stft: 0.905
+  vuv: 8
+2598:
+  rmse: 0.124
+  stft: 0.861
+  vuv: 10
+2618:
+  rmse: 0.129
+  stft: 0.809
+  vuv: 9
+2628:
+  rmse: 0.099
+  stft: 0.875
+  vuv: 8
+2638:
+  rmse: 0.115
+  stft: 0.871
+  vuv: 10
+2652:
+  rmse: 0.089
+  stft: 0.862
+  vuv: 7
+2654:
+  rmse: 0.133
+  stft: 0.823
+  vuv: 11
+2673:
+  rmse: 0.115
+  stft: 0.82
+  vuv: 11
+2674:
+  rmse: 0.144
+  stft: 0.814
+  vuv: 8
+2688:
+  rmse: 0.119
+  stft: 0.877
+  vuv: 12
+2691:
+  rmse: 0.087
+  stft: 0.814
+  vuv: 8
+2696:
+  rmse: 0.078
+  stft: 0.847
+  vuv: 12
+2709:
+  rmse: 0.078
+  stft: 0.863
+  vuv: 7
+2741:
+  rmse: 0.073
+  stft: 0.894
+  vuv: 9
+2751:
+  rmse: 0.122
+  stft: 0.866
+  vuv: 10
+2758:
+  rmse: 0.052
+  stft: 0.884
+  vuv: 7
+2764:
+  rmse: 0.033
+  stft: 0.955
+  vuv: 9
+2769:
+  rmse: 0.109
+  stft: 0.903
+  vuv: 10
+2774:
+  rmse: 0.122
+  stft: 0.796
+  vuv: 9
+2775:
+  rmse: 0.083
+  stft: 0.874
+  vuv: 7
+2785:
+  rmse: 0.135
+  stft: 0.918
+  vuv: 10
+2787:
+  rmse: 0.158
+  stft: 0.859
+  vuv: 11
+2790:
+  rmse: 0.104
+  stft: 0.907
+  vuv: 11
+2803:
+  rmse: 0.112
+  stft: 0.806
+  vuv: 10
+2812:
+  rmse: 0.145
+  stft: 0.814
+  vuv: 10
+2816:
+  rmse: 0.134
+  stft: 0.85
+  vuv: 17
+2817:
+  rmse: 0.1
+  stft: 0.898
+  vuv: 9
+2823:
+  rmse: 0.133
+  stft: 0.838
+  vuv: 10
+2827:
+  rmse: 0.107
+  stft: 0.811
+  vuv: 8
+2830:
+  rmse: 0.094
+  stft: 0.839
+  vuv: 11
+2836:
+  rmse: 0.111
+  stft: 0.91
+  vuv: 9
+2843:
+  rmse: 0.132
+  stft: 0.819
+  vuv: 11
+2853:
+  rmse: 0.094
+  stft: 0.925
+  vuv: 11
+2882:
+  rmse: 0.144
+  stft: 0.938
+  vuv: 12
+2893:
+  rmse: 0.097
+  stft: 0.859
+  vuv: 9
+2902:
+  rmse: 0.077
+  stft: 0.84
+  vuv: 10
+2910:
+  rmse: 0.092
+  stft: 0.82
+  vuv: 7
+2911:
+  rmse: 0.157
+  stft: 0.832
+  vuv: 10
+2920:
+  rmse: 0.138
+  stft: 0.872
+  vuv: 12
+2929:
+  rmse: 0.152
+  stft: 0.815
+  vuv: 11
+2952:
+  rmse: 0.107
+  stft: 1.003
+  vuv: 10
+2960:
+  rmse: 0.168
+  stft: 0.862
+  vuv: 14
+2961:
+  rmse: 0.084
+  stft: 0.883
+  vuv: 10
+2971:
+  rmse: 0.177
+  stft: 0.843
+  vuv: 11
+2989:
+  rmse: 0.065
+  stft: 0.887
+  vuv: 7
+2992:
+  rmse: 0.144
+  stft: 0.846
+  vuv: 12
+2999:
+  rmse: 0.136
+  stft: 0.809
+  vuv: 11
+3000:
+  rmse: 0.133
+  stft: 0.824
+  vuv: 11
+3001:
+  rmse: 0.05
+  stft: 0.91
+  vuv: 10
+3003:
+  rmse: 0.146
+  stft: 0.851
+  vuv: 11
+3008:
+  rmse: 0.088
+  stft: 0.845
+  vuv: 10
+3009:
+  rmse: 0.133
+  stft: 0.811
+  vuv: 9
+3025:
+  rmse: 0.114
+  stft: 0.874
+  vuv: 9
+3032:
+  rmse: 0.075
+  stft: 0.814
+  vuv: 9
+3046:
+  rmse: 0.085
+  stft: 0.878
+  vuv: 10
+3070:
+  rmse: 0.132
+  stft: 0.871
+  vuv: 8
+3072:
+  rmse: 0.131
+  stft: 0.826
+  vuv: 8
+3081:
+  rmse: 0.089
+  stft: 1.028
+  vuv: 15
+3082:
+  rmse: 0.153
+  stft: 0.857
+  vuv: 12
+3083:
+  rmse: 0.131
+  stft: 0.906
+  vuv: 11
+3094:
+  rmse: 0.098
+  stft: 0.868
+  vuv: 9
+3105:
+  rmse: 0.123
+  stft: 0.809
+  vuv: 10
+3112:
+  rmse: 0.08
+  stft: 0.897
+  vuv: 9
+3114:
+  rmse: 0.113
+  stft: 0.845
+  vuv: 13
+3118:
+  rmse: 0.155
+  stft: 0.964
+  vuv: 18
+3119:
+  rmse: 0.1
+  stft: 0.913
+  vuv: 12
+3157:
+  rmse: 0.141
+  stft: 0.83
+  vuv: 10
+3168:
+  rmse: 0.155
+  stft: 0.833
+  vuv: 11
+3170:
+  rmse: 0.138
+  stft: 0.811
+  vuv: 10
+3171:
+  rmse: 0.204
+  stft: 0.833
+  vuv: 13
+3180:
+  rmse: 0.127
+  stft: 0.858
+  vuv: 12
+3185:
+  rmse: 0.144
+  stft: 0.821
+  vuv: 10
+3187:
+  rmse: 0.142
+  stft: 1.241
+  vuv: 9
+3214:
+  rmse: 0.117
+  stft: 0.984
+  vuv: 12
+3215:
+  rmse: 0.096
+  stft: 0.879
+  vuv: 12
+3221:
+  rmse: 0.139
+  stft: 0.826
+  vuv: 11
+3224:
+  rmse: 0.075
+  stft: 0.848
+  vuv: 8
+3228:
+  rmse: 0.083
+  stft: 0.89
+  vuv: 6
+3230:
+  rmse: 0.097
+  stft: 0.796
+  vuv: 7
+3235:
+  rmse: 0.083
+  stft: 0.865
+  vuv: 7
+3240:
+  rmse: 0.12
+  stft: 0.827
+  vuv: 11
+3242:
+  rmse: 0.105
+  stft: 0.819
+  vuv: 7
+3258:
+  rmse: 0.091
+  stft: 0.817
+  vuv: 9
+3259:
+  rmse: 0.094
+  stft: 0.94
+  vuv: 11
+3274:
+  rmse: 0.168
+  stft: 0.827
+  vuv: 10
+3289:
+  rmse: 0.116
+  stft: 0.847
+  vuv: 10
+3294:
+  rmse: 0.082
+  stft: 0.856
+  vuv: 9
+3307:
+  rmse: 0.082
+  stft: 0.844
+  vuv: 12
+3328:
+  rmse: 0.126
+  stft: 0.845
+  vuv: 13
+3330:
+  rmse: 0.087
+  stft: 0.917
+  vuv: 9
+3340:
+  rmse: 0.122
+  stft: 0.872
+  vuv: 11
+3357:
+  rmse: 0.083
+  stft: 0.924
+  vuv: 9
+3361:
+  rmse: 0.106
+  stft: 0.922
+  vuv: 10
+3368:
+  rmse: 0.135
+  stft: 0.839
+  vuv: 7
+3370:
+  rmse: 0.143
+  stft: 0.845
+  vuv: 10
+3374:
+  rmse: 0.075
+  stft: 0.816
+  vuv: 8
+3379:
+  rmse: 0.088
+  stft: 0.88
+  vuv: 9
+3380:
+  rmse: 0.08
+  stft: 0.893
+  vuv: 8
+3389:
+  rmse: 0.146
+  stft: 1.002
+  vuv: 10
+3436:
+  rmse: 0.083
+  stft: 0.83
+  vuv: 10
+3440:
+  rmse: 0.096
+  stft: 0.925
+  vuv: 10
+3446:
+  rmse: 0.079
+  stft: 0.919
+  vuv: 9
+3448:
+  rmse: 0.101
+  stft: 0.802
+  vuv: 10
+3482:
+  rmse: 0.133
+  stft: 0.894
+  vuv: 13
+3483:
+  rmse: 0.079
+  stft: 0.831
+  vuv: 10
+3486:
+  rmse: 0.138
+  stft: 0.873
+  vuv: 10
+3490:
+  rmse: 0.109
+  stft: 0.812
+  vuv: 9
+3493:
+  rmse: 0.116
+  stft: 0.875
+  vuv: 10
+3513:
+  rmse: 0.09
+  stft: 0.854
+  vuv: 10
+3521:
+  rmse: 0.118
+  stft: 0.814
+  vuv: 10
+3526:
+  rmse: 0.081
+  stft: 0.924
+  vuv: 9
+3536:
+  rmse: 0.084
+  stft: 0.84
+  vuv: 8
+3537:
+  rmse: 0.094
+  stft: 0.83
+  vuv: 9
+3540:
+  rmse: 0.081
+  stft: 0.836
+  vuv: 9
+3546:
+  rmse: 0.135
+  stft: 0.877
+  vuv: 13
+3549:
+  rmse: 0.091
+  stft: 0.874
+  vuv: 7
+3551:
+  rmse: 0.082
+  stft: 0.838
+  vuv: 9
+3570:
+  rmse: 0.085
+  stft: 0.854
+  vuv: 9
+3575:
+  rmse: 0.083
+  stft: 0.933
+  vuv: 8
+3576:
+  rmse: 0.081
+  stft: 0.854
+  vuv: 8
+3584:
+  rmse: 0.098
+  stft: 0.863
+  vuv: 8
+3607:
+  rmse: 0.106
+  stft: 0.93
+  vuv: 8
+3615:
+  rmse: 0.077
+  stft: 0.944
+  vuv: 10
+3630:
+  rmse: 0.086
+  stft: 0.858
+  vuv: 7
+3638:
+  rmse: 0.089
+  stft: 1.058
+  vuv: 9
+3645:
+  rmse: 0.083
+  stft: 0.864
+  vuv: 9
+3654:
+  rmse: 0.117
+  stft: 0.821
+  vuv: 11
+3664:
+  rmse: 0.159
+  stft: 0.828
+  vuv: 6
+3686:
+  rmse: 0.144
+  stft: 0.842
+  vuv: 9
+3699:
+  rmse: 0.132
+  stft: 0.837
+  vuv: 11
+3703:
+  rmse: 0.093
+  stft: 0.948
+  vuv: 11
+3717:
+  rmse: 0.113
+  stft: 0.832
+  vuv: 14
+3723:
+  rmse: 0.131
+  stft: 0.865
+  vuv: 12
+3728:
+  rmse: 0.072
+  stft: 0.916
+  vuv: 8
+3729:
+  rmse: 0.078
+  stft: 1.057
+  vuv: 8
+3733:
+  rmse: 0.13
+  stft: 0.954
+  vuv: 11
+3738:
+  rmse: 0.086
+  stft: 1.005
+  vuv: 11
+3752:
+  rmse: 0.129
+  stft: 0.842
+  vuv: 11
+3781:
+  rmse: 0.08
+  stft: 0.921
+  vuv: 8
+3790:
+  rmse: 0.092
+  stft: 0.858
+  vuv: 9
+3792:
+  rmse: 0.111
+  stft: 0.846
+  vuv: 11
+3807:
+  rmse: 0.072
+  stft: 0.943
+  vuv: 9
+3816:
+  rmse: 0.093
+  stft: 0.859
+  vuv: 10
+3825:
+  rmse: 0.129
+  stft: 0.816
+  vuv: 8
+3830:
+  rmse: 0.139
+  stft: 0.88
+  vuv: 9
+3835:
+  rmse: 0.13
+  stft: 0.827
+  vuv: 11
+3851:
+  rmse: 0.178
+  stft: 0.892
+  vuv: 12
+3852:
+  rmse: 0.077
+  stft: 0.847
+  vuv: 8
+3853:
+  rmse: 0.089
+  stft: 0.886
+  vuv: 8
+3857:
+  rmse: 0.095
+  stft: 0.844
+  vuv: 13
+3864:
+  rmse: 0.094
+  stft: 0.834
+  vuv: 10
+3866:
+  rmse: 0.151
+  stft: 0.877
+  vuv: 12
+3869:
+  rmse: 0.121
+  stft: 0.882
+  vuv: 11
+3876:
+  rmse: 0.149
+  stft: 0.847
+  vuv: 9
+3879:
+  rmse: 0.083
+  stft: 0.89
+  vuv: 11
+3889:
+  rmse: 0.147
+  stft: 0.863
+  vuv: 12
+3905:
+  rmse: 0.079
+  stft: 0.916
+  vuv: 8
+3914:
+  rmse: 0.162
+  stft: 0.876
+  vuv: 13
+3922:
+  rmse: 0.07
+  stft: 0.922
+  vuv: 10
+3923:
+  rmse: 0.103
+  stft: 0.868
+  vuv: 11
+3927:
+  rmse: 0.122
+  stft: 0.837
+  vuv: 9
+3945:
+  rmse: 0.058
+  stft: 0.851
+  vuv: 9
+3947:
+  rmse: 0.1
+  stft: 0.976
+  vuv: 10
+3967:
+  rmse: 0.094
+  stft: 0.811
+  vuv: 8
+3972:
+  rmse: 0.076
+  stft: 0.84
+  vuv: 7
+3977:
+  rmse: 0.07
+  stft: 0.835
+  vuv: 8
+3979:
+  rmse: 0.092
+  stft: 0.872
+  vuv: 10
+3982:
+  rmse: 0.083
+  stft: 0.872
+  vuv: 10
+3983:
+  rmse: 0.101
+  stft: 0.855
+  vuv: 8
+3989:
+  rmse: 0.077
+  stft: 0.872
+  vuv: 7
+3994:
+  rmse: 0.094
+  stft: 0.835
+  vuv: 8
+4010:
+  rmse: 0.158
+  stft: 0.838
+  vuv: 11
+4013:
+  rmse: 0.127
+  stft: 0.851
+  vuv: 11
+4014:
+  rmse: 0.165
+  stft: 0.865
+  vuv: 9
+4018:
+  rmse: 0.107
+  stft: 0.814
+  vuv: 9
+4039:
+  rmse: 0.135
+  stft: 0.874
+  vuv: 13
+4044:
+  rmse: 0.1
+  stft: 0.914
+  vuv: 10
+4051:
+  rmse: 0.085
+  stft: 0.892
+  vuv: 10
+4054:
+  rmse: 0.125
+  stft: 0.822
+  vuv: 9
+4057:
+  rmse: 0.084
+  stft: 0.953
+  vuv: 9
+4064:
+  rmse: 0.182
+  stft: 0.869
+  vuv: 11
+4071:
+  rmse: 0.157
+  stft: 1.115
+  vuv: 19
+4077:
+  rmse: 0.161
+  stft: 0.852
+  vuv: 14
+4088:
+  rmse: 0.095
+  stft: 0.903
+  vuv: 9
+4098:
+  rmse: 0.084
+  stft: 0.909
+  vuv: 7
+4108:
+  rmse: 0.118
+  stft: 0.88
+  vuv: 11
+4110:
+  rmse: 0.168
+  stft: 0.819
+  vuv: 9
+4111:
+  rmse: 0.083
+  stft: 0.876
+  vuv: 8
+4116:
+  rmse: 0.093
+  stft: 0.955
+  vuv: 10
+4133:
+  rmse: 0.127
+  stft: 0.864
+  vuv: 9
+4137:
+  rmse: 0.091
+  stft: 0.889
+  vuv: 9
+4138:
+  rmse: 0.088
+  stft: 0.857
+  vuv: 7
+4145:
+  rmse: 0.089
+  stft: 0.896
+  vuv: 8
+4148:
+  rmse: 0.146
+  stft: 0.875
+  vuv: 10
+4152:
+  rmse: 0.115
+  stft: 0.769
+  vuv: 8
+4160:
+  rmse: 0.086
+  stft: 0.838
+  vuv: 6
+4195:
+  rmse: 0.085
+  stft: 0.902
+  vuv: 12
+4214:
+  rmse: 0.096
+  stft: 0.852
+  vuv: 6
+4222:
+  rmse: 0.076
+  stft: 0.847
+  vuv: 6
+4226:
+  rmse: 0.132
+  stft: 0.817
+  vuv: 9
+4236:
+  rmse: 0.145
+  stft: 0.887
+  vuv: 16
+4238:
+  rmse: 0.113
+  stft: 0.861
+  vuv: 10
+4243:
+  rmse: 0.164
+  stft: 0.841
+  vuv: 11
+4246:
+  rmse: 0.152
+  stft: 0.828
+  vuv: 12
+4257:
+  rmse: 0.152
+  stft: 0.878
+  vuv: 12
+4260:
+  rmse: 0.091
+  stft: 0.834
+  vuv: 9
+4267:
+  rmse: 0.154
+  stft: 0.864
+  vuv: 12
+4278:
+  rmse: 0.112
+  stft: 0.81
+  vuv: 8
+4289:
+  rmse: 0.084
+  stft: 0.841
+  vuv: 8
+4290:
+  rmse: 0.14
+  stft: 0.837
+  vuv: 10
+4297:
+  rmse: 0.096
+  stft: 0.901
+  vuv: 9
+4331:
+  rmse: 0.077
+  stft: 0.878
+  vuv: 8
+4335:
+  rmse: 0.137
+  stft: 0.845
+  vuv: 10
+4340:
+  rmse: 0.087
+  stft: 0.902
+  vuv: 10
+4356:
+  rmse: 0.074
+  stft: 0.913
+  vuv: 9
+4358:
+  rmse: 0.105
+  stft: 0.867
+  vuv: 11
+4362:
+  rmse: 0.076
+  stft: 0.872
+  vuv: 8
+4363:
+  rmse: 0.096
+  stft: 0.882
+  vuv: 13
+4381:
+  rmse: 0.074
+  stft: 0.878
+  vuv: 8
+4397:
+  rmse: 0.131
+  stft: 0.813
+  vuv: 10
+4406:
+  rmse: 0.087
+  stft: 0.829
+  vuv: 9
+4425:
+  rmse: 0.106
+  stft: 0.833
+  vuv: 11
+4427:
+  rmse: 0.176
+  stft: 0.883
+  vuv: 11
+4433:
+  rmse: 0.107
+  stft: 3.783
+  vuv: 7
+4434:
+  rmse: 0.089
+  stft: 0.847
+  vuv: 9
+4438:
+  rmse: 0.138
+  stft: 0.845
+  vuv: 13
+4441:
+  rmse: 0.115
+  stft: 0.888
+  vuv: 11
+4446:
+  rmse: 0.103
+  stft: 0.844
+  vuv: 9
+4481:
+  rmse: 0.08
+  stft: 0.895
+  vuv: 11
+4490:
+  rmse: 0.09
+  stft: 0.881
+  vuv: 9
+4495:
+  rmse: 0.159
+  stft: 0.898
+  vuv: 8
+4507:
+  rmse: 0.101
+  stft: 0.902
+  vuv: 11
+4519:
+  rmse: 0.107
+  stft: 0.877
+  vuv: 12
+4535:
+  rmse: 0.156
+  stft: 0.987
+  vuv: 14
+4586:
+  rmse: 0.13
+  stft: 0.923
+  vuv: 14
+4590:
+  rmse: 0.077
+  stft: 1.113
+  vuv: 18
+4592:
+  rmse: 0.179
+  stft: 1.024
+  vuv: 11
+4595:
+  rmse: 0.138
+  stft: 0.824
+  vuv: 8
+4598:
+  rmse: 0.085
+  stft: 0.859
+  vuv: 10
+4629:
+  rmse: 0.139
+  stft: 0.842
+  vuv: 13
+4640:
+  rmse: 0.077
+  stft: 0.903
+  vuv: 8
+4680:
+  rmse: 0.146
+  stft: 0.852
+  vuv: 11
+4681:
+  rmse: 0.135
+  stft: 0.999
+  vuv: 14
+4719:
+  rmse: 0.078
+  stft: 0.807
+  vuv: 6
+4731:
+  rmse: 0.075
+  stft: 0.888
+  vuv: 8
+4733:
+  rmse: 0.118
+  stft: 0.88
+  vuv: 11
+4734:
+  rmse: 0.167
+  stft: 0.822
+  vuv: 7
+4744:
+  rmse: 0.084
+  stft: 0.898
+  vuv: 10
+4788:
+  rmse: 0.133
+  stft: 0.813
+  vuv: 10
+4800:
+  rmse: 0.144
+  stft: 0.967
+  vuv: 11
+4806:
+  rmse: 0.142
+  stft: 0.838
+  vuv: 10
+4807:
+  rmse: 0.102
+  stft: 0.948
+  vuv: 9
+4813:
+  rmse: 0.173
+  stft: 0.809
+  vuv: 9
+4830:
+  rmse: 0.097
+  stft: 0.816
+  vuv: 10
+4837:
+  rmse: 0.089
+  stft: 0.872
+  vuv: 8
+4839:
+  rmse: 0.082
+  stft: 0.824
+  vuv: 7
+4846:
+  rmse: 0.085
+  stft: 1.285
+  vuv: 4
+4848:
+  rmse: 0.101
+  stft: 0.837
+  vuv: 9
+4853:
+  rmse: 0.092
+  stft: 0.881
+  vuv: 10
+4854:
+  rmse: 0.138
+  stft: 0.814
+  vuv: 11
+4856:
+  rmse: 0.146
+  stft: 0.846
+  vuv: 10
+4859:
+  rmse: 0.095
+  stft: 0.892
+  vuv: 9
+4860:
+  rmse: 0.094
+  stft: 0.83
+  vuv: 10
+4898:
+  rmse: 0.068
+  stft: 0.806
+  vuv: 9
+4899:
+  rmse: 0.08
+  stft: 0.877
+  vuv: 8
+4926:
+  rmse: 0.083
+  stft: 0.972
+  vuv: 6
+4945:
+  rmse: 0.136
+  stft: 0.816
+  vuv: 12
+4957:
+  rmse: 0.106
+  stft: 0.856
+  vuv: 10
+4967:
+  rmse: 0.096
+  stft: 0.867
+  vuv: 9
+4970:
+  rmse: 0.102
+  stft: 0.864
+  vuv: 9
+4973:
+  rmse: 0.116
+  stft: 0.824
+  vuv: 9
+4992:
+  rmse: 0.096
+  stft: 0.853
+  vuv: 7
+5002:
+  rmse: 0.119
+  stft: 0.872
+  vuv: 17
+5007:
+  rmse: 0.085
+  stft: 0.819
+  vuv: 9
+5012:
+  rmse: 0.073
+  stft: 0.927
+  vuv: 9
+5022:
+  rmse: 0.089
+  stft: 0.855
+  vuv: 8
+5029:
+  rmse: 0.099
+  stft: 1.207
+  vuv: 8
+5039:
+  rmse: 0.082
+  stft: 0.932
+  vuv: 8
+5049:
+  rmse: 0.058
+  stft: 0.944
+  vuv: 11
+5054:
+  rmse: 0.091
+  stft: 0.852
+  vuv: 8
+5062:
+  rmse: 0.087
+  stft: 0.89
+  vuv: 8
+5063:
+  rmse: 0.123
+  stft: 0.921
+  vuv: 9
+5092:
+  rmse: 0.154
+  stft: 0.83
+  vuv: 12
+5093:
+  rmse: 0.096
+  stft: 0.841
+  vuv: 8
+5104:
+  rmse: 0.114
+  stft: 0.893
+  vuv: 10
+5105:
+  rmse: 0.122
+  stft: 0.822
+  vuv: 10
+5115:
+  rmse: 0.101
+  stft: 0.866
+  vuv: 10
+5123:
+  rmse: 0.134
+  stft: 0.831
+  vuv: 10
+5126:
+  rmse: 0.113
+  stft: 0.851
+  vuv: 9
+5133:
+  rmse: 0.084
+  stft: 0.913
+  vuv: 11
+5139:
+  rmse: 0.065
+  stft: 0.889
+  vuv: 10
+5142:
+  rmse: 0.09
+  stft: 0.875
+  vuv: 7
+5147:
+  rmse: 0.118
+  stft: 0.831
+  vuv: 12
+5154:
+  rmse: 0.089
+  stft: 1.175
+  vuv: 8
+5157:
+  rmse: 0.125
+  stft: 0.836
+  vuv: 12
+5163:
+  rmse: 0.09
+  stft: 0.857
+  vuv: 7
+5186:
+  rmse: 0.135
+  stft: 0.832
+  vuv: 11
+5189:
+  rmse: 0.12
+  stft: 0.824
+  vuv: 11
+5190:
+  rmse: 0.128
+  stft: 0.837
+  vuv: 10
+5192:
+  rmse: 0.086
+  stft: 0.789
+  vuv: 10
+5206:
+  rmse: 0.157
+  stft: 0.817
+  vuv: 11
+5239:
+  rmse: 0.123
+  stft: 0.815
+  vuv: 8
+5242:
+  rmse: 0.113
+  stft: 0.839
+  vuv: 11
+5246:
+  rmse: 0.116
+  stft: 0.837
+  vuv: 11
+5261:
+  rmse: 0.113
+  stft: 0.856
+  vuv: 10
+5266:
+  rmse: 0.065
+  stft: 1.027
+  vuv: 10
+5290:
+  rmse: 0.157
+  stft: 0.972
+  vuv: 11
+5293:
+  rmse: 0.113
+  stft: 0.847
+  vuv: 12
+5304:
+  rmse: 0.115
+  stft: 0.898
+  vuv: 10
+5319:
+  rmse: 0.105
+  stft: 0.821
+  vuv: 11
+5322:
+  rmse: 0.135
+  stft: 0.815
+  vuv: 10
+5333:
+  rmse: 0.084
+  stft: 0.844
+  vuv: 10
+5337:
+  rmse: 0.084
+  stft: 0.851
+  vuv: 8
+5338:
+  rmse: 0.071
+  stft: 0.868
+  vuv: 8
+5339:
+  rmse: 0.084
+  stft: 0.847
+  vuv: 9
+5386:
+  rmse: 0.12
+  stft: 0.839
+  vuv: 11
+5389:
+  rmse: 0.067
+  stft: 0.851
+  vuv: 15
+5390:
+  rmse: 0.128
+  stft: 0.869
+  vuv: 10
+5393:
+  rmse: 0.138
+  stft: 0.876
+  vuv: 11
+5400:
+  rmse: 0.068
+  stft: 0.871
+  vuv: 8
+5401:
+  rmse: 0.169
+  stft: 0.853
+  vuv: 11
+5448:
+  rmse: 0.082
+  stft: 0.816
+  vuv: 13
+5456:
+  rmse: 0.106
+  stft: 0.802
+  vuv: 8
+5463:
+  rmse: 0.167
+  stft: 0.849
+  vuv: 10
+5489:
+  rmse: 0.088
+  stft: 0.848
+  vuv: 9
+5513:
+  rmse: 0.083
+  stft: 0.821
+  vuv: 10
+5514:
+  rmse: 0.083
+  stft: 0.947
+  vuv: 10
+5519:
+  rmse: 0.11
+  stft: 0.83
+  vuv: 9
+5536:
+  rmse: 0.098
+  stft: 0.83
+  vuv: 8
+5538:
+  rmse: 0.08
+  stft: 0.839
+  vuv: 8
+5561:
+  rmse: 0.112
+  stft: 0.806
+  vuv: 9
+5570:
+  rmse: 0.07
+  stft: 0.909
+  vuv: 8
+5583:
+  rmse: 0.105
+  stft: 0.914
+  vuv: 9
+5588:
+  rmse: 0.098
+  stft: 0.933
+  vuv: 11
+5604:
+  rmse: 0.081
+  stft: 0.853
+  vuv: 8
+5606:
+  rmse: 0.086
+  stft: 0.912
+  vuv: 9
+5618:
+  rmse: 0.083
+  stft: 0.89
+  vuv: 10
+5622:
+  rmse: 0.073
+  stft: 0.964
+  vuv: 7
+5635:
+  rmse: 0.13
+  stft: 0.881
+  vuv: 11
+5639:
+  rmse: 0.086
+  stft: 0.807
+  vuv: 9
+5652:
+  rmse: 0.061
+  stft: 0.918
+  vuv: 9
+5655:
+  rmse: 0.136
+  stft: 0.856
+  vuv: 9
+5656:
+  rmse: 0.116
+  stft: 0.824
+  vuv: 12
+5660:
+  rmse: 0.075
+  stft: 0.962
+  vuv: 8
+5672:
+  rmse: 0.138
+  stft: 0.81
+  vuv: 9
+5678:
+  rmse: 0.125
+  stft: 0.865
+  vuv: 11
+5683:
+  rmse: 0.067
+  stft: 0.931
+  vuv: 9
+5684:
+  rmse: 0.1
+  stft: 0.858
+  vuv: 8
+5688:
+  rmse: 0.019
+  stft: 1.003
+  vuv: 9
+5694:
+  rmse: 0.134
+  stft: 0.827
+  vuv: 9
+5703:
+  rmse: 0.11
+  stft: 0.872
+  vuv: 10
+5712:
+  rmse: 0.082
+  stft: 0.894
+  vuv: 8
+5717:
+  rmse: 0.166
+  stft: 0.828
+  vuv: 10
+5723:
+  rmse: 0.075
+  stft: 0.842
+  vuv: 10
+5724:
+  rmse: 0.074
+  stft: 1.073
+  vuv: 8
+5727:
+  rmse: 0.161
+  stft: 0.829
+  vuv: 11
+5731:
+  rmse: 0.08
+  stft: 0.918
+  vuv: 7
+5740:
+  rmse: 0.089
+  stft: 0.875
+  vuv: 8
+5746:
+  rmse: 0.126
+  stft: 0.821
+  vuv: 12
+5750:
+  rmse: 0.109
+  stft: 0.847
+  vuv: 11
+5767:
+  rmse: 0.097
+  stft: 0.84
+  vuv: 13
+5776:
+  rmse: 0.142
+  stft: 0.809
+  vuv: 12
+5778:
+  rmse: 0.073
+  stft: 0.857
+  vuv: 8
+5789:
+  rmse: 0.082
+  stft: 0.87
+  vuv: 9
+5802:
+  rmse: 0.119
+  stft: 0.837
+  vuv: 8
+5808:
+  rmse: 0.057
+  stft: 0.864
+  vuv: 14
+5809:
+  rmse: 0.083
+  stft: 0.876
+  vuv: 8
+5810:
+  rmse: 0.11
+  stft: 0.828
+  vuv: 11
+5867:
+  rmse: 0.126
+  stft: 0.845
+  vuv: 9
+5868:
+  rmse: 0.148
+  stft: 0.824
+  vuv: 11
+5876:
+  rmse: 0.081
+  stft: 0.878
+  vuv: 9
+5883:
+  rmse: 0.119
+  stft: 0.834
+  vuv: 9
+5895:
+  rmse: 0.08
+  stft: 0.887
+  vuv: 10
+5909:
+  rmse: 0.109
+  stft: 0.864
+  vuv: 11
+5914:
+  rmse: 0.135
+  stft: 0.818
+  vuv: 8
+5918:
+  rmse: 0.154
+  stft: 0.826
+  vuv: 10
+5935:
+  rmse: 0.129
+  stft: 0.86
+  vuv: 12
+5940:
+  rmse: 0.141
+  stft: 0.916
+  vuv: 14
+5968:
+  rmse: 0.086
+  stft: 0.83
+  vuv: 9
+5975:
+  rmse: 0.134
+  stft: 0.816
+  vuv: 9
+5984:
+  rmse: 0.078
+  stft: 0.88
+  vuv: 8
+5985:
+  rmse: 0.164
+  stft: 0.837
+  vuv: 10
+6000:
+  rmse: 0.061
+  stft: 0.925
+  vuv: 10
+6006:
+  rmse: 0.073
+  stft: 0.89
+  vuv: 8
+6014:
+  rmse: 0.121
+  stft: 0.821
+  vuv: 9
+6019:
+  rmse: 0.069
+  stft: 0.846
+  vuv: 10
+6032:
+  rmse: 0.089
+  stft: 0.856
+  vuv: 10
+6037:
+  rmse: 0.126
+  stft: 0.82
+  vuv: 15
+6038:
+  rmse: 0.084
+  stft: 0.834
+  vuv: 10
+6054:
+  rmse: 0.129
+  stft: 0.902
+  vuv: 10
+6060:
+  rmse: 0.148
+  stft: 0.852
+  vuv: 11
+6064:
+  rmse: 0.112
+  stft: 0.928
+  vuv: 10
+6075:
+  rmse: 0.118
+  stft: 0.883
+  vuv: 11
+6078:
+  rmse: 0.071
+  stft: 0.85
+  vuv: 8
+6080:
+  rmse: 0.124
+  stft: 0.82
+  vuv: 12
+6081:
+  rmse: 0.122
+  stft: 0.844
+  vuv: 10
+6082:
+  rmse: 0.086
+  stft: 0.846
+  vuv: 9
+6098:
+  rmse: 0.104
+  stft: 0.838
+  vuv: 10
+6099:
+  rmse: 0.102
+  stft: 0.853
+  vuv: 7
+6104:
+  rmse: 0.075
+  stft: 1.154
+  vuv: 9
+6115:
+  rmse: 0.063
+  stft: 0.827
+  vuv: 14
+6119:
+  rmse: 0.043
+  stft: 1.023
+  vuv: 19
+6120:
+  rmse: 0.085
+  stft: 0.87
+  vuv: 9
+6139:
+  rmse: 0.088
+  stft: 0.882
+  vuv: 10
+6147:
+  rmse: 0.085
+  stft: 1.316
+  vuv: 8
+6157:
+  rmse: 0.144
+  stft: 0.819
+  vuv: 12
+6160:
+  rmse: 0.085
+  stft: 0.907
+  vuv: 11
+6167:
+  rmse: 0.083
+  stft: 0.899
+  vuv: 10
+6181:
+  rmse: 0.124
+  stft: 0.848
+  vuv: 13
+6188:
+  rmse: 0.13
+  stft: 0.814
+  vuv: 9
+6189:
+  rmse: 0.092
+  stft: 0.924
+  vuv: 9
+6206:
+  rmse: 0.092
+  stft: 0.962
+  vuv: 12
+6209:
+  rmse: 0.128
+  stft: 0.856
+  vuv: 14
+6215:
+  rmse: 0.089
+  stft: 0.95
+  vuv: 8
+6233:
+  rmse: 0.133
+  stft: 0.883
+  vuv: 10
+6235:
+  rmse: 0.074
+  stft: 0.931
+  vuv: 10
+6241:
+  rmse: 0.079
+  stft: 0.83
+  vuv: 10
+6258:
+  rmse: 0.076
+  stft: 0.854
+  vuv: 8
+6269:
+  rmse: 0.056
+  stft: 0.875
+  vuv: 13
+6272:
+  rmse: 0.148
+  stft: 0.873
+  vuv: 9
+6286:
+  rmse: 0.153
+  stft: 0.874
+  vuv: 13
+6288:
+  rmse: 0.139
+  stft: 0.892
+  vuv: 10
+6294:
+  rmse: 0.132
+  stft: 0.803
+  vuv: 9
+6295:
+  rmse: 0.114
+  stft: 0.85
+  vuv: 13
+6300:
+  rmse: 0.086
+  stft: 0.84
+  vuv: 11
+6308:
+  rmse: 0.125
+  stft: 0.867
+  vuv: 12
+6313:
+  rmse: 0.141
+  stft: 1.934
+  vuv: 11
+6317:
+  rmse: 0.081
+  stft: 0.948
+  vuv: 8
+6319:
+  rmse: 0.148
+  stft: 0.867
+  vuv: 11
+6330:
+  rmse: 0.161
+  stft: 0.855
+  vuv: 10
+6339:
+  rmse: 0.091
+  stft: 0.931
+  vuv: 12
+6341:
+  rmse: 0.081
+  stft: 0.872
+  vuv: 9
+6345:
+  rmse: 0.09
+  stft: 0.899
+  vuv: 9
+6352:
+  rmse: 0.153
+  stft: 0.82
+  vuv: 9
+6359:
+  rmse: 0.13
+  stft: 0.827
+  vuv: 9
+6367:
+  rmse: 0.115
+  stft: 0.832
+  vuv: 10
+6371:
+  rmse: 0.095
+  stft: 0.901
+  vuv: 9
+6373:
+  rmse: 0.096
+  stft: 0.874
+  vuv: 9
+6378:
+  rmse: 0.099
+  stft: 0.848
+  vuv: 10
+6385:
+  rmse: 0.151
+  stft: 0.929
+  vuv: 10
+6388:
+  rmse: 0.079
+  stft: 1.012
+  vuv: 8
+6395:
+  rmse: 0.106
+  stft: 0.81
+  vuv: 9
+6406:
+  rmse: 0.093
+  stft: 1.19
+  vuv: 9
+6415:
+  rmse: 0.119
+  stft: 0.848
+  vuv: 9
+6426:
+  rmse: 0.082
+  stft: 0.836
+  vuv: 9
+6437:
+  rmse: 0.115
+  stft: 0.839
+  vuv: 10
+6446:
+  rmse: 0.108
+  stft: 0.802
+  vuv: 9
+6454:
+  rmse: 0.121
+  stft: 0.824
+  vuv: 11
+6458:
+  rmse: 0.072
+  stft: 0.842
+  vuv: 8
+6476:
+  rmse: 0.081
+  stft: 0.897
+  vuv: 7
+6492:
+  rmse: 0.059
+  stft: 0.804
+  vuv: 9
+6494:
+  rmse: 0.145
+  stft: 0.831
+  vuv: 11
+6497:
+  rmse: 0.107
+  stft: 0.841
+  vuv: 11
+6499:
+  rmse: 0.13
+  stft: 0.803
+  vuv: 7
+6505:
+  rmse: 0.08
+  stft: 0.915
+  vuv: 7
+6509:
+  rmse: 0.093
+  stft: 0.908
+  vuv: 9
+6510:
+  rmse: 0.095
+  stft: 0.852
+  vuv: 8
+6518:
+  rmse: 0.066
+  stft: 0.944
+  vuv: 10
+6519:
+  rmse: 0.113
+  stft: 1.027
+  vuv: 9
+6529:
+  rmse: 0.126
+  stft: 0.825
+  vuv: 10
+6531:
+  rmse: 0.083
+  stft: 0.82
+  vuv: 7
+6538:
+  rmse: 0.064
+  stft: 0.771
+  vuv: 7
+6544:
+  rmse: 0.084
+  stft: 0.928
+  vuv: 8
+6550:
+  rmse: 0.111
+  stft: 0.812
+  vuv: 8
+6553:
+  rmse: 0.095
+  stft: 0.83
+  vuv: 9
+6555:
+  rmse: 0.09
+  stft: 0.804
+  vuv: 8
+6563:
+  rmse: 0.128
+  stft: 0.821
+  vuv: 10
+6567:
+  rmse: 0.084
+  stft: 0.866
+  vuv: 8
+6574:
+  rmse: 0.077
+  stft: 0.828
+  vuv: 9
+6575:
+  rmse: 0.115
+  stft: 0.878
+  vuv: 10
+6620:
+  rmse: 0.089
+  stft: 0.882
+  vuv: 8
+6637:
+  rmse: 0.092
+  stft: 0.887
+  vuv: 8
+6643:
+  rmse: 0.102
+  stft: 0.875
+  vuv: 7
+6673:
+  rmse: 0.106
+  stft: 0.881
+  vuv: 10
+6683:
+  rmse: 0.096
+  stft: 0.898
+  vuv: 9
+6686:
+  rmse: 0.118
+  stft: 0.867
+  vuv: 10
+6690:
+  rmse: 0.103
+  stft: 0.858
+  vuv: 13
+6694:
+  rmse: 0.114
+  stft: 0.843
+  vuv: 11
+6696:
+  rmse: 0.087
+  stft: 0.853
+  vuv: 7
+6701:
+  rmse: 0.11
+  stft: 0.835
+  vuv: 12
+6727:
+  rmse: 0.149
+  stft: 0.838
+  vuv: 11
+6763:
+  rmse: 0.087
+  stft: 0.866
+  vuv: 8
+6782:
+  rmse: 0.117
+  stft: 0.843
+  vuv: 9
+6788:
+  rmse: 0.093
+  stft: 0.864
+  vuv: 8
+6818:
+  rmse: 0.082
+  stft: 0.84
+  vuv: 7
+6828:
+  rmse: 0.079
+  stft: 0.826
+  vuv: 7
+6829:
+  rmse: 0.096
+  stft: 0.894
+  vuv: 10
+6836:
+  rmse: 0.108
+  stft: 0.833
+  vuv: 10
+6848:
+  rmse: 0.122
+  stft: 0.827
+  vuv: 11
+6865:
+  rmse: 0.111
+  stft: 0.89
+  vuv: 11
+6877:
+  rmse: 0.076
+  stft: 0.828
+  vuv: 10
+6880:
+  rmse: 0.108
+  stft: 0.841
+  vuv: 11
+6895:
+  rmse: 0.108
+  stft: 0.834
+  vuv: 9
+6904:
+  rmse: 0.09
+  stft: 0.892
+  vuv: 9
+6918:
+  rmse: 0.083
+  stft: 0.87
+  vuv: 8
+6924:
+  rmse: 0.084
+  stft: 0.886
+  vuv: 8
+6925:
+  rmse: 0.137
+  stft: 0.869
+  vuv: 11
+6927:
+  rmse: 0.09
+  stft: 0.895
+  vuv: 9
+6930:
+  rmse: 0.084
+  stft: 1.054
+  vuv: 8
+6937:
+  rmse: 0.098
+  stft: 0.821
+  vuv: 9
+6956:
+  rmse: 0.094
+  stft: 0.872
+  vuv: 9
+6965:
+  rmse: 0.126
+  stft: 0.814
+  vuv: 9
+6981:
+  rmse: 0.133
+  stft: 0.832
+  vuv: 10
+6993:
+  rmse: 0.124
+  stft: 0.808
+  vuv: 10
+7000:
+  rmse: 0.107
+  stft: 0.888
+  vuv: 11
+7011:
+  rmse: 0.133
+  stft: 0.83
+  vuv: 11
+7021:
+  rmse: 0.123
+  stft: 0.881
+  vuv: 11
+7030:
+  rmse: 0.083
+  stft: 0.871
+  vuv: 11
+7051:
+  rmse: 0.122
+  stft: 0.823
+  vuv: 10
+7059:
+  rmse: 0.109
+  stft: 0.859
+  vuv: 10
+7061:
+  rmse: 0.116
+  stft: 0.844
+  vuv: 9
+7067:
+  rmse: 0.118
+  stft: 0.838
+  vuv: 9
+7069:
+  rmse: 0.082
+  stft: 0.855
+  vuv: 10
+7078:
+  rmse: 0.093
+  stft: 0.893
+  vuv: 10
+7085:
+  rmse: 0.084
+  stft: 0.858
+  vuv: 8
+7090:
+  rmse: 0.12
+  stft: 0.833
+  vuv: 12
+7095:
+  rmse: 0.115
+  stft: 0.805
+  vuv: 10
+7113:
+  rmse: 0.08
+  stft: 0.931
+  vuv: 10
+7117:
+  rmse: 0.069
+  stft: 0.851
+  vuv: 9
+7120:
+  rmse: 0.092
+  stft: 0.849
+  vuv: 8
+7126:
+  rmse: 0.082
+  stft: 0.843
+  vuv: 11
+7127:
+  rmse: 0.077
+  stft: 0.853
+  vuv: 11
+7128:
+  rmse: 0.112
+  stft: 0.835
+  vuv: 10
+7134:
+  rmse: 0.091
+  stft: 0.851
+  vuv: 12
+7139:
+  rmse: 0.119
+  stft: 0.872
+  vuv: 15
+7140:
+  rmse: 0.089
+  stft: 0.852
+  vuv: 8
+7145:
+  rmse: 0.082
+  stft: 0.926
+  vuv: 8
+7148:
+  rmse: 0.075
+  stft: 0.892
+  vuv: 13
+7169:
+  rmse: 0.074
+  stft: 0.851
+  vuv: 11
+7176:
+  rmse: 0.077
+  stft: 0.823
+  vuv: 11
+7178:
+  rmse: 0.105
+  stft: 0.902
+  vuv: 9
+7188:
+  rmse: 0.109
+  stft: 0.846
+  vuv: 11
+7190:
+  rmse: 0.102
+  stft: 0.86
+  vuv: 9
+7226:
+  rmse: 0.143
+  stft: 0.826
+  vuv: 10
+7229:
+  rmse: 0.108
+  stft: 0.901
+  vuv: 11
+7240:
+  rmse: 0.087
+  stft: 0.826
+  vuv: 7
+7241:
+  rmse: 0.085
+  stft: 0.85
+  vuv: 11
+7245:
+  rmse: 0.099
+  stft: 0.843
+  vuv: 9
+7247:
+  rmse: 0.087
+  stft: 0.797
+  vuv: 9
+7258:
+  rmse: 0.101
+  stft: 0.867
+  vuv: 12
+7264:
+  rmse: 0.09
+  stft: 0.819
+  vuv: 7
+7276:
+  rmse: 0.086
+  stft: 0.891
+  vuv: 9
+7278:
+  rmse: 0.087
+  stft: 0.851
+  vuv: 12
+7285:
+  rmse: 0.106
+  stft: 0.934
+  vuv: 10
+7286:
+  rmse: 0.086
+  stft: 0.856
+  vuv: 9
+7294:
+  rmse: 0.098
+  stft: 0.903
+  vuv: 9
+7297:
+  rmse: 0.094
+  stft: 1.016
+  vuv: 7
+7302:
+  rmse: 0.079
+  stft: 0.936
+  vuv: 9
+7312:
+  rmse: 0.1
+  stft: 0.814
+  vuv: 10
+7313:
+  rmse: 0.082
+  stft: 0.88
+  vuv: 12
+7314:
+  rmse: 0.076
+  stft: 0.816
+  vuv: 13
+7316:
+  rmse: 0.109
+  stft: 0.811
+  vuv: 8
+7318:
+  rmse: 0.1
+  stft: 0.848
+  vuv: 9
+7335:
+  rmse: 0.109
+  stft: 0.842
+  vuv: 7
+7339:
+  rmse: 0.129
+  stft: 0.979
+  vuv: 20
+7342:
+  rmse: 0.085
+  stft: 0.916
+  vuv: 12
+7367:
+  rmse: 0.073
+  stft: 0.872
+  vuv: 15
+7383:
+  rmse: 0.088
+  stft: 0.824
+  vuv: 7
+7384:
+  rmse: 0.097
+  stft: 0.823
+  vuv: 7
+7395:
+  rmse: 0.098
+  stft: 0.864
+  vuv: 9
+7398:
+  rmse: 0.101
+  stft: 0.895
+  vuv: 8
+7402:
+  rmse: 0.082
+  stft: 0.87
+  vuv: 10
+7416:
+  rmse: 0.094
+  stft: 0.894
+  vuv: 11
+7434:
+  rmse: 0.085
+  stft: 0.886
+  vuv: 8
+7437:
+  rmse: 0.137
+  stft: 0.878
+  vuv: 9
+7445:
+  rmse: 0.096
+  stft: 0.87
+  vuv: 8
+7447:
+  rmse: 0.071
+  stft: 0.855
+  vuv: 13
+7460:
+  rmse: 0.111
+  stft: 0.867
+  vuv: 13
+7475:
+  rmse: 0.114
+  stft: 0.846
+  vuv: 13
+7478:
+  rmse: 0.115
+  stft: 0.787
+  vuv: 8
+7481:
+  rmse: 0.117
+  stft: 0.865
+  vuv: 13
+7484:
+  rmse: 0.101
+  stft: 0.848
+  vuv: 11
+7495:
+  rmse: 0.065
+  stft: 0.87
+  vuv: 6
+7498:
+  rmse: 0.102
+  stft: 0.897
+  vuv: 8
+7505:
+  rmse: 0.092
+  stft: 0.853
+  vuv: 10
+7511:
+  rmse: 0.088
+  stft: 0.845
+  vuv: 8
+7515:
+  rmse: 0.091
+  stft: 0.896
+  vuv: 11
+7517:
+  rmse: 0.079
+  stft: 0.903
+  vuv: 10
+7518:
+  rmse: 0.143
+  stft: 0.969
+  vuv: 14
+7520:
+  rmse: 0.092
+  stft: 0.826
+  vuv: 9
+7525:
+  rmse: 0.081
+  stft: 0.875
+  vuv: 9
+7538:
+  rmse: 0.113
+  stft: 0.831
+  vuv: 9
+7540:
+  rmse: 0.069
+  stft: 0.878
+  vuv: 17
+7553:
+  rmse: 0.086
+  stft: 0.839
+  vuv: 11
+7555:
+  rmse: 0.097
+  stft: 0.875
+  vuv: 11
+7558:
+  rmse: 0.059
+  stft: 0.822
+  vuv: 7
+7569:
+  rmse: 0.121
+  stft: 0.831
+  vuv: 10
+7594:
+  rmse: 0.093
+  stft: 0.87
+  vuv: 8
+7635:
+  rmse: 0.089
+  stft: 0.798
+  vuv: 6
+7647:
+  rmse: 0.076
+  stft: 0.834
+  vuv: 10
+7657:
+  rmse: 0.083
+  stft: 0.872
+  vuv: 7
+7665:
+  rmse: 0.131
+  stft: 0.825
+  vuv: 11
+7688:
+  rmse: 0.115
+  stft: 0.858
+  vuv: 9
+7704:
+  rmse: 0.108
+  stft: 0.919
+  vuv: 12
+7705:
+  rmse: 0.101
+  stft: 0.838
+  vuv: 8
+7717:
+  rmse: 0.083
+  stft: 0.899
+  vuv: 10
+7720:
+  rmse: 0.119
+  stft: 0.817
+  vuv: 10
+7729:
+  rmse: 0.077
+  stft: 0.83
+  vuv: 15
+7730:
+  rmse: 0.078
+  stft: 0.897
+  vuv: 6
+7732:
+  rmse: 0.1
+  stft: 0.824
+  vuv: 9
+7733:
+  rmse: 0.08
+  stft: 0.878
+  vuv: 8
+7739:
+  rmse: 0.081
+  stft: 0.883
+  vuv: 8
+7752:
+  rmse: 0.077
+  stft: 0.878
+  vuv: 7
+7754:
+  rmse: 0.099
+  stft: 0.86
+  vuv: 8
+7766:
+  rmse: 0.094
+  stft: 0.901
+  vuv: 7
+7777:
+  rmse: 0.068
+  stft: 0.842
+  vuv: 14
+7780:
+  rmse: 0.08
+  stft: 0.885
+  vuv: 8
+7783:
+  rmse: 0.098
+  stft: 0.878
+  vuv: 9
+7789:
+  rmse: 0.094
+  stft: 0.875
+  vuv: 9
+7794:
+  rmse: 0.084
+  stft: 0.874
+  vuv: 9
+7800:
+  rmse: 0.088
+  stft: 0.883
+  vuv: 7
+7802:
+  rmse: 0.093
+  stft: 0.916
+  vuv: 11
+7809:
+  rmse: 0.069
+  stft: 0.852
+  vuv: 14
+7816:
+  rmse: 0.116
+  stft: 0.888
+  vuv: 9
+7825:
+  rmse: 0.108
+  stft: 0.824
+  vuv: 10
+7828:
+  rmse: 0.074
+  stft: 0.895
+  vuv: 13
+7832:
+  rmse: 0.119
+  stft: 0.826
+  vuv: 13
+7833:
+  rmse: 0.101
+  stft: 0.871
+  vuv: 17
+7837:
+  rmse: 0.111
+  stft: 0.887
+  vuv: 10
+7850:
+  rmse: 0.093
+  stft: 0.882
+  vuv: 10
+7859:
+  rmse: 0.083
+  stft: 0.857
+  vuv: 7
+7867:
+  rmse: 0.081
+  stft: 0.865
+  vuv: 13
+7868:
+  rmse: 0.073
+  stft: 0.875
+  vuv: 9
+7874:
+  rmse: 0.11
+  stft: 0.858
+  vuv: 11
+7881:
+  rmse: 0.124
+  stft: 0.846
+  vuv: 14
+7909:
+  rmse: 0.111
+  stft: 0.799
+  vuv: 10
+7910:
+  rmse: 0.077
+  stft: 0.889
+  vuv: 8
+7926:
+  rmse: 0.096
+  stft: 0.812
+  vuv: 11
+7932:
+  rmse: 0.08
+  stft: 0.942
+  vuv: 9
+7933:
+  rmse: 0.095
+  stft: 0.833
+  vuv: 11
+7938:
+  rmse: 0.079
+  stft: 0.865
+  vuv: 10
+7939:
+  rmse: 0.075
+  stft: 0.813
+  vuv: 12
+7945:
+  rmse: 0.097
+  stft: 0.856
+  vuv: 9
+7949:
+  rmse: 0.073
+  stft: 0.899
+  vuv: 17
+7956:
+  rmse: 0.09
+  stft: 0.849
+  vuv: 9
+7957:
+  rmse: 0.076
+  stft: 0.864
+  vuv: 8
+7959:
+  rmse: 0.109
+  stft: 0.899
+  vuv: 10
+7962:
+  rmse: 0.091
+  stft: 0.899
+  vuv: 9
+7967:
+  rmse: 0.109
+  stft: 0.932
+  vuv: 10
+7976:
+  rmse: 0.092
+  stft: 0.876
+  vuv: 9
+7981:
+  rmse: 0.078
+  stft: 0.811
+  vuv: 11
+7982:
+  rmse: 0.068
+  stft: 0.857
+  vuv: 9
+7991:
+  rmse: 0.125
+  stft: 0.798
+  vuv: 11
+7994:
+  rmse: 0.097
+  stft: 0.844
+  vuv: 9
+7995:
+  rmse: 0.101
+  stft: 0.915
+  vuv: 10
+8006:
+  rmse: 0.106
+  stft: 0.828
+  vuv: 11
+8008:
+  rmse: 0.084
+  stft: 0.833
+  vuv: 12
+8011:
+  rmse: 0.084
+  stft: 0.839
+  vuv: 11
+8014:
+  rmse: 0.078
+  stft: 0.926
+  vuv: 9
+8028:
+  rmse: 0.083
+  stft: 0.825
+  vuv: 12
+8050:
+  rmse: 0.077
+  stft: 0.894
+  vuv: 12
+8051:
+  rmse: 0.093
+  stft: 0.879
+  vuv: 7
+8057:
+  rmse: 0.087
+  stft: 0.869
+  vuv: 9
+8063:
+  rmse: 0.089
+  stft: 0.857
+  vuv: 12
+8066:
+  rmse: 0.138
+  stft: 0.852
+  vuv: 10
+8075:
+  rmse: 0.076
+  stft: 0.865
+  vuv: 8
+8080:
+  rmse: 0.089
+  stft: 0.906
+  vuv: 8
+8088:
+  rmse: 0.127
+  stft: 0.848
+  vuv: 10
+8095:
+  rmse: 0.092
+  stft: 0.823
+  vuv: 11
+8097:
+  rmse: 0.094
+  stft: 0.857
+  vuv: 10
+8098:
+  rmse: 0.069
+  stft: 0.819
+  vuv: 9
+8108:
+  rmse: 0.126
+  stft: 0.827
+  vuv: 11
+8113:
+  rmse: 0.083
+  stft: 0.921
+  vuv: 8
+8118:
+  rmse: 0.079
+  stft: 0.877
+  vuv: 9
+8119:
+  rmse: 0.124
+  stft: 0.827
+  vuv: 10
+8123:
+  rmse: 0.073
+  stft: 0.857
+  vuv: 8
+8138:
+  rmse: 0.07
+  stft: 0.852
+  vuv: 13
+8142:
+  rmse: 0.075
+  stft: 0.809
+  vuv: 11
+8152:
+  rmse: 0.106
+  stft: 0.822
+  vuv: 10
+8163:
+  rmse: 0.091
+  stft: 0.905
+  vuv: 9
+8176:
+  rmse: 0.121
+  stft: 0.86
+  vuv: 10
+8183:
+  rmse: 0.089
+  stft: 0.833
+  vuv: 7
+8190:
+  rmse: 0.096
+  stft: 0.883
+  vuv: 8
+8193:
+  rmse: 0.086
+  stft: 0.821
+  vuv: 9
+8194:
+  rmse: 0.088
+  stft: 0.896
+  vuv: 9
+8195:
+  rmse: 0.082
+  stft: 0.842
+  vuv: 9
+8222:
+  rmse: 0.103
+  stft: 0.828
+  vuv: 11
+8224:
+  rmse: 0.082
+  stft: 0.85
+  vuv: 13
+8225:
+  rmse: 0.055
+  stft: 0.813
+  vuv: 10
+8226:
+  rmse: 0.087
+  stft: 0.86
+  vuv: 9
+8228:
+  rmse: 0.075
+  stft: 0.887
+  vuv: 8
+8230:
+  rmse: 0.076
+  stft: 0.813
+  vuv: 12
+8238:
+  rmse: 0.073
+  stft: 0.859
+  vuv: 10
+8266:
+  rmse: 0.088
+  stft: 0.818
+  vuv: 8
+8297:
+  rmse: 0.082
+  stft: 0.877
+  vuv: 14
+8300:
+  rmse: 0.076
+  stft: 0.872
+  vuv: 9
+8312:
+  rmse: 0.083
+  stft: 0.93
+  vuv: 8
+8324:
+  rmse: 0.088
+  stft: 0.86
+  vuv: 9
+8329:
+  rmse: 0.091
+  stft: 0.882
+  vuv: 8
+8347:
+  rmse: 0.142
+  stft: 0.853
+  vuv: 12
+8388:
+  rmse: 0.082
+  stft: 0.834
+  vuv: 8
+8396:
+  rmse: 0.082
+  stft: 0.847
+  vuv: 7
+8401:
+  rmse: 0.087
+  stft: 0.845
+  vuv: 13
+8404:
+  rmse: 0.087
+  stft: 0.986
+  vuv: 10
+8410:
+  rmse: 0.156
+  stft: 0.951
+  vuv: 14
+8419:
+  rmse: 0.084
+  stft: 0.853
+  vuv: 10
+8421:
+  rmse: 0.114
+  stft: 1.144
+  vuv: 22
+8425:
+  rmse: 0.078
+  stft: 0.833
+  vuv: 8
+8455:
+  rmse: 0.101
+  stft: 0.901
+  vuv: 12
+8459:
+  rmse: 0.082
+  stft: 0.827
+  vuv: 9
+8463:
+  rmse: 0.083
+  stft: 0.821
+  vuv: 8
+8464:
+  rmse: 0.117
+  stft: 0.828
+  vuv: 9
+8465:
+  rmse: 0.074
+  stft: 0.874
+  vuv: 9
+8468:
+  rmse: 0.077
+  stft: 0.856
+  vuv: 7
+8474:
+  rmse: 0.117
+  stft: 0.82
+  vuv: 10
+8479:
+  rmse: 0.087
+  stft: 0.852
+  vuv: 10
+8490:
+  rmse: 0.068
+  stft: 0.915
+  vuv: 10
+8494:
+  rmse: 0.065
+  stft: 0.906
+  vuv: 15
+8498:
+  rmse: 0.112
+  stft: 0.882
+  vuv: 10
+8506:
+  rmse: 0.098
+  stft: 0.962
+  vuv: 9
+8527:
+  rmse: 0.082
+  stft: 0.818
+  vuv: 11
+8534:
+  rmse: 0.073
+  stft: 0.813
+  vuv: 8
+8545:
+  rmse: 0.087
+  stft: 0.907
+  vuv: 10
+8555:
+  rmse: 0.082
+  stft: 0.891
+  vuv: 7
+8573:
+  rmse: 0.092
+  stft: 0.874
+  vuv: 7
+8575:
+  rmse: 0.105
+  stft: 0.886
+  vuv: 8
+8580:
+  rmse: 0.093
+  stft: 0.845
+  vuv: 11
+8591:
+  rmse: 0.093
+  stft: 0.822
+  vuv: 9
+8592:
+  rmse: 0.073
+  stft: 0.818
+  vuv: 9
+8605:
+  rmse: 0.084
+  stft: 0.865
+  vuv: 9
+8609:
+  rmse: 0.088
+  stft: 1.229
+  vuv: 11
+8619:
+  rmse: 0.114
+  stft: 0.827
+  vuv: 10
+8629:
+  rmse: 0.123
+  stft: 0.857
+  vuv: 10
+8630:
+  rmse: 0.111
+  stft: 0.862
+  vuv: 11
+8635:
+  rmse: 0.072
+  stft: 0.8
+  vuv: 9
+8643:
+  rmse: 0.143
+  stft: 0.872
+  vuv: 10
+8677:
+  rmse: 0.101
+  stft: 0.879
+  vuv: 9
+8684:
+  rmse: 0.091
+  stft: 0.873
+  vuv: 9
+8687:
+  rmse: 0.092
+  stft: 0.866
+  vuv: 11
+8699:
+  rmse: 0.091
+  stft: 0.917
+  vuv: 10
+8705:
+  rmse: 0.075
+  stft: 0.81
+  vuv: 10
+8713:
+  rmse: 0.081
+  stft: 0.796
+  vuv: 9
+8718:
+  rmse: 0.117
+  stft: 0.891
+  vuv: 11
+8722:
+  rmse: 0.087
+  stft: 0.904
+  vuv: 10
+8725:
+  rmse: 0.119
+  stft: 0.81
+  vuv: 10
+8742:
+  rmse: 0.136
+  stft: 0.83
+  vuv: 10
+8747:
+  rmse: 0.147
+  stft: 0.841
+  vuv: 10
+8758:
+  rmse: 0.081
+  stft: 0.835
+  vuv: 11
+8770:
+  rmse: 0.066
+  stft: 0.808
+  vuv: 9
+8771:
+  rmse: 0.082
+  stft: 0.976
+  vuv: 7
+8772:
+  rmse: 0.125
+  stft: 0.799
+  vuv: 11
+8776:
+  rmse: 0.1
+  stft: 0.914
+  vuv: 8
+8786:
+  rmse: 0.08
+  stft: 0.798
+  vuv: 8
+8791:
+  rmse: 0.134
+  stft: 0.85
+  vuv: 12
+8797:
+  rmse: 0.125
+  stft: 0.857
+  vuv: 10
+8820:
+  rmse: 0.073
+  stft: 0.793
+  vuv: 8
+8824:
+  rmse: 0.075
+  stft: 0.844
+  vuv: 10
+8825:
+  rmse: 0.067
+  stft: 0.894
+  vuv: 8
+8838:
+  rmse: 0.074
+  stft: 0.818
+  vuv: 8
+8842:
+  rmse: 0.077
+  stft: 0.878
+  vuv: 10
+8848:
+  rmse: 0.06
+  stft: 0.884
+  vuv: 14
+8855:
+  rmse: 0.078
+  stft: 0.877
+  vuv: 12
+8875:
+  rmse: 0.111
+  stft: 0.826
+  vuv: 8
+8879:
+  rmse: 0.072
+  stft: 0.844
+  vuv: 12
+8887:
+  rmse: 0.069
+  stft: 0.852
+  vuv: 9
+8975:
+  rmse: 0.111
+  stft: 0.899
+  vuv: 10
+9022:
+  rmse: 0.1
+  stft: 0.857
+  vuv: 11
+9023:
+  rmse: 0.082
+  stft: 0.864
+  vuv: 8
+9026:
+  rmse: 0.096
+  stft: 0.91
+  vuv: 9
